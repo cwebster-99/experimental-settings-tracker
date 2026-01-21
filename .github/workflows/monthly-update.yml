@@ -1,0 +1,35 @@
+name: Monthly Experimental Settings Update
+
+on:
+  # Run at 9am UTC on the 1st of every month
+  schedule:
+    - cron: '0 9 1 * *'
+  
+  # Allow manual trigger
+  workflow_dispatch:
+
+jobs:
+  update-and-notify:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Run analysis pipeline
+        run: node scripts/run.js
+      
+      - name: Commit updated tracking data and report
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add experimental-settings.json tracking-report.json found-settings.json reports/
+          git diff --staged --quiet || git commit -m "chore: monthly experimental settings update [skip ci]"
+          git push

@@ -1,0 +1,13 @@
+{
+  "generatedAt": "2026-01-21T23:07:55.028Z",
+  "searchPeriod": {
+    "since": "2025-10-23",
+    "daysBack": 90
+  },
+  "summary": {
+    "total": 0,
+    "new": 0,
+    "alreadyTracked": 0
+  },
+  "settings": []
+}

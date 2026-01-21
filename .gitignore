@@ -1,0 +1,23 @@
+# Cloned repositories (run `npm run setup` to clone)
+vscode/
+vscode-copilot-chat/
+
+# Node modules
+node_modules/
+
+# Generated data files (created fresh each run)
+# Uncomment these if you don't want to track historical data:
+# found-settings.json
+# tracking-report.json
+# experimental-settings.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.idea/
+.vscode/
+.vscode-copilot-chat/
+*.swp
+*.swo

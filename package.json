@@ -1,0 +1,29 @@
+{
+  "name": "vscode-experimental-tracker",
+  "version": "1.0.0",
+  "description": "Monthly tracker for experimental settings in VS Code repository",
+  "type": "module",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "scripts": {
+    "start": "node scripts/run.js",
+    "setup": "node scripts/setup.js",
+    "analyze": "node scripts/analyze-experimental.js",
+    "analyze:fast": "SKIP_GIT_LOOKUP=true node scripts/analyze-experimental.js",
+    "get-owners": "node scripts/get-owners.js",
+    "update-tracking": "node scripts/update-tracking.js",
+    "generate-report": "node scripts/generate-report.js",
+    "generate-table": "node scripts/generate-table.js",
+    "find-recent": "node scripts/find-recent-settings.js",
+    "find-recent:week": "DAYS_BACK=7 node scripts/find-recent-settings.js",
+    "find-recent:month": "DAYS_BACK=30 node scripts/find-recent-settings.js"
+  },
+  "keywords": [
+    "vscode",
+    "experimental",
+    "monitoring",
+    "markdown"
+  ],
+  "license": "MIT"
+}
