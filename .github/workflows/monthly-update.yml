@@ -30,6 +30,6 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add experimental-settings.json tracking-report.json found-settings.json reports/
+          git add experimental-settings.json tracking-report.json found-settings.json recent-settings.json reports/ all-settings.md
           git diff --staged --quiet || git commit -m "chore: monthly experimental settings update [skip ci]"
           git push

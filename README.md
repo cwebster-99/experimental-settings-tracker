@@ -1,6 +1,10 @@
 # VS Code Experimental Settings Tracker
 
-A GitHub Actions bot that monitors experimental settings in VS Code and Copilot Chat repositories, generating monthly markdown reports for settings introduced in the last 28 days.
+A tool that monitors experimental settings in VS Code and Copilot Chat repositories, generating markdown reports for settings introduced in the last 28 days.
+
+## Latest Report
+
+📊 **[View Latest Report (2026-01-21)](reports/report-2026-01-21.md)** - 131 experimental settings tracked
 
 ## Features
 
@@ -31,43 +35,35 @@ npm start
 
 The report will be generated in the `reports/` folder as `report-YYYY-MM-DD.md`.
 
-## GitHub Actions Setup
+## GitHub Actions
 
-### 1. Fork or Clone This Repository
+The workflow at `.github/workflows/monthly-update.yml` runs automatically:
 
-Push this code to your own GitHub repository.
+- **Schedule**: 9 AM UTC on the 1st of every month
+- **Manual**: Trigger anytime via Actions tab → "Run workflow"
 
-### 2. Run the Workflow
-
-1. Go to **Actions** tab in your repository
-2. Select **Monthly Experimental Settings Update** workflow
-3. Click **Run workflow** → **Run workflow**
-4. The workflow will generate a report and commit it to the `reports/` folder
-
-## Workflow Schedule
-
-The workflow runs automatically at **9 AM UTC on the 1st of every month**.
-
-You can also trigger it manually anytime via the Actions tab.
+The workflow clones the VS Code repos, runs the analysis, and commits updated reports.
 
 ## File Structure
 
 ```
-├── .github/
-│   └── workflows/
-│       └── monthly-update.yml        # GitHub Actions workflow
 ├── scripts/
 │   ├── analyze-experimental.js       # Scans VS Code for experimental settings
+│   ├── find-recent-settings.js       # Finds settings from the last 28 days
+│   ├── generate-report.js            # Generates dated markdown report
+│   ├── generate-table.js             # Generates markdown tables
 │   ├── get-owners.js                 # Gets git blame info for each setting
-│   ├── update-tracking.js            # Updates run counts and tracking data
-│   └── generate-report.js            # Generates dated markdown report
+│   ├── git-history.js                # Git history utilities
+│   ├── run.js                        # Main pipeline runner
+│   ├── setup.js                      # Clones/updates VS Code repositories
+│   └── update-tracking.js            # Updates run counts and tracking data
 ├── reports/
 │   └── report-YYYY-MM-DD.md          # Generated reports (dated)
 ├── experimental-settings.json        # Tracking data (committed to repo)
 ├── tracking-report.json              # Latest run report
 ├── found-settings.json               # Current scan results
+├── recent-settings.json              # Recent settings from last 28 days
 ├── package.json
-├── .gitignore
 └── README.md
 ```
 
@@ -133,8 +129,10 @@ Example report snippet:
 | `npm run setup` | Clone/update VS Code repositories |
 | `npm run analyze` | Scan repos for experimental settings |
 | `npm run get-owners` | Get git blame info for each setting |
+| `npm run find-recent` | Find settings from the last 28 days |
 | `npm run update-tracking` | Update historical tracking data |
 | `npm run generate-report` | Generate the dated markdown report |
+| `npm run generate-table` | Generate markdown tables |
 
 ## License
 
