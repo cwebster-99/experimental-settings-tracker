@@ -1,162 +1,160 @@
 {
-  "timestamp": "2026-01-21T23:07:32.824Z",
-  "count": 131,
+  "timestamp": "2026-01-22T00:15:09.808Z",
+  "count": 132,
   "settings": [
     {
       "name": "chat.agent.thinking.collapsedTools",
-      "file": "[VS Code] src\\vs\\workbench\\contrib\\chat\\browser\\chat.contribution.ts",
-      "line": 794,
+      "file": "[VS Code] src/vs/workbench/contrib/chat/browser/chat.contribution.ts",
+      "line": 880,
       "area": "chat.agent",
       "default": "'always'",
       "tags": [
         "experimental"
       ],
       "repoPath": "./vscode",
-      "repoFile": "src\\vs\\workbench\\contrib\\chat\\browser\\chat.contribution.ts",
+      "repoFile": "src/vs/workbench/contrib/chat/browser/chat.contribution.ts",
       "repoName": "VS Code",
-      "addedDate": "2026-01-08",
-      "addedCommit": "e785475",
+      "addedDate": "2025-10-26",
+      "addedCommit": "bcb34d6",
       "addedBy": {
-        "name": "Daniel Imms",
-        "email": "2193314+Tyriar@users.noreply.github.com"
+        "name": "Justin Chen",
+        "email": "54879025+justschen@users.noreply.github.com"
+      },
+      "owner": {
+        "name": "Justin Chen",
+        "email": "54879025+justschen@users.noreply.github.com",
+        "date": "2025-10-26",
+        "commit": "bcb34d6"
       }
     },
     {
       "name": "chat.allowAnonymousAccess",
-      "file": "[VS Code] src\\vs\\workbench\\contrib\\chat\\browser\\chat.contribution.ts",
-      "line": 812,
+      "file": "[VS Code] src/vs/workbench/contrib/chat/browser/chat.contribution.ts",
+      "line": 904,
       "area": "chat.allowAnonymousAccess",
       "default": "false",
       "tags": [
         "experimental"
       ],
       "repoPath": "./vscode",
-      "repoFile": "src\\vs\\workbench\\contrib\\chat\\browser\\chat.contribution.ts",
+      "repoFile": "src/vs/workbench/contrib/chat/browser/chat.contribution.ts",
       "repoName": "VS Code",
-      "addedDate": "2026-01-08",
-      "addedCommit": "e785475",
+      "addedDate": "2025-09-09",
+      "addedCommit": "8a48ecc",
       "addedBy": {
-        "name": "Daniel Imms",
-        "email": "2193314+Tyriar@users.noreply.github.com"
+        "name": "Benjamin Pasero",
+        "email": "benjamin.pasero@gmail.com"
+      },
+      "owner": {
+        "name": "Benjamin Pasero",
+        "email": "benjamin.pasero@gmail.com",
+        "date": "2025-09-09",
+        "commit": "8a48ecc"
       }
     },
     {
       "name": "chat.extensionUnification.enabled",
-      "file": "[VS Code] src\\vs\\workbench\\contrib\\chat\\browser\\chat.contribution.ts",
-      "line": 832,
+      "file": "[VS Code] src/vs/workbench/contrib/chat/browser/chat.contribution.ts",
+      "line": 924,
       "area": "chat.extensionUnification",
       "default": "true",
       "tags": [
         "experimental"
       ],
       "repoPath": "./vscode",
-      "repoFile": "src\\vs\\workbench\\contrib\\chat\\browser\\chat.contribution.ts",
+      "repoFile": "src/vs/workbench/contrib/chat/browser/chat.contribution.ts",
       "repoName": "VS Code",
-      "addedDate": "2026-01-08",
-      "addedCommit": "e785475",
+      "addedDate": "2025-10-30",
+      "addedCommit": "f999025",
       "addedBy": {
-        "name": "Daniel Imms",
-        "email": "2193314+Tyriar@users.noreply.github.com"
+        "name": "Benjamin Christopher Simmonds",
+        "email": "44439583+benibenj@users.noreply.github.com"
+      },
+      "owner": {
+        "name": "Benjamin Christopher Simmonds",
+        "email": "44439583+benibenj@users.noreply.github.com",
+        "date": "2025-10-30",
+        "commit": "f999025"
       }
     },
     {
       "name": "chat.sendElementsToChat.attachCSS",
-      "file": "[VS Code] src\\vs\\workbench\\contrib\\chat\\browser\\chat.contribution.ts",
-      "line": 343,
+      "file": "[VS Code] src/vs/workbench/contrib/chat/browser/chat.contribution.ts",
+      "line": 375,
       "area": "chat.sendElementsToChat",
       "default": "true",
       "tags": [
         "preview"
       ],
       "repoPath": "./vscode",
-      "repoFile": "src\\vs\\workbench\\contrib\\chat\\browser\\chat.contribution.ts",
+      "repoFile": "src/vs/workbench/contrib/chat/browser/chat.contribution.ts",
       "repoName": "VS Code",
-      "addedDate": "2026-01-08",
-      "addedCommit": "e785475",
+      "addedDate": "2025-04-29",
+      "addedCommit": "16c5222",
       "addedBy": {
-        "name": "Daniel Imms",
-        "email": "2193314+Tyriar@users.noreply.github.com"
+        "name": "Justin Chen",
+        "email": "54879025+justschen@users.noreply.github.com"
+      },
+      "owner": {
+        "name": "Justin Chen",
+        "email": "54879025+justschen@users.noreply.github.com",
+        "date": "2025-04-29",
+        "commit": "16c5222"
       }
     },
     {
       "name": "chat.sendElementsToChat.attachImages",
-      "file": "[VS Code] src\\vs\\workbench\\contrib\\chat\\browser\\chat.contribution.ts",
-      "line": 349,
+      "file": "[VS Code] src/vs/workbench/contrib/chat/browser/chat.contribution.ts",
+      "line": 381,
       "area": "chat.sendElementsToChat",
       "default": "true",
       "tags": [
         "experimental"
       ],
       "repoPath": "./vscode",
-      "repoFile": "src\\vs\\workbench\\contrib\\chat\\browser\\chat.contribution.ts",
+      "repoFile": "src/vs/workbench/contrib/chat/browser/chat.contribution.ts",
       "repoName": "VS Code",
-      "addedDate": "2026-01-08",
-      "addedCommit": "e785475",
+      "addedDate": "2025-04-27",
+      "addedCommit": "e537209",
       "addedBy": {
-        "name": "Daniel Imms",
-        "email": "2193314+Tyriar@users.noreply.github.com"
+        "name": "Justin Chen",
+        "email": "54879025+justschen@users.noreply.github.com"
+      },
+      "owner": {
+        "name": "Justin Chen",
+        "email": "54879025+justschen@users.noreply.github.com",
+        "date": "2025-04-28",
+        "commit": "e537209"
       }
     },
     {
       "name": "chat.sendElementsToChat.enabled",
-      "file": "[VS Code] src\\vs\\workbench\\contrib\\chat\\browser\\chat.contribution.ts",
-      "line": 337,
+      "file": "[VS Code] src/vs/workbench/contrib/chat/browser/chat.contribution.ts",
+      "line": 369,
       "area": "chat.sendElementsToChat",
       "default": "true",
       "tags": [
         "preview"
       ],
       "repoPath": "./vscode",
-      "repoFile": "src\\vs\\workbench\\contrib\\chat\\browser\\chat.contribution.ts",
+      "repoFile": "src/vs/workbench/contrib/chat/browser/chat.contribution.ts",
       "repoName": "VS Code",
-      "addedDate": "2026-01-08",
-      "addedCommit": "e785475",
+      "addedDate": "2025-04-25",
+      "addedCommit": "2e9df5d",
       "addedBy": {
-        "name": "Daniel Imms",
-        "email": "2193314+Tyriar@users.noreply.github.com"
-      }
-    },
-    {
-      "name": "chat.todoListTool.descriptionField",
-      "file": "[VS Code] src\\vs\\workbench\\contrib\\chat\\browser\\chat.contribution.ts",
-      "line": 767,
-      "area": "chat.todoListTool",
-      "default": "true",
-      "tags": [
-        "experimental"
-      ],
-      "repoPath": "./vscode",
-      "repoFile": "src\\vs\\workbench\\contrib\\chat\\browser\\chat.contribution.ts",
-      "repoName": "VS Code",
-      "addedDate": "2026-01-08",
-      "addedCommit": "e785475",
-      "addedBy": {
-        "name": "Daniel Imms",
-        "email": "2193314+Tyriar@users.noreply.github.com"
-      }
-    },
-    {
-      "name": "chat.todoListTool.writeOnly",
-      "file": "[VS Code] src\\vs\\workbench\\contrib\\chat\\browser\\chat.contribution.ts",
-      "line": 758,
-      "area": "chat.todoListTool",
-      "default": "false",
-      "tags": [
-        "experimental"
-      ],
-      "repoPath": "./vscode",
-      "repoFile": "src\\vs\\workbench\\contrib\\chat\\browser\\chat.contribution.ts",
-      "repoName": "VS Code",
-      "addedDate": "2026-01-08",
-      "addedCommit": "e785475",
-      "addedBy": {
-        "name": "Daniel Imms",
-        "email": "2193314+Tyriar@users.noreply.github.com"
+        "name": "Justin Chen",
+        "email": "54879025+justschen@users.noreply.github.com"
+      },
+      "owner": {
+        "name": "Justin Chen",
+        "email": "54879025+justschen@users.noreply.github.com",
+        "date": "2025-04-25",
+        "commit": "2e9df5d"
       }
     },
     {
       "name": "editor.experimental.asyncTokenization",
-      "file": "[VS Code] src\\vs\\editor\\common\\config\\editorConfigurationSchema.ts",
+      "file": "[VS Code] src/vs/editor/common/config/editorConfigurationSchema.ts",
       "line": 99,
       "area": "editor.experimental",
       "default": "true",
@@ -164,18 +162,24 @@
         "experimental"
       ],
       "repoPath": "./vscode",
-      "repoFile": "src\\vs\\editor\\common\\config\\editorConfigurationSchema.ts",
+      "repoFile": "src/vs/editor/common/config/editorConfigurationSchema.ts",
       "repoName": "VS Code",
-      "addedDate": "2026-01-08",
-      "addedCommit": "e785475",
+      "addedDate": "2023-02-15",
+      "addedCommit": "3c3902c",
       "addedBy": {
-        "name": "Daniel Imms",
-        "email": "2193314+Tyriar@users.noreply.github.com"
+        "name": "Henning Dieterichs",
+        "email": "hdieterichs@microsoft.com"
+      },
+      "owner": {
+        "name": "Henning Dieterichs",
+        "email": "hdieterichs@microsoft.com",
+        "date": "2023-02-15",
+        "commit": "3c3902c"
       }
     },
     {
       "name": "editor.experimental.asyncTokenizationVerification",
-      "file": "[VS Code] src\\vs\\editor\\common\\config\\editorConfigurationSchema.ts",
+      "file": "[VS Code] src/vs/editor/common/config/editorConfigurationSchema.ts",
       "line": 110,
       "area": "editor.experimental",
       "default": "false",
@@ -183,18 +187,24 @@
         "experimental"
       ],
       "repoPath": "./vscode",
-      "repoFile": "src\\vs\\editor\\common\\config\\editorConfigurationSchema.ts",
+      "repoFile": "src/vs/editor/common/config/editorConfigurationSchema.ts",
       "repoName": "VS Code",
-      "addedDate": "2026-01-08",
-      "addedCommit": "e785475",
+      "addedDate": "2023-04-04",
+      "addedCommit": "b22c1ee",
       "addedBy": {
-        "name": "Daniel Imms",
-        "email": "2193314+Tyriar@users.noreply.github.com"
+        "name": "Henning Dieterichs",
+        "email": "hdieterichs@microsoft.com"
+      },
+      "owner": {
+        "name": "Henning Dieterichs",
+        "email": "hdieterichs@microsoft.com",
+        "date": "2023-04-04",
+        "commit": "b22c1ee"
       }
     },
     {
       "name": "editor.experimental.preferTreeSitter.css",
-      "file": "[VS Code] src\\vs\\editor\\common\\config\\editorConfigurationSchema.ts",
+      "file": "[VS Code] src/vs/editor/common/config/editorConfigurationSchema.ts",
       "line": 125,
       "area": "editor.experimental",
       "default": "false",
@@ -202,18 +212,24 @@
         "experimental"
       ],
       "repoPath": "./vscode",
-      "repoFile": "src\\vs\\editor\\common\\config\\editorConfigurationSchema.ts",
+      "repoFile": "src/vs/editor/common/config/editorConfigurationSchema.ts",
       "repoName": "VS Code",
-      "addedDate": "2026-01-08",
-      "addedCommit": "e785475",
+      "addedDate": "2025-03-19",
+      "addedCommit": "c14e7b4",
       "addedBy": {
-        "name": "Daniel Imms",
-        "email": "2193314+Tyriar@users.noreply.github.com"
+        "name": "Alex Ross",
+        "email": "38270282+alexr00@users.noreply.github.com"
+      },
+      "owner": {
+        "name": "Alex Ross",
+        "email": "38270282+alexr00@users.noreply.github.com",
+        "date": "2025-03-20",
+        "commit": "7249efc"
       }
     },
     {
       "name": "editor.experimental.preferTreeSitter.ini",
-      "file": "[VS Code] src\\vs\\editor\\common\\config\\editorConfigurationSchema.ts",
+      "file": "[VS Code] src/vs/editor/common/config/editorConfigurationSchema.ts",
       "line": 143,
       "area": "editor.experimental",
       "default": "false",
@@ -221,18 +237,24 @@
         "experimental"
       ],
       "repoPath": "./vscode",
-      "repoFile": "src\\vs\\editor\\common\\config\\editorConfigurationSchema.ts",
+      "repoFile": "src/vs/editor/common/config/editorConfigurationSchema.ts",
       "repoName": "VS Code",
-      "addedDate": "2026-01-08",
-      "addedCommit": "e785475",
+      "addedDate": "2025-02-13",
+      "addedCommit": "44e499e",
       "addedBy": {
-        "name": "Daniel Imms",
-        "email": "2193314+Tyriar@users.noreply.github.com"
+        "name": "Alex Ross",
+        "email": "38270282+alexr00@users.noreply.github.com"
+      },
+      "owner": {
+        "name": "Alex Ross",
+        "email": "38270282+alexr00@users.noreply.github.com",
+        "date": "2025-02-13",
+        "commit": "44e499e"
       }
     },
     {
       "name": "editor.experimental.preferTreeSitter.regex",
-      "file": "[VS Code] src\\vs\\editor\\common\\config\\editorConfigurationSchema.ts",
+      "file": "[VS Code] src/vs/editor/common/config/editorConfigurationSchema.ts",
       "line": 152,
       "area": "editor.experimental",
       "default": "false",
@@ -240,18 +262,24 @@
         "experimental"
       ],
       "repoPath": "./vscode",
-      "repoFile": "src\\vs\\editor\\common\\config\\editorConfigurationSchema.ts",
+      "repoFile": "src/vs/editor/common/config/editorConfigurationSchema.ts",
       "repoName": "VS Code",
-      "addedDate": "2026-01-08",
-      "addedCommit": "e785475",
+      "addedDate": "2025-03-18",
+      "addedCommit": "4c3518e",
       "addedBy": {
-        "name": "Daniel Imms",
-        "email": "2193314+Tyriar@users.noreply.github.com"
+        "name": "Alex Ross",
+        "email": "38270282+alexr00@users.noreply.github.com"
+      },
+      "owner": {
+        "name": "Alex Ross",
+        "email": "38270282+alexr00@users.noreply.github.com",
+        "date": "2025-03-18",
+        "commit": "4c3518e"
       }
     },
     {
       "name": "editor.experimental.preferTreeSitter.typescript",
-      "file": "[VS Code] src\\vs\\editor\\common\\config\\editorConfigurationSchema.ts",
+      "file": "[VS Code] src/vs/editor/common/config/editorConfigurationSchema.ts",
       "line": 134,
       "area": "editor.experimental",
       "default": "false",
@@ -259,18 +287,24 @@
         "experimental"
       ],
       "repoPath": "./vscode",
-      "repoFile": "src\\vs\\editor\\common\\config\\editorConfigurationSchema.ts",
+      "repoFile": "src/vs/editor/common/config/editorConfigurationSchema.ts",
       "repoName": "VS Code",
-      "addedDate": "2026-01-08",
-      "addedCommit": "e785475",
+      "addedDate": "2025-02-13",
+      "addedCommit": "44e499e",
       "addedBy": {
-        "name": "Daniel Imms",
-        "email": "2193314+Tyriar@users.noreply.github.com"
+        "name": "Alex Ross",
+        "email": "38270282+alexr00@users.noreply.github.com"
+      },
+      "owner": {
+        "name": "Alex Ross",
+        "email": "38270282+alexr00@users.noreply.github.com",
+        "date": "2025-02-13",
+        "commit": "44e499e"
       }
     },
     {
       "name": "editor.experimental.treeSitterTelemetry",
-      "file": "[VS Code] src\\vs\\editor\\common\\config\\editorConfigurationSchema.ts",
+      "file": "[VS Code] src/vs/editor/common/config/editorConfigurationSchema.ts",
       "line": 116,
       "area": "editor.experimental",
       "default": "false",
@@ -278,18 +312,24 @@
         "experimental"
       ],
       "repoPath": "./vscode",
-      "repoFile": "src\\vs\\editor\\common\\config\\editorConfigurationSchema.ts",
+      "repoFile": "src/vs/editor/common/config/editorConfigurationSchema.ts",
       "repoName": "VS Code",
-      "addedDate": "2026-01-08",
-      "addedCommit": "e785475",
+      "addedDate": "2024-08-07",
+      "addedCommit": "4b4cf77",
       "addedBy": {
-        "name": "Daniel Imms",
-        "email": "2193314+Tyriar@users.noreply.github.com"
+        "name": "Alex Ross",
+        "email": "alros@microsoft.com"
+      },
+      "owner": {
+        "name": "Alex Ross",
+        "email": "alros@microsoft.com",
+        "date": "2024-08-07",
+        "commit": "4b4cf77"
       }
     },
     {
       "name": "editor.inlineSuggest.edits.showLongDistanceHint",
-      "file": "[VS Code] src\\vs\\editor\\common\\config\\editorOptions.ts",
+      "file": "[VS Code] src/vs/editor/common/config/editorOptions.ts",
       "line": 4605,
       "area": "editor.inlineSuggest",
       "default": "defaults.edits.showLongDistanceHint",
@@ -298,18 +338,24 @@
         "experimental"
       ],
       "repoPath": "./vscode",
-      "repoFile": "src\\vs\\editor\\common\\config\\editorOptions.ts",
+      "repoFile": "src/vs/editor/common/config/editorOptions.ts",
       "repoName": "VS Code",
-      "addedDate": "2026-01-08",
-      "addedCommit": "e785475",
+      "addedDate": "2025-11-12",
+      "addedCommit": "771bfcf",
       "addedBy": {
-        "name": "Daniel Imms",
-        "email": "2193314+Tyriar@users.noreply.github.com"
+        "name": "Henning Dieterichs",
+        "email": "hdieterichs@microsoft.com"
+      },
+      "owner": {
+        "name": "Henning Dieterichs",
+        "email": "hdieterichs@microsoft.com",
+        "date": "2025-11-12",
+        "commit": "771bfcf"
       }
     },
     {
       "name": "editor.inlineSuggest.experimental.emptyResponseInformation",
-      "file": "[VS Code] src\\vs\\editor\\common\\config\\editorOptions.ts",
+      "file": "[VS Code] src/vs/editor/common/config/editorOptions.ts",
       "line": 4565,
       "area": "editor.inlineSuggest",
       "default": "defaults.experimental.emptyResponseInformation",
@@ -317,18 +363,24 @@
         "experimental"
       ],
       "repoPath": "./vscode",
-      "repoFile": "src\\vs\\editor\\common\\config\\editorOptions.ts",
+      "repoFile": "src/vs/editor/common/config/editorOptions.ts",
       "repoName": "VS Code",
-      "addedDate": "2026-01-08",
-      "addedCommit": "e785475",
+      "addedDate": "2025-10-01",
+      "addedCommit": "f1ec7d5",
       "addedBy": {
-        "name": "Daniel Imms",
-        "email": "2193314+Tyriar@users.noreply.github.com"
+        "name": "BeniBenj",
+        "email": "besimmonds@microsoft.com"
+      },
+      "owner": {
+        "name": "BeniBenj",
+        "email": "besimmonds@microsoft.com",
+        "date": "2025-10-01",
+        "commit": "f1ec7d5"
       }
     },
     {
       "name": "editor.inlineSuggest.experimental.showOnSuggestConflict",
-      "file": "[VS Code] src\\vs\\editor\\common\\config\\editorOptions.ts",
+      "file": "[VS Code] src/vs/editor/common/config/editorOptions.ts",
       "line": 4583,
       "area": "editor.inlineSuggest",
       "default": "defaults.experimental.showOnSuggestConflict",
@@ -336,18 +388,24 @@
         "experimental"
       ],
       "repoPath": "./vscode",
-      "repoFile": "src\\vs\\editor\\common\\config\\editorOptions.ts",
+      "repoFile": "src/vs/editor/common/config/editorOptions.ts",
       "repoName": "VS Code",
-      "addedDate": "2026-01-08",
-      "addedCommit": "e785475",
+      "addedDate": "2025-08-20",
+      "addedCommit": "e61cfda",
       "addedBy": {
-        "name": "Daniel Imms",
-        "email": "2193314+Tyriar@users.noreply.github.com"
+        "name": "Henning Dieterichs",
+        "email": "hdieterichs@microsoft.com"
+      },
+      "owner": {
+        "name": "Henning Dieterichs",
+        "email": "hdieterichs@microsoft.com",
+        "date": "2025-08-20",
+        "commit": "e61cfda"
       }
     },
     {
       "name": "editor.inlineSuggest.experimental.suppressInlineSuggestions",
-      "file": "[VS Code] src\\vs\\editor\\common\\config\\editorOptions.ts",
+      "file": "[VS Code] src/vs/editor/common/config/editorOptions.ts",
       "line": 4556,
       "area": "editor.inlineSuggest",
       "default": "defaults.experimental.suppressInlineSuggestions",
@@ -355,18 +413,24 @@
         "experimental"
       ],
       "repoPath": "./vscode",
-      "repoFile": "src\\vs\\editor\\common\\config\\editorOptions.ts",
+      "repoFile": "src/vs/editor/common/config/editorOptions.ts",
       "repoName": "VS Code",
-      "addedDate": "2026-01-08",
-      "addedCommit": "e785475",
+      "addedDate": "2025-05-28",
+      "addedCommit": "0c6b128",
       "addedBy": {
-        "name": "Daniel Imms",
-        "email": "2193314+Tyriar@users.noreply.github.com"
+        "name": "Benjamin Christopher Simmonds",
+        "email": "44439583+benibenj@users.noreply.github.com"
+      },
+      "owner": {
+        "name": "Benjamin Christopher Simmonds",
+        "email": "44439583+benibenj@users.noreply.github.com",
+        "date": "2025-05-28",
+        "commit": "0c6b128"
       }
     },
     {
       "name": "editor.inlineSuggest.triggerCommandOnProviderChange",
-      "file": "[VS Code] src\\vs\\editor\\common\\config\\editorOptions.ts",
+      "file": "[VS Code] src/vs/editor/common/config/editorOptions.ts",
       "line": 4574,
       "area": "editor.inlineSuggest",
       "default": "defaults.triggerCommandOnProviderChange",
@@ -374,38 +438,76 @@
         "experimental"
       ],
       "repoPath": "./vscode",
-      "repoFile": "src\\vs\\editor\\common\\config\\editorOptions.ts",
+      "repoFile": "src/vs/editor/common/config/editorOptions.ts",
       "repoName": "VS Code",
-      "addedDate": "2026-01-08",
-      "addedCommit": "e785475",
+      "addedDate": "2025-09-05",
+      "addedCommit": "fa6188b",
       "addedBy": {
-        "name": "Daniel Imms",
-        "email": "2193314+Tyriar@users.noreply.github.com"
+        "name": "Henning Dieterichs",
+        "email": "hdieterichs@microsoft.com"
+      },
+      "owner": {
+        "name": "Henning Dieterichs",
+        "email": "hdieterichs@microsoft.com",
+        "date": "2025-09-05",
+        "commit": "fa6188b"
       }
     },
     {
       "name": "git.optimisticUpdate",
-      "file": "[VS Code] extensions\\git\\package.json",
-      "line": 3848,
+      "file": "[VS Code] extensions/git/package.json",
+      "line": 3876,
       "area": "git.optimisticUpdate",
       "default": "true",
       "tags": [
         "experimental"
       ],
       "repoPath": "./vscode",
-      "repoFile": "extensions\\git\\package.json",
+      "repoFile": "extensions/git/package.json",
       "repoName": "VS Code",
-      "addedDate": "2026-01-08",
-      "addedCommit": "e785475",
+      "addedDate": "2022-11-04",
+      "addedCommit": "b208b87",
       "addedBy": {
-        "name": "Daniel Imms",
-        "email": "2193314+Tyriar@users.noreply.github.com"
+        "name": "Ladislau Szomoru",
+        "email": "3372902+lszomoru@users.noreply.github.com"
+      },
+      "owner": {
+        "name": "Ladislau Szomoru",
+        "email": "3372902+lszomoru@users.noreply.github.com",
+        "date": "2022-11-04",
+        "commit": "b208b87"
+      }
+    },
+    {
+      "name": "github.copilot.chat.agent.omitFileAttachmentContents",
+      "file": "[Copilot Chat] package.json",
+      "line": 3964,
+      "area": "github.copilot",
+      "default": "false",
+      "tags": [
+        "advanced",
+        "experimental"
+      ],
+      "repoPath": "./vscode-copilot-chat",
+      "repoFile": "package.json",
+      "repoName": "Copilot Chat",
+      "addedDate": "2026-01-18",
+      "addedCommit": "e38444a",
+      "addedBy": {
+        "name": "Rob Lourens",
+        "email": "roblourens@gmail.com"
+      },
+      "owner": {
+        "name": "Rob Lourens",
+        "email": "roblourens@gmail.com",
+        "date": "2026-01-19",
+        "commit": "e38444a"
       }
     },
     {
       "name": "github.copilot.chat.agent.temperature",
       "file": "[Copilot Chat] package.json",
-      "line": 3671,
+      "line": 3953,
       "area": "github.copilot",
       "default": null,
       "tags": [
@@ -415,17 +517,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-14",
+      "addedCommit": "7098ab5",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com"
+      },
+      "owner": {
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com",
+        "date": "2025-11-15",
+        "commit": "5e459a3"
       }
     },
     {
       "name": "github.copilot.chat.agentHistorySummarizationForceGpt41",
       "file": "[Copilot Chat] package.json",
-      "line": 3743,
+      "line": 4034,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -436,17 +544,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-14",
+      "addedCommit": "7098ab5",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com"
+      },
+      "owner": {
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com",
+        "date": "2025-11-15",
+        "commit": "5e459a3"
       }
     },
     {
       "name": "github.copilot.chat.agentHistorySummarizationMode",
       "file": "[Copilot Chat] package.json",
-      "line": 3722,
+      "line": 4013,
       "area": "github.copilot",
       "default": null,
       "tags": [
@@ -456,17 +570,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-14",
+      "addedCommit": "7098ab5",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com"
+      },
+      "owner": {
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com",
+        "date": "2025-11-15",
+        "commit": "5e459a3"
       }
     },
     {
       "name": "github.copilot.chat.agentHistorySummarizationWithPromptCache",
       "file": "[Copilot Chat] package.json",
-      "line": 3733,
+      "line": 4024,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -477,17 +597,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-14",
+      "addedCommit": "7098ab5",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com"
+      },
+      "owner": {
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com",
+        "date": "2025-11-15",
+        "commit": "5e459a3"
       }
     },
     {
       "name": "github.copilot.chat.alternateGeminiModelFPrompt.enabled",
       "file": "[Copilot Chat] package.json",
-      "line": 3245,
+      "line": 3453,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -497,17 +623,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-12-16",
+      "addedCommit": "eff7025",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Paul",
+        "email": "paul_wang347@hotmail.com"
+      },
+      "owner": {
+        "name": "Paul",
+        "email": "paul_wang347@hotmail.com",
+        "date": "2025-12-17",
+        "commit": "eff7025"
       }
     },
     {
       "name": "github.copilot.chat.alternateGptPrompt.enabled",
       "file": "[Copilot Chat] package.json",
-      "line": 3237,
+      "line": 3445,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -516,17 +648,75 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-08-09",
+      "addedCommit": "520fe9f",
+      "addedBy": {
+        "name": "Burke Holland",
+        "email": "buhollan@microsoft.com"
+      },
+      "owner": {
+        "name": "Burke Holland",
+        "email": "buhollan@microsoft.com",
+        "date": "2025-08-09",
+        "commit": "520fe9f"
+      }
+    },
+    {
+      "name": "github.copilot.chat.anthropic.contextEditing.config",
+      "file": "[Copilot Chat] package.json",
+      "line": 3659,
+      "area": "github.copilot",
+      "default": "null",
+      "tags": [
+        "advanced",
+        "experimental"
+      ],
+      "repoPath": "./vscode-copilot-chat",
+      "repoFile": "package.json",
+      "repoName": "Copilot Chat",
+      "addedDate": "2026-01-20",
+      "addedCommit": "825bc86",
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
+      },
+      "owner": {
+        "name": "Bhavya U",
+        "email": "bhavyau@microsoft.com",
+        "date": "2026-01-20",
+        "commit": "825bc86"
+      }
+    },
+    {
+      "name": "github.copilot.chat.anthropic.contextEditing.enabled",
+      "file": "[Copilot Chat] package.json",
+      "line": 3471,
+      "area": "github.copilot",
+      "default": "true",
+      "tags": [
+        "experimental",
+        "onExp"
+      ],
+      "repoPath": "./vscode-copilot-chat",
+      "repoFile": "package.json",
+      "repoName": "Copilot Chat",
+      "addedDate": "2026-01-12",
+      "addedCommit": "6969f93",
+      "addedBy": {
+        "name": "Bhavya U",
+        "email": "bhavyau@microsoft.com"
+      },
+      "owner": {
+        "name": "Bhavya U",
+        "email": "bhavyau@microsoft.com",
+        "date": "2026-01-12",
+        "commit": "6969f93"
       }
     },
     {
       "name": "github.copilot.chat.anthropic.thinking.budgetTokens",
       "file": "[Copilot Chat] package.json",
-      "line": 3300,
+      "line": 3526,
       "area": "github.copilot",
       "default": "4000",
       "tags": [
@@ -536,17 +726,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-26",
+      "addedCommit": "a6c2cad",
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
+      },
+      "owner": {
+        "name": "Bhavya U",
+        "email": "bhavyau@microsoft.com",
+        "date": "2025-11-26",
+        "commit": "a6c2cad"
       }
     },
     {
       "name": "github.copilot.chat.anthropic.tools.websearch.allowedDomains",
       "file": "[Copilot Chat] package.json",
-      "line": 3330,
+      "line": 3556,
       "area": "github.copilot",
       "default": "[]",
       "tags": [
@@ -555,17 +751,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-03",
+      "addedCommit": "1dc7bc6",
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
+      },
+      "owner": {
+        "name": "Bhavya U",
+        "email": "bhavyau@microsoft.com",
+        "date": "2025-11-04",
+        "commit": "1dc7bc6"
       }
     },
     {
       "name": "github.copilot.chat.anthropic.tools.websearch.blockedDomains",
       "file": "[Copilot Chat] package.json",
-      "line": 3341,
+      "line": 3567,
       "area": "github.copilot",
       "default": "[]",
       "tags": [
@@ -574,17 +776,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-03",
+      "addedCommit": "1dc7bc6",
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
+      },
+      "owner": {
+        "name": "Bhavya U",
+        "email": "bhavyau@microsoft.com",
+        "date": "2025-11-04",
+        "commit": "1dc7bc6"
       }
     },
     {
       "name": "github.copilot.chat.anthropic.tools.websearch.enabled",
       "file": "[Copilot Chat] package.json",
-      "line": 3311,
+      "line": 3537,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -594,17 +802,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-10-30",
+      "addedCommit": "3c7bf6c",
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
+      },
+      "owner": {
+        "name": "Bhavya U",
+        "email": "bhavyau@microsoft.com",
+        "date": "2025-10-31",
+        "commit": "3c7bf6c"
       }
     },
     {
       "name": "github.copilot.chat.anthropic.tools.websearch.maxUses",
       "file": "[Copilot Chat] package.json",
-      "line": 3320,
+      "line": 3546,
       "area": "github.copilot",
       "default": "5",
       "tags": [
@@ -613,17 +827,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-03",
+      "addedCommit": "1dc7bc6",
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
+      },
+      "owner": {
+        "name": "Bhavya U",
+        "email": "bhavyau@microsoft.com",
+        "date": "2025-11-04",
+        "commit": "1dc7bc6"
       }
     },
     {
       "name": "github.copilot.chat.anthropic.tools.websearch.userLocation",
       "file": "[Copilot Chat] package.json",
-      "line": 3352,
+      "line": 3578,
       "area": "github.copilot",
       "default": "null",
       "tags": [
@@ -632,19 +852,51 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-03",
+      "addedCommit": "1dc7bc6",
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
+      },
+      "owner": {
+        "name": "Bhavya U",
+        "email": "bhavyau@microsoft.com",
+        "date": "2025-11-04",
+        "commit": "1dc7bc6"
+      }
+    },
+    {
+      "name": "github.copilot.chat.anthropic.toolSearchTool.enabled",
+      "file": "[Copilot Chat] package.json",
+      "line": 3480,
+      "area": "github.copilot",
+      "default": "false",
+      "tags": [
+        "experimental",
+        "onExp"
+      ],
+      "repoPath": "./vscode-copilot-chat",
+      "repoFile": "package.json",
+      "repoName": "Copilot Chat",
+      "addedDate": "2026-01-15",
+      "addedCommit": "11fd8fb",
+      "addedBy": {
+        "name": "Bhavya U",
+        "email": "bhavyau@microsoft.com"
+      },
+      "owner": {
+        "name": "Bhavya U",
+        "email": "bhavyau@microsoft.com",
+        "date": "2026-01-16",
+        "commit": "11fd8fb"
       }
     },
     {
       "name": "github.copilot.chat.anthropic.useMessagesApi",
       "file": "[Copilot Chat] package.json",
-      "line": 3254,
+      "line": 3462,
       "area": "github.copilot",
-      "default": "false",
+      "default": "true",
       "tags": [
         "experimental",
         "onExp"
@@ -652,74 +904,49 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2026-01-05",
+      "addedCommit": "c762f20",
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
+      },
+      "owner": {
+        "name": "Bhavya U",
+        "email": "bhavyau@microsoft.com",
+        "date": "2026-01-05",
+        "commit": "c762f20"
       }
     },
     {
-      "name": "github.copilot.chat.azureAuthType",
+      "name": "github.copilot.chat.askQuestions.enabled",
       "file": "[Copilot Chat] package.json",
-      "line": 3076,
+      "line": 3013,
       "area": "github.copilot",
-      "default": "\"entraId\"",
+      "default": "true",
       "tags": [
-        "experimental"
+        "experimental",
+        "onExp"
       ],
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2026-01-16",
+      "addedCommit": "ebcaba5",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
-      }
-    },
-    {
-      "name": "github.copilot.chat.azureModels",
-      "file": "[Copilot Chat] package.json",
-      "line": 3092,
-      "area": "github.copilot",
-      "default": "{}",
-      "tags": [
-        "experimental"
-      ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
-      "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
-      }
-    },
-    {
-      "name": "github.copilot.chat.byok.ollamaEndpoint",
-      "file": "[Copilot Chat] package.json",
-      "line": 2603,
-      "area": "github.copilot",
-      "default": "\"http://localhost:11434\"",
-      "tags": [
-        "preview"
-      ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
-      "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Harald Kirschner",
+        "email": "hkirschner@microsoft.com"
+      },
+      "owner": {
+        "name": "Harald Kirschner",
+        "email": "hkirschner@microsoft.com",
+        "date": "2026-01-17",
+        "commit": "ebcaba5"
       }
     },
     {
       "name": "github.copilot.chat.claudeCode.debug",
       "file": "[Copilot Chat] package.json",
-      "line": 3803,
+      "line": 4094,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -729,17 +956,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-14",
+      "addedCommit": "7098ab5",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com"
+      },
+      "owner": {
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com",
+        "date": "2025-11-15",
+        "commit": "5e459a3"
       }
     },
     {
       "name": "github.copilot.chat.claudeCode.enabled",
       "file": "[Copilot Chat] package.json",
-      "line": 3791,
+      "line": 4082,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -749,96 +982,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-14",
+      "addedCommit": "7098ab5",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
-      }
-    },
-    {
-      "name": "github.copilot.chat.cli.autoCommit.enabled",
-      "file": "[Copilot Chat] package.json",
-      "line": 3901,
-      "area": "github.copilot",
-      "default": "false",
-      "tags": [
-        "advanced",
-        "experimental"
-      ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
-      "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com"
+      },
+      "owner": {
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com",
+        "date": "2025-11-15",
+        "commit": "5e459a3"
       }
     },
     {
       "name": "github.copilot.chat.cli.customAgents.enabled",
       "file": "[Copilot Chat] package.json",
-      "line": 3883,
-      "area": "github.copilot",
-      "default": "false",
-      "tags": [
-        "advanced",
-        "experimental"
-      ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
-      "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
-      }
-    },
-    {
-      "name": "github.copilot.chat.cli.mcp.enabled",
-      "file": "[Copilot Chat] package.json",
-      "line": 3892,
-      "area": "github.copilot",
-      "default": "false",
-      "tags": [
-        "advanced",
-        "experimental"
-      ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
-      "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
-      }
-    },
-    {
-      "name": "github.copilot.chat.codeGeneration.instructions",
-      "file": "[Copilot Chat] package.json",
-      "line": 2678,
-      "area": "github.copilot",
-      "default": "[]",
-      "tags": [
-        "experimental"
-      ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
-      "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
-      }
-    },
-    {
-      "name": "github.copilot.chat.codesearch.agent.enabled",
-      "file": "[Copilot Chat] package.json",
-      "line": 3662,
+      "line": 4174,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -848,36 +1008,49 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-26",
+      "addedCommit": "f1766d4",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Don Jayamanne",
+        "email": "don.jayamanne@outlook.com"
+      },
+      "owner": {
+        "name": "Don Jayamanne",
+        "email": "don.jayamanne@outlook.com",
+        "date": "2025-11-26",
+        "commit": "f1766d4"
       }
     },
     {
-      "name": "github.copilot.chat.codesearch.enabled",
+      "name": "github.copilot.chat.cli.mcp.enabled",
       "file": "[Copilot Chat] package.json",
-      "line": 2595,
+      "line": 4183,
       "area": "github.copilot",
       "default": "false",
       "tags": [
-        "preview"
+        "advanced",
+        "experimental"
       ],
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-14",
+      "addedCommit": "7098ab5",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com"
+      },
+      "owner": {
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com",
+        "date": "2025-11-15",
+        "commit": "5e459a3"
       }
     },
     {
-      "name": "github.copilot.chat.commitMessageGeneration.instructions",
+      "name": "github.copilot.chat.codeGeneration.instructions",
       "file": "[Copilot Chat] package.json",
-      "line": 2819,
+      "line": 3047,
       "area": "github.copilot",
       "default": "[]",
       "tags": [
@@ -886,17 +1059,99 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-06-27",
+      "addedCommit": "af813ee",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "kieferrm",
+        "email": "4674940+kieferrm@users.noreply.github.com"
+      },
+      "owner": {
+        "name": "kieferrm",
+        "email": "4674940+kieferrm@users.noreply.github.com",
+        "date": "2025-06-27",
+        "commit": "af813ee"
+      }
+    },
+    {
+      "name": "github.copilot.chat.codesearch.agent.enabled",
+      "file": "[Copilot Chat] package.json",
+      "line": 3944,
+      "area": "github.copilot",
+      "default": "true",
+      "tags": [
+        "advanced",
+        "experimental"
+      ],
+      "repoPath": "./vscode-copilot-chat",
+      "repoFile": "package.json",
+      "repoName": "Copilot Chat",
+      "addedDate": "2025-11-14",
+      "addedCommit": "7098ab5",
+      "addedBy": {
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com"
+      },
+      "owner": {
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com",
+        "date": "2025-11-15",
+        "commit": "5e459a3"
+      }
+    },
+    {
+      "name": "github.copilot.chat.codesearch.enabled",
+      "file": "[Copilot Chat] package.json",
+      "line": 2963,
+      "area": "github.copilot",
+      "default": "false",
+      "tags": [
+        "preview"
+      ],
+      "repoPath": "./vscode-copilot-chat",
+      "repoFile": "package.json",
+      "repoName": "Copilot Chat",
+      "addedDate": "2025-06-27",
+      "addedCommit": "af813ee",
+      "addedBy": {
+        "name": "kieferrm",
+        "email": "4674940+kieferrm@users.noreply.github.com"
+      },
+      "owner": {
+        "name": "kieferrm",
+        "email": "4674940+kieferrm@users.noreply.github.com",
+        "date": "2025-06-27",
+        "commit": "af813ee"
+      }
+    },
+    {
+      "name": "github.copilot.chat.commitMessageGeneration.instructions",
+      "file": "[Copilot Chat] package.json",
+      "line": 3188,
+      "area": "github.copilot",
+      "default": "[]",
+      "tags": [
+        "experimental"
+      ],
+      "repoPath": "./vscode-copilot-chat",
+      "repoFile": "package.json",
+      "repoName": "Copilot Chat",
+      "addedDate": "2025-06-27",
+      "addedCommit": "af813ee",
+      "addedBy": {
+        "name": "kieferrm",
+        "email": "4674940+kieferrm@users.noreply.github.com"
+      },
+      "owner": {
+        "name": "kieferrm",
+        "email": "4674940+kieferrm@users.noreply.github.com",
+        "date": "2025-06-27",
+        "commit": "af813ee"
       }
     },
     {
       "name": "github.copilot.chat.completionsFetcher",
       "file": "[Copilot Chat] package.json",
-      "line": 3390,
+      "line": 3616,
       "area": "github.copilot",
       "default": null,
       "tags": [
@@ -906,17 +1161,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-10-07",
+      "addedCommit": "5c1d517",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Christof Marti",
+        "email": "chrmarti@microsoft.com"
+      },
+      "owner": {
+        "name": "Christof Marti",
+        "email": "chrmarti@microsoft.com",
+        "date": "2025-10-07",
+        "commit": "5c1d517"
       }
     },
     {
       "name": "github.copilot.chat.copilotDebugCommand.enabled",
       "file": "[Copilot Chat] package.json",
-      "line": 2587,
+      "line": 2955,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -925,17 +1186,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-06-27",
+      "addedCommit": "af813ee",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "kieferrm",
+        "email": "4674940+kieferrm@users.noreply.github.com"
+      },
+      "owner": {
+        "name": "kieferrm",
+        "email": "4674940+kieferrm@users.noreply.github.com",
+        "date": "2025-06-27",
+        "commit": "af813ee"
       }
     },
     {
       "name": "github.copilot.chat.customAgents.showOrganizationAndEnterpriseAgents",
       "file": "[Copilot Chat] package.json",
-      "line": 3420,
+      "line": 3646,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -944,36 +1211,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-26",
+      "addedCommit": "a9fe6eb",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
-      }
-    },
-    {
-      "name": "github.copilot.chat.customOAIModels",
-      "file": "[Copilot Chat] package.json",
-      "line": 3155,
-      "area": "github.copilot",
-      "default": "{}",
-      "tags": [
-        "experimental"
-      ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
-      "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Paul",
+        "email": "paul_wang347@hotmail.com"
+      },
+      "owner": {
+        "name": "Paul",
+        "email": "paul_wang347@hotmail.com",
+        "date": "2025-12-05",
+        "commit": "52126b6"
       }
     },
     {
       "name": "github.copilot.chat.debug.overrideChatEngine",
       "file": "[Copilot Chat] package.json",
-      "line": 3433,
+      "line": 3705,
       "area": "github.copilot",
       "default": null,
       "tags": [
@@ -983,17 +1237,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-14",
+      "addedCommit": "7098ab5",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com"
+      },
+      "owner": {
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com",
+        "date": "2025-11-15",
+        "commit": "5e459a3"
       }
     },
     {
       "name": "github.copilot.chat.debug.requestLogger.maxEntries",
       "file": "[Copilot Chat] package.json",
-      "line": 3643,
+      "line": 3915,
       "area": "github.copilot",
       "default": "100",
       "tags": [
@@ -1003,17 +1263,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-17",
+      "addedCommit": "ae638b2",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com"
+      },
+      "owner": {
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com",
+        "date": "2025-11-17",
+        "commit": "ae638b2"
       }
     },
     {
       "name": "github.copilot.chat.debugTerminalCommandPatterns",
       "file": "[Copilot Chat] package.json",
-      "line": 3603,
+      "line": 3875,
       "area": "github.copilot",
       "default": "[]",
       "tags": [
@@ -1023,17 +1289,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-14",
+      "addedCommit": "7098ab5",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com"
+      },
+      "owner": {
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com",
+        "date": "2025-11-15",
+        "commit": "5e459a3"
       }
     },
     {
       "name": "github.copilot.chat.editRecording.enabled",
       "file": "[Copilot Chat] package.json",
-      "line": 3624,
+      "line": 3896,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1043,17 +1315,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-14",
+      "addedCommit": "7098ab5",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com"
+      },
+      "owner": {
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com",
+        "date": "2025-11-17",
+        "commit": "ae638b2"
       }
     },
     {
       "name": "github.copilot.chat.edits.gemini3MultiReplaceString",
       "file": "[Copilot Chat] package.json",
-      "line": 3444,
+      "line": 3716,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1064,17 +1342,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-24",
+      "addedCommit": "ab060a8",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Connor Peet",
+        "email": "connor@peet.io"
+      },
+      "owner": {
+        "name": "Connor Peet",
+        "email": "connor@peet.io",
+        "date": "2025-11-24",
+        "commit": "ab060a8"
       }
     },
     {
       "name": "github.copilot.chat.edits.suggestRelatedFilesForTests",
       "file": "[Copilot Chat] package.json",
-      "line": 2670,
+      "line": 3039,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -1083,17 +1367,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-06-27",
+      "addedCommit": "af813ee",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "kieferrm",
+        "email": "4674940+kieferrm@users.noreply.github.com"
+      },
+      "owner": {
+        "name": "kieferrm",
+        "email": "4674940+kieferrm@users.noreply.github.com",
+        "date": "2025-06-27",
+        "commit": "af813ee"
       }
     },
     {
       "name": "github.copilot.chat.edits.suggestRelatedFilesFromGitHistory",
       "file": "[Copilot Chat] package.json",
-      "line": 2662,
+      "line": 3031,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -1102,17 +1392,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-06-27",
+      "addedCommit": "af813ee",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "kieferrm",
+        "email": "4674940+kieferrm@users.noreply.github.com"
+      },
+      "owner": {
+        "name": "kieferrm",
+        "email": "4674940+kieferrm@users.noreply.github.com",
+        "date": "2025-06-27",
+        "commit": "af813ee"
       }
     },
     {
       "name": "github.copilot.chat.enableUserPreferences",
       "file": "[Copilot Chat] package.json",
-      "line": 3702,
+      "line": 3993,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1122,17 +1418,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-06-27",
+      "addedCommit": "af813ee",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "kieferrm",
+        "email": "4674940+kieferrm@users.noreply.github.com"
+      },
+      "owner": {
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com",
+        "date": "2025-11-15",
+        "commit": "5e459a3"
       }
     },
     {
       "name": "github.copilot.chat.feedback.onChange",
       "file": "[Copilot Chat] package.json",
-      "line": 3543,
+      "line": 3815,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1142,17 +1444,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-14",
+      "addedCommit": "7098ab5",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com"
+      },
+      "owner": {
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com",
+        "date": "2025-11-15",
+        "commit": "5e459a3"
       }
     },
     {
       "name": "github.copilot.chat.generateTests.codeLens",
       "file": "[Copilot Chat] package.json",
-      "line": 2943,
+      "line": 3312,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1161,17 +1469,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-06-27",
+      "addedCommit": "af813ee",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "kieferrm",
+        "email": "4674940+kieferrm@users.noreply.github.com"
+      },
+      "owner": {
+        "name": "kieferrm",
+        "email": "4674940+kieferrm@users.noreply.github.com",
+        "date": "2025-06-27",
+        "commit": "af813ee"
       }
     },
     {
       "name": "github.copilot.chat.githubMcpServer.enabled",
       "file": "[Copilot Chat] package.json",
-      "line": 2616,
+      "line": 2976,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1180,17 +1494,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-20",
+      "addedCommit": "6cea1c0",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Tyler James Leonhardt",
+        "email": "2644648+TylerLeonhardt@users.noreply.github.com"
+      },
+      "owner": {
+        "name": "Tyler James Leonhardt",
+        "email": "2644648+TylerLeonhardt@users.noreply.github.com",
+        "date": "2025-11-20",
+        "commit": "6cea1c0"
       }
     },
     {
       "name": "github.copilot.chat.githubMcpServer.lockdown",
       "file": "[Copilot Chat] package.json",
-      "line": 2645,
+      "line": 3005,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1199,17 +1519,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-20",
+      "addedCommit": "6cea1c0",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Tyler James Leonhardt",
+        "email": "2644648+TylerLeonhardt@users.noreply.github.com"
+      },
+      "owner": {
+        "name": "Tyler James Leonhardt",
+        "email": "2644648+TylerLeonhardt@users.noreply.github.com",
+        "date": "2025-11-20",
+        "commit": "6cea1c0"
       }
     },
     {
       "name": "github.copilot.chat.githubMcpServer.readonly",
       "file": "[Copilot Chat] package.json",
-      "line": 2637,
+      "line": 2997,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1218,17 +1544,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-20",
+      "addedCommit": "6cea1c0",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Tyler James Leonhardt",
+        "email": "2644648+TylerLeonhardt@users.noreply.github.com"
+      },
+      "owner": {
+        "name": "Tyler James Leonhardt",
+        "email": "2644648+TylerLeonhardt@users.noreply.github.com",
+        "date": "2025-11-20",
+        "commit": "6cea1c0"
       }
     },
     {
       "name": "github.copilot.chat.githubMcpServer.toolsets",
       "file": "[Copilot Chat] package.json",
-      "line": 2624,
+      "line": 2984,
       "area": "github.copilot",
       "default": "[\"default\"]",
       "tags": [
@@ -1237,17 +1569,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-20",
+      "addedCommit": "6cea1c0",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Tyler James Leonhardt",
+        "email": "2644648+TylerLeonhardt@users.noreply.github.com"
+      },
+      "owner": {
+        "name": "Tyler James Leonhardt",
+        "email": "2644648+TylerLeonhardt@users.noreply.github.com",
+        "date": "2025-11-20",
+        "commit": "6cea1c0"
       }
     },
     {
       "name": "github.copilot.chat.gpt5AlternativePatch",
       "file": "[Copilot Chat] package.json",
-      "line": 3812,
+      "line": 4103,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1258,17 +1596,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-14",
+      "addedCommit": "7098ab5",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com"
+      },
+      "owner": {
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com",
+        "date": "2025-11-15",
+        "commit": "5e459a3"
       }
     },
     {
       "name": "github.copilot.chat.imageUpload.enabled",
       "file": "[Copilot Chat] package.json",
-      "line": 2653,
+      "line": 3022,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -1278,17 +1622,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-09-09",
+      "addedCommit": "2ddaf12",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Justin Chen",
+        "email": "54879025+justschen@users.noreply.github.com"
+      },
+      "owner": {
+        "name": "Justin Chen",
+        "email": "54879025+justschen@users.noreply.github.com",
+        "date": "2025-09-09",
+        "commit": "2ddaf12"
       }
     },
     {
       "name": "github.copilot.chat.inlineChat.selectionRatioThreshold",
       "file": "[Copilot Chat] package.json",
-      "line": 3633,
+      "line": 3905,
       "area": "github.copilot",
       "default": "0",
       "tags": [
@@ -1299,17 +1649,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-12-01",
+      "addedCommit": "df2b4d3",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Johannes Rieken",
+        "email": "johannes.rieken@gmail.com"
+      },
+      "owner": {
+        "name": "Johannes Rieken",
+        "email": "johannes.rieken@gmail.com",
+        "date": "2025-12-01",
+        "commit": "df2b4d3"
       }
     },
     {
-      "name": "github.copilot.chat.inlineEdits.diagnosticsContextProvider.enabled",
+      "name": "github.copilot.chat.inlineEdits.chatSessionContextProvider.enabled",
       "file": "[Copilot Chat] package.json",
-      "line": 3652,
+      "line": 3934,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1320,17 +1676,50 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2026-01-22",
+      "addedCommit": "f7b1ec2",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Benjamin Christopher Simmonds",
+        "email": "44439583+benibenj@users.noreply.github.com"
+      },
+      "owner": {
+        "name": "Benjamin Christopher Simmonds",
+        "email": "44439583+benibenj@users.noreply.github.com",
+        "date": "2026-01-21",
+        "commit": "f7b1ec2"
+      }
+    },
+    {
+      "name": "github.copilot.chat.inlineEdits.diagnosticsContextProvider.enabled",
+      "file": "[Copilot Chat] package.json",
+      "line": 3924,
+      "area": "github.copilot",
+      "default": "false",
+      "tags": [
+        "advanced",
+        "experimental",
+        "onExp"
+      ],
+      "repoPath": "./vscode-copilot-chat",
+      "repoFile": "package.json",
+      "repoName": "Copilot Chat",
+      "addedDate": "2025-11-17",
+      "addedCommit": "ae638b2",
+      "addedBy": {
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com"
+      },
+      "owner": {
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com",
+        "date": "2025-11-17",
+        "commit": "ae638b2"
       }
     },
     {
       "name": "github.copilot.chat.inlineEdits.nextCursorPrediction.currentFileMaxTokens",
       "file": "[Copilot Chat] package.json",
-      "line": 3844,
+      "line": 4135,
       "area": "github.copilot",
       "default": "2000",
       "tags": [
@@ -1341,17 +1730,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-14",
+      "addedCommit": "7098ab5",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com"
+      },
+      "owner": {
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com",
+        "date": "2025-11-15",
+        "commit": "5e459a3"
       }
     },
     {
       "name": "github.copilot.chat.inlineEdits.nextCursorPrediction.displayLine",
       "file": "[Copilot Chat] package.json",
-      "line": 3834,
+      "line": 4125,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -1362,17 +1757,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-14",
+      "addedCommit": "7098ab5",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com"
+      },
+      "owner": {
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com",
+        "date": "2025-11-15",
+        "commit": "5e459a3"
       }
     },
     {
       "name": "github.copilot.chat.inlineEdits.renameSymbolSuggestions",
       "file": "[Copilot Chat] package.json",
-      "line": 3854,
+      "line": 4145,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -1383,17 +1784,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-24",
+      "addedCommit": "4513b44",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Benjamin Christopher Simmonds",
+        "email": "44439583+benibenj@users.noreply.github.com"
+      },
+      "owner": {
+        "name": "Benjamin Christopher Simmonds",
+        "email": "44439583+benibenj@users.noreply.github.com",
+        "date": "2025-11-24",
+        "commit": "4513b44"
       }
     },
     {
       "name": "github.copilot.chat.inlineEdits.triggerOnEditorChangeAfterSeconds",
       "file": "[Copilot Chat] package.json",
-      "line": 3822,
+      "line": 4113,
       "area": "github.copilot",
       "default": null,
       "tags": [
@@ -1404,17 +1811,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-14",
+      "addedCommit": "7098ab5",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com"
+      },
+      "owner": {
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com",
+        "date": "2025-11-15",
+        "commit": "5e459a3"
       }
     },
     {
       "name": "github.copilot.chat.instantApply.shortContextLimit",
       "file": "[Copilot Chat] package.json",
-      "line": 3692,
+      "line": 3983,
       "area": "github.copilot",
       "default": "8000",
       "tags": [
@@ -1425,17 +1838,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-14",
+      "addedCommit": "7098ab5",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com"
+      },
+      "owner": {
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com",
+        "date": "2025-11-15",
+        "commit": "5e459a3"
       }
     },
     {
       "name": "github.copilot.chat.instantApply.shortContextModelName",
       "file": "[Copilot Chat] package.json",
-      "line": 3682,
+      "line": 3973,
       "area": "github.copilot",
       "default": "\"gpt-4o-instant-apply-full-ft-v66-short\"",
       "tags": [
@@ -1446,17 +1865,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-14",
+      "addedCommit": "7098ab5",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com"
+      },
+      "owner": {
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com",
+        "date": "2025-11-15",
+        "commit": "5e459a3"
       }
     },
     {
       "name": "github.copilot.chat.languageContext.fix.typescript.enabled",
       "file": "[Copilot Chat] package.json",
-      "line": 3005,
+      "line": 3374,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1466,17 +1891,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-06-27",
+      "addedCommit": "af813ee",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "kieferrm",
+        "email": "4674940+kieferrm@users.noreply.github.com"
+      },
+      "owner": {
+        "name": "kieferrm",
+        "email": "4674940+kieferrm@users.noreply.github.com",
+        "date": "2025-06-27",
+        "commit": "af813ee"
       }
     },
     {
       "name": "github.copilot.chat.languageContext.inline.typescript.enabled",
       "file": "[Copilot Chat] package.json",
-      "line": 3015,
+      "line": 3384,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1486,17 +1917,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-06-27",
+      "addedCommit": "af813ee",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "kieferrm",
+        "email": "4674940+kieferrm@users.noreply.github.com"
+      },
+      "owner": {
+        "name": "kieferrm",
+        "email": "4674940+kieferrm@users.noreply.github.com",
+        "date": "2025-06-27",
+        "commit": "af813ee"
       }
     },
     {
       "name": "github.copilot.chat.languageContext.typescript.cacheTimeout",
       "file": "[Copilot Chat] package.json",
-      "line": 2995,
+      "line": 3364,
       "area": "github.copilot",
       "default": "500",
       "tags": [
@@ -1506,17 +1943,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-06-27",
+      "addedCommit": "af813ee",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "kieferrm",
+        "email": "4674940+kieferrm@users.noreply.github.com"
+      },
+      "owner": {
+        "name": "kieferrm",
+        "email": "4674940+kieferrm@users.noreply.github.com",
+        "date": "2025-06-27",
+        "commit": "af813ee"
       }
     },
     {
       "name": "github.copilot.chat.languageContext.typescript.enabled",
       "file": "[Copilot Chat] package.json",
-      "line": 2959,
+      "line": 3328,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1526,17 +1969,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-06-27",
+      "addedCommit": "af813ee",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "kieferrm",
+        "email": "4674940+kieferrm@users.noreply.github.com"
+      },
+      "owner": {
+        "name": "kieferrm",
+        "email": "4674940+kieferrm@users.noreply.github.com",
+        "date": "2025-06-27",
+        "commit": "af813ee"
       }
     },
     {
       "name": "github.copilot.chat.languageContext.typescript.includeDocumentation",
       "file": "[Copilot Chat] package.json",
-      "line": 2985,
+      "line": 3354,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1546,17 +1995,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-09-29",
+      "addedCommit": "6271f4e",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Dirk Bäumer",
+        "email": "dirkb@microsoft.com"
+      },
+      "owner": {
+        "name": "Dirk Bäumer",
+        "email": "dirkb@microsoft.com",
+        "date": "2025-09-29",
+        "commit": "6271f4e"
       }
     },
     {
       "name": "github.copilot.chat.languageContext.typescript.items",
       "file": "[Copilot Chat] package.json",
-      "line": 2969,
+      "line": 3338,
       "area": "github.copilot",
       "default": "\"double\"",
       "tags": [
@@ -1566,17 +2021,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-09-29",
+      "addedCommit": "582f523",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Dirk Bäumer",
+        "email": "dirkb@microsoft.com"
+      },
+      "owner": {
+        "name": "Dirk Bäumer",
+        "email": "dirkb@microsoft.com",
+        "date": "2025-09-29",
+        "commit": "582f523"
       }
     },
     {
       "name": "github.copilot.chat.localWorkspaceRecording.enabled",
       "file": "[Copilot Chat] package.json",
-      "line": 3615,
+      "line": 3887,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1586,17 +2047,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-14",
+      "addedCommit": "7098ab5",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com"
+      },
+      "owner": {
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com",
+        "date": "2025-11-17",
+        "commit": "ae638b2"
       }
     },
     {
       "name": "github.copilot.chat.nesFetcher",
       "file": "[Copilot Chat] package.json",
-      "line": 3405,
+      "line": 3631,
       "area": "github.copilot",
       "default": null,
       "tags": [
@@ -1606,17 +2073,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-10-07",
+      "addedCommit": "5c1d517",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Christof Marti",
+        "email": "chrmarti@microsoft.com"
+      },
+      "owner": {
+        "name": "Christof Marti",
+        "email": "chrmarti@microsoft.com",
+        "date": "2025-10-07",
+        "commit": "5c1d517"
       }
     },
     {
       "name": "github.copilot.chat.newWorkspace.useContext7",
       "file": "[Copilot Chat] package.json",
-      "line": 3033,
+      "line": 3402,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1625,17 +2098,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-07-28",
+      "addedCommit": "f2c587b",
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
+      },
+      "owner": {
+        "name": "Bhavya U",
+        "email": "bhavyau@microsoft.com",
+        "date": "2025-07-28",
+        "commit": "f2c587b"
       }
     },
     {
       "name": "github.copilot.chat.newWorkspaceCreation.enabled",
       "file": "[Copilot Chat] package.json",
-      "line": 3025,
+      "line": 3394,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -1644,17 +2123,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-06-27",
+      "addedCommit": "af813ee",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "kieferrm",
+        "email": "4674940+kieferrm@users.noreply.github.com"
+      },
+      "owner": {
+        "name": "kieferrm",
+        "email": "4674940+kieferrm@users.noreply.github.com",
+        "date": "2025-06-27",
+        "commit": "af813ee"
       }
     },
     {
       "name": "github.copilot.chat.notebook.alternativeFormat",
       "file": "[Copilot Chat] package.json",
-      "line": 3579,
+      "line": 3851,
       "area": "github.copilot",
       "default": "\"xml\"",
       "tags": [
@@ -1665,17 +2150,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-14",
+      "addedCommit": "7098ab5",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com"
+      },
+      "owner": {
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com",
+        "date": "2025-11-15",
+        "commit": "5e459a3"
       }
     },
     {
       "name": "github.copilot.chat.notebook.alternativeNESFormat.enabled",
       "file": "[Copilot Chat] package.json",
-      "line": 3593,
+      "line": 3865,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1686,17 +2177,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-14",
+      "addedCommit": "7098ab5",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com"
+      },
+      "owner": {
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com",
+        "date": "2025-11-15",
+        "commit": "5e459a3"
       }
     },
     {
       "name": "github.copilot.chat.notebook.enhancedNextEditSuggestions.enabled",
       "file": "[Copilot Chat] package.json",
-      "line": 3049,
+      "line": 3418,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1706,17 +2203,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-08-28",
+      "addedCommit": "8254f14",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Don Jayamanne",
+        "email": "don.jayamanne@outlook.com"
+      },
+      "owner": {
+        "name": "Don Jayamanne",
+        "email": "don.jayamanne@outlook.com",
+        "date": "2025-08-28",
+        "commit": "8254f14"
       }
     },
     {
       "name": "github.copilot.chat.notebook.followCellExecution.enabled",
       "file": "[Copilot Chat] package.json",
-      "line": 3041,
+      "line": 3410,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1725,17 +2228,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-06-27",
+      "addedCommit": "af813ee",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "kieferrm",
+        "email": "4674940+kieferrm@users.noreply.github.com"
+      },
+      "owner": {
+        "name": "kieferrm",
+        "email": "4674940+kieferrm@users.noreply.github.com",
+        "date": "2025-06-27",
+        "commit": "af813ee"
       }
     },
     {
       "name": "github.copilot.chat.notebook.summaryExperimentEnabled",
       "file": "[Copilot Chat] package.json",
-      "line": 3561,
+      "line": 3833,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1745,17 +2254,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-14",
+      "addedCommit": "7098ab5",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com"
+      },
+      "owner": {
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com",
+        "date": "2025-11-15",
+        "commit": "5e459a3"
       }
     },
     {
       "name": "github.copilot.chat.notebook.variableFilteringEnabled",
       "file": "[Copilot Chat] package.json",
-      "line": 3570,
+      "line": 3842,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1765,17 +2280,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-14",
+      "addedCommit": "7098ab5",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com"
+      },
+      "owner": {
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com",
+        "date": "2025-11-15",
+        "commit": "5e459a3"
       }
     },
     {
       "name": "github.copilot.chat.omitBaseAgentInstructions",
       "file": "[Copilot Chat] package.json",
-      "line": 3762,
+      "line": 4053,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1785,17 +2306,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-14",
+      "addedCommit": "7098ab5",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com"
+      },
+      "owner": {
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com",
+        "date": "2025-11-15",
+        "commit": "5e459a3"
       }
     },
     {
       "name": "github.copilot.chat.projectLabels.chat",
       "file": "[Copilot Chat] package.json",
-      "line": 3464,
+      "line": 3736,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1806,17 +2333,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-14",
+      "addedCommit": "7098ab5",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com"
+      },
+      "owner": {
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com",
+        "date": "2025-11-15",
+        "commit": "5e459a3"
       }
     },
     {
       "name": "github.copilot.chat.projectLabels.expanded",
       "file": "[Copilot Chat] package.json",
-      "line": 3454,
+      "line": 3726,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1827,17 +2360,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-14",
+      "addedCommit": "7098ab5",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com"
+      },
+      "owner": {
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com",
+        "date": "2025-11-15",
+        "commit": "5e459a3"
       }
     },
     {
       "name": "github.copilot.chat.projectLabels.inline",
       "file": "[Copilot Chat] package.json",
-      "line": 3474,
+      "line": 3746,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1848,17 +2387,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-14",
+      "addedCommit": "7098ab5",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com"
+      },
+      "owner": {
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com",
+        "date": "2025-11-15",
+        "commit": "5e459a3"
       }
     },
     {
       "name": "github.copilot.chat.promptFileContextProvider.enabled",
       "file": "[Copilot Chat] package.json",
-      "line": 3771,
+      "line": 4062,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -1869,17 +2414,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-14",
+      "addedCommit": "7098ab5",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com"
+      },
+      "owner": {
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com",
+        "date": "2025-11-15",
+        "commit": "5e459a3"
       }
     },
     {
       "name": "github.copilot.chat.pullRequestDescriptionGeneration.instructions",
       "file": "[Copilot Chat] package.json",
-      "line": 2881,
+      "line": 3250,
       "area": "github.copilot",
       "default": "[]",
       "tags": [
@@ -1888,17 +2439,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-06-27",
+      "addedCommit": "af813ee",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "kieferrm",
+        "email": "4674940+kieferrm@users.noreply.github.com"
+      },
+      "owner": {
+        "name": "kieferrm",
+        "email": "4674940+kieferrm@users.noreply.github.com",
+        "date": "2025-06-27",
+        "commit": "af813ee"
       }
     },
     {
       "name": "github.copilot.chat.responsesApiReasoningEffort",
       "file": "[Copilot Chat] package.json",
-      "line": 3272,
+      "line": 3498,
       "area": "github.copilot",
       "default": "\"default\"",
       "tags": [
@@ -1908,17 +2465,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-09-12",
+      "addedCommit": "e5d025e",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Rob Lourens",
+        "email": "roblourens@gmail.com"
+      },
+      "owner": {
+        "name": "Rob Lourens",
+        "email": "roblourens@gmail.com",
+        "date": "2025-09-12",
+        "commit": "e5d025e"
       }
     },
     {
       "name": "github.copilot.chat.responsesApiReasoningSummary",
       "file": "[Copilot Chat] package.json",
-      "line": 3287,
+      "line": 3513,
       "area": "github.copilot",
       "default": "\"detailed\"",
       "tags": [
@@ -1928,17 +2491,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-09-12",
+      "addedCommit": "e5d025e",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Rob Lourens",
+        "email": "roblourens@gmail.com"
+      },
+      "owner": {
+        "name": "Rob Lourens",
+        "email": "roblourens@gmail.com",
+        "date": "2025-09-12",
+        "commit": "e5d025e"
       }
     },
     {
       "name": "github.copilot.chat.review.intent",
       "file": "[Copilot Chat] package.json",
-      "line": 3552,
+      "line": 3824,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1948,17 +2517,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-14",
+      "addedCommit": "7098ab5",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com"
+      },
+      "owner": {
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com",
+        "date": "2025-11-15",
+        "commit": "5e459a3"
       }
     },
     {
       "name": "github.copilot.chat.reviewAgent.enabled",
       "file": "[Copilot Chat] package.json",
-      "line": 2500,
+      "line": 2868,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -1967,17 +2542,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-09-01",
+      "addedCommit": "2a464a5",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Christof Marti",
+        "email": "chrmarti@microsoft.com"
+      },
+      "owner": {
+        "name": "Christof Marti",
+        "email": "chrmarti@microsoft.com",
+        "date": "2025-09-01",
+        "commit": "2a464a5"
       }
     },
     {
       "name": "github.copilot.chat.reviewSelection.enabled",
       "file": "[Copilot Chat] package.json",
-      "line": 2508,
+      "line": 2876,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -1986,17 +2567,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-06-27",
+      "addedCommit": "af813ee",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "kieferrm",
+        "email": "4674940+kieferrm@users.noreply.github.com"
+      },
+      "owner": {
+        "name": "kieferrm",
+        "email": "4674940+kieferrm@users.noreply.github.com",
+        "date": "2025-06-27",
+        "commit": "af813ee"
       }
     },
     {
       "name": "github.copilot.chat.reviewSelection.instructions",
       "file": "[Copilot Chat] package.json",
-      "line": 2516,
+      "line": 2884,
       "area": "github.copilot",
       "default": "[]",
       "tags": [
@@ -2005,17 +2592,50 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-06-27",
+      "addedCommit": "af813ee",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "kieferrm",
+        "email": "4674940+kieferrm@users.noreply.github.com"
+      },
+      "owner": {
+        "name": "kieferrm",
+        "email": "4674940+kieferrm@users.noreply.github.com",
+        "date": "2025-06-27",
+        "commit": "af813ee"
+      }
+    },
+    {
+      "name": "github.copilot.chat.searchSubagent.enabled",
+      "file": "[Copilot Chat] package.json",
+      "line": 4192,
+      "area": "github.copilot",
+      "default": "false",
+      "tags": [
+        "advanced",
+        "experimental",
+        "onExp"
+      ],
+      "repoPath": "./vscode-copilot-chat",
+      "repoFile": "package.json",
+      "repoName": "Copilot Chat",
+      "addedDate": "2026-01-14",
+      "addedCommit": "f50a99e",
+      "addedBy": {
+        "name": "Anisha Agarwal",
+        "email": "anisagarwal@microsoft.com"
+      },
+      "owner": {
+        "name": "Anisha Agarwal",
+        "email": "anisagarwal@microsoft.com",
+        "date": "2026-01-15",
+        "commit": "f50a99e"
       }
     },
     {
       "name": "github.copilot.chat.setupTests.enabled",
       "file": "[Copilot Chat] package.json",
-      "line": 2951,
+      "line": 3320,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -2024,17 +2644,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-06-27",
+      "addedCommit": "af813ee",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "kieferrm",
+        "email": "4674940+kieferrm@users.noreply.github.com"
+      },
+      "owner": {
+        "name": "kieferrm",
+        "email": "4674940+kieferrm@users.noreply.github.com",
+        "date": "2025-06-27",
+        "commit": "af813ee"
       }
     },
     {
       "name": "github.copilot.chat.suggestRelatedFilesFromGitHistory.useEmbeddings",
       "file": "[Copilot Chat] package.json",
-      "line": 3874,
+      "line": 4165,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2044,17 +2670,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-14",
+      "addedCommit": "7098ab5",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com"
+      },
+      "owner": {
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com",
+        "date": "2025-11-15",
+        "commit": "5e459a3"
       }
     },
     {
       "name": "github.copilot.chat.summarizeAgentConversationHistory.enabled",
       "file": "[Copilot Chat] package.json",
-      "line": 3058,
+      "line": 3427,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -2063,17 +2695,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-06-27",
+      "addedCommit": "af813ee",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "kieferrm",
+        "email": "4674940+kieferrm@users.noreply.github.com"
+      },
+      "owner": {
+        "name": "kieferrm",
+        "email": "4674940+kieferrm@users.noreply.github.com",
+        "date": "2025-06-27",
+        "commit": "af813ee"
       }
     },
     {
       "name": "github.copilot.chat.summarizeAgentConversationHistoryThreshold",
       "file": "[Copilot Chat] package.json",
-      "line": 3711,
+      "line": 4002,
       "area": "github.copilot",
       "default": null,
       "tags": [
@@ -2083,17 +2721,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-14",
+      "addedCommit": "7098ab5",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com"
+      },
+      "owner": {
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com",
+        "date": "2025-11-15",
+        "commit": "5e459a3"
       }
     },
     {
       "name": "github.copilot.chat.testGeneration.instructions",
       "file": "[Copilot Chat] package.json",
-      "line": 2750,
+      "line": 3119,
       "area": "github.copilot",
       "default": "[]",
       "tags": [
@@ -2102,17 +2746,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-06-27",
+      "addedCommit": "af813ee",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "kieferrm",
+        "email": "4674940+kieferrm@users.noreply.github.com"
+      },
+      "owner": {
+        "name": "kieferrm",
+        "email": "4674940+kieferrm@users.noreply.github.com",
+        "date": "2025-06-27",
+        "commit": "af813ee"
       }
     },
     {
       "name": "github.copilot.chat.tools.defaultToolsGrouped",
       "file": "[Copilot Chat] package.json",
-      "line": 3781,
+      "line": 4072,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2123,17 +2773,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-14",
+      "addedCommit": "7098ab5",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com"
+      },
+      "owner": {
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com",
+        "date": "2025-11-15",
+        "commit": "5e459a3"
       }
     },
     {
       "name": "github.copilot.chat.tools.memory.enabled",
       "file": "[Copilot Chat] package.json",
-      "line": 3381,
+      "line": 3607,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2143,17 +2799,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-10-30",
+      "addedCommit": "3c7bf6c",
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
+      },
+      "owner": {
+        "name": "Bhavya U",
+        "email": "bhavyau@microsoft.com",
+        "date": "2025-10-31",
+        "commit": "3c7bf6c"
       }
     },
     {
       "name": "github.copilot.chat.useResponsesApi",
       "file": "[Copilot Chat] package.json",
-      "line": 3263,
+      "line": 3489,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -2163,17 +2825,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-09-12",
+      "addedCommit": "e5d025e",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Rob Lourens",
+        "email": "roblourens@gmail.com"
+      },
+      "owner": {
+        "name": "Rob Lourens",
+        "email": "roblourens@gmail.com",
+        "date": "2025-09-12",
+        "commit": "e5d025e"
       }
     },
     {
       "name": "github.copilot.chat.useResponsesApiTruncation",
       "file": "[Copilot Chat] package.json",
-      "line": 3753,
+      "line": 4044,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2183,17 +2851,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-14",
+      "addedCommit": "7098ab5",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com"
+      },
+      "owner": {
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com",
+        "date": "2025-11-15",
+        "commit": "5e459a3"
       }
     },
     {
       "name": "github.copilot.chat.virtualTools.threshold",
       "file": "[Copilot Chat] package.json",
-      "line": 3066,
+      "line": 3435,
       "area": "github.copilot",
       "default": "128",
       "tags": [
@@ -2202,17 +2876,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-07-29",
+      "addedCommit": "3576d74",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Connor Peet",
+        "email": "connor@peet.io"
+      },
+      "owner": {
+        "name": "Connor Peet",
+        "email": "connor@peet.io",
+        "date": "2025-07-30",
+        "commit": "3576d74"
       }
     },
     {
       "name": "github.copilot.chat.workspace.enableCodeSearch",
       "file": "[Copilot Chat] package.json",
-      "line": 3504,
+      "line": 3776,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -2223,17 +2903,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-14",
+      "addedCommit": "7098ab5",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com"
+      },
+      "owner": {
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com",
+        "date": "2025-11-15",
+        "commit": "5e459a3"
       }
     },
     {
       "name": "github.copilot.chat.workspace.enableEmbeddingsSearch",
       "file": "[Copilot Chat] package.json",
-      "line": 3514,
+      "line": 3786,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -2244,17 +2930,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-14",
+      "addedCommit": "7098ab5",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com"
+      },
+      "owner": {
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com",
+        "date": "2025-11-15",
+        "commit": "5e459a3"
       }
     },
     {
       "name": "github.copilot.chat.workspace.enableFullWorkspace",
       "file": "[Copilot Chat] package.json",
-      "line": 3494,
+      "line": 3766,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -2265,17 +2957,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-14",
+      "addedCommit": "7098ab5",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com"
+      },
+      "owner": {
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com",
+        "date": "2025-11-15",
+        "commit": "5e459a3"
       }
     },
     {
       "name": "github.copilot.chat.workspace.maxLocalIndexSize",
       "file": "[Copilot Chat] package.json",
-      "line": 3484,
+      "line": 3756,
       "area": "github.copilot",
       "default": "100000",
       "tags": [
@@ -2286,17 +2984,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-14",
+      "addedCommit": "7098ab5",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com"
+      },
+      "owner": {
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com",
+        "date": "2025-11-15",
+        "commit": "5e459a3"
       }
     },
     {
       "name": "github.copilot.chat.workspace.preferredEmbeddingsModel",
       "file": "[Copilot Chat] package.json",
-      "line": 3524,
+      "line": 3796,
       "area": "github.copilot",
       "default": "\"\"",
       "tags": [
@@ -2307,17 +3011,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-14",
+      "addedCommit": "7098ab5",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com"
+      },
+      "owner": {
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com",
+        "date": "2025-11-15",
+        "commit": "5e459a3"
       }
     },
     {
       "name": "github.copilot.chat.workspace.prototypeAdoCodeSearchEndpointOverride",
       "file": "[Copilot Chat] package.json",
-      "line": 3534,
+      "line": 3806,
       "area": "github.copilot",
       "default": "\"\"",
       "tags": [
@@ -2327,17 +3037,23 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-11-14",
+      "addedCommit": "7098ab5",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com"
+      },
+      "owner": {
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com",
+        "date": "2025-11-15",
+        "commit": "5e459a3"
       }
     },
     {
       "name": "github.copilot.nextEditSuggestions.preferredModel",
       "file": "[Copilot Chat] package.json",
-      "line": 3864,
+      "line": 4155,
       "area": "github.copilot",
       "default": "\"none\"",
       "tags": [
@@ -2348,16 +3064,22 @@
       "repoPath": "./vscode-copilot-chat",
       "repoFile": "package.json",
       "repoName": "Copilot Chat",
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
+      "addedDate": "2025-12-02",
+      "addedCommit": "5dde749",
       "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
+        "name": "Ulugbek Abdullaev",
+        "email": "ulugbekna@gmail.com"
+      },
+      "owner": {
+        "name": "Ulugbek Abdullaev",
+        "email": "ulugbekna@gmail.com",
+        "date": "2025-12-02",
+        "commit": "5dde749"
       }
     },
     {
       "name": "http.experimental.networkInterfaceCheckInterval",
-      "file": "[VS Code] src\\vs\\platform\\request\\common\\request.ts",
+      "file": "[VS Code] src/vs/platform/request/common/request.ts",
       "line": 287,
       "area": "http.experimental",
       "default": "300",
@@ -2365,18 +3087,24 @@
         "experimental"
       ],
       "repoPath": "./vscode",
-      "repoFile": "src\\vs\\platform\\request\\common\\request.ts",
+      "repoFile": "src/vs/platform/request/common/request.ts",
       "repoName": "VS Code",
-      "addedDate": "2026-01-08",
-      "addedCommit": "e785475",
+      "addedDate": "2025-09-30",
+      "addedCommit": "ff388f3",
       "addedBy": {
-        "name": "Daniel Imms",
-        "email": "2193314+Tyriar@users.noreply.github.com"
+        "name": "Christof Marti",
+        "email": "chrmarti@microsoft.com"
+      },
+      "owner": {
+        "name": "Christof Marti",
+        "email": "chrmarti@microsoft.com",
+        "date": "2025-09-30",
+        "commit": "ff388f3"
       }
     },
     {
       "name": "http.experimental.systemCertificatesV2",
-      "file": "[VS Code] src\\vs\\platform\\request\\common\\request.ts",
+      "file": "[VS Code] src/vs/platform/request/common/request.ts",
       "line": 274,
       "area": "http.experimental",
       "default": "false",
@@ -2384,18 +3112,24 @@
         "experimental"
       ],
       "repoPath": "./vscode",
-      "repoFile": "src\\vs\\platform\\request\\common\\request.ts",
+      "repoFile": "src/vs/platform/request/common/request.ts",
       "repoName": "VS Code",
-      "addedDate": "2026-01-08",
-      "addedCommit": "e785475",
+      "addedDate": "2023-09-28",
+      "addedCommit": "096a6e4",
       "addedBy": {
-        "name": "Daniel Imms",
-        "email": "2193314+Tyriar@users.noreply.github.com"
+        "name": "Christof Marti",
+        "email": "chrmarti@microsoft.com"
+      },
+      "owner": {
+        "name": "Christof Marti",
+        "email": "chrmarti@microsoft.com",
+        "date": "2025-01-15",
+        "commit": "118e6f5"
       }
     },
     {
       "name": "http.systemCertificatesNode",
-      "file": "[VS Code] src\\vs\\platform\\request\\common\\request.ts",
+      "file": "[VS Code] src/vs/platform/request/common/request.ts",
       "line": 264,
       "area": "http.systemCertificatesNode",
       "default": "systemCertificatesNodeDefault",
@@ -2403,18 +3137,24 @@
         "experimental"
       ],
       "repoPath": "./vscode",
-      "repoFile": "src\\vs\\platform\\request\\common\\request.ts",
+      "repoFile": "src/vs/platform/request/common/request.ts",
       "repoName": "VS Code",
-      "addedDate": "2026-01-08",
-      "addedCommit": "e785475",
+      "addedDate": "2025-11-02",
+      "addedCommit": "470d770",
       "addedBy": {
-        "name": "Daniel Imms",
-        "email": "2193314+Tyriar@users.noreply.github.com"
+        "name": "Christof Marti",
+        "email": "chrmarti@microsoft.com"
+      },
+      "owner": {
+        "name": "Christof Marti",
+        "email": "chrmarti@microsoft.com",
+        "date": "2025-11-02",
+        "commit": "470d770"
       }
     },
     {
       "name": "ipynb.experimental.serialization",
-      "file": "[VS Code] extensions\\ipynb\\package.json",
+      "file": "[VS Code] extensions/ipynb/package.json",
       "line": 42,
       "area": "ipynb.experimental",
       "default": "true",
@@ -2422,18 +3162,24 @@
         "experimental"
       ],
       "repoPath": "./vscode",
-      "repoFile": "extensions\\ipynb\\package.json",
+      "repoFile": "extensions/ipynb/package.json",
       "repoName": "VS Code",
-      "addedDate": "2026-01-08",
-      "addedCommit": "e785475",
+      "addedDate": "2024-08-28",
+      "addedCommit": "366df5a",
       "addedBy": {
-        "name": "Daniel Imms",
-        "email": "2193314+Tyriar@users.noreply.github.com"
+        "name": "nojaf",
+        "email": "florian.verdonck@outlook.com"
+      },
+      "owner": {
+        "name": "Don Jayamanne",
+        "email": "don.jayamanne@outlook.com",
+        "date": "2024-09-12",
+        "commit": "c4645ea"
       }
     },
     {
       "name": "mermaid-chat.enabled",
-      "file": "[VS Code] extensions\\mermaid-chat-features\\package.json",
+      "file": "[VS Code] extensions/mermaid-chat-features/package.json",
       "line": 32,
       "area": "mermaid-chat.enabled",
       "default": "false",
@@ -2441,18 +3187,24 @@
         "experimental"
       ],
       "repoPath": "./vscode",
-      "repoFile": "extensions\\mermaid-chat-features\\package.json",
+      "repoFile": "extensions/mermaid-chat-features/package.json",
       "repoName": "VS Code",
-      "addedDate": "2026-01-08",
-      "addedCommit": "e785475",
+      "addedDate": "2025-09-29",
+      "addedCommit": "07be8ab",
       "addedBy": {
-        "name": "Daniel Imms",
-        "email": "2193314+Tyriar@users.noreply.github.com"
+        "name": "Matt Bierner",
+        "email": "12821956+mjbvz@users.noreply.github.com"
+      },
+      "owner": {
+        "name": "Matt Bierner",
+        "email": "12821956+mjbvz@users.noreply.github.com",
+        "date": "2025-09-29",
+        "commit": "07be8ab"
       }
     },
     {
       "name": "properties",
-      "file": "[VS Code] src\\vs\\workbench\\browser\\workbench.contribution.ts",
+      "file": "[VS Code] src/vs/workbench/browser/workbench.contribution.ts",
       "line": 32,
       "area": "properties",
       "default": "'default'",
@@ -2460,37 +3212,49 @@
         "experimental"
       ],
       "repoPath": "./vscode",
-      "repoFile": "src\\vs\\workbench\\browser\\workbench.contribution.ts",
+      "repoFile": "src/vs/workbench/browser/workbench.contribution.ts",
       "repoName": "VS Code",
-      "addedDate": "2026-01-08",
-      "addedCommit": "e785475",
+      "addedDate": "2019-01-25",
+      "addedCommit": "e83cefd",
       "addedBy": {
-        "name": "Daniel Imms",
-        "email": "2193314+Tyriar@users.noreply.github.com"
+        "name": "Benjamin Pasero",
+        "email": "benjamin.pasero@gmail.com"
+      },
+      "owner": {
+        "name": "Benjamin Pasero",
+        "email": "benjpas@microsoft.com",
+        "date": "2019-02-20",
+        "commit": "983bc95"
       }
     },
     {
       "name": "scm.repositories.explorer",
-      "file": "[VS Code] src\\vs\\workbench\\contrib\\scm\\browser\\scm.contribution.ts",
-      "line": 361,
+      "file": "[VS Code] src/vs/workbench/contrib/scm/browser/scm.contribution.ts",
+      "line": 362,
       "area": "scm.repositories",
       "default": "false",
       "tags": [
         "experimental"
       ],
       "repoPath": "./vscode",
-      "repoFile": "src\\vs\\workbench\\contrib\\scm\\browser\\scm.contribution.ts",
+      "repoFile": "src/vs/workbench/contrib/scm/browser/scm.contribution.ts",
       "repoName": "VS Code",
-      "addedDate": "2026-01-08",
-      "addedCommit": "e785475",
+      "addedDate": "2025-10-30",
+      "addedCommit": "9e8f533",
       "addedBy": {
-        "name": "Daniel Imms",
-        "email": "2193314+Tyriar@users.noreply.github.com"
+        "name": "Ladislau Szomoru",
+        "email": "3372902+lszomoru@users.noreply.github.com"
+      },
+      "owner": {
+        "name": "Ladislau Szomoru",
+        "email": "3372902+lszomoru@users.noreply.github.com",
+        "date": "2025-10-30",
+        "commit": "9e8f533"
       }
     },
     {
       "name": "search.searchView.keywordSuggestions",
-      "file": "[VS Code] src\\vs\\workbench\\contrib\\search\\browser\\search.contribution.ts",
+      "file": "[VS Code] src/vs/workbench/contrib/search/browser/search.contribution.ts",
       "line": 403,
       "area": "search.searchView",
       "default": "false",
@@ -2498,18 +3262,24 @@
         "preview"
       ],
       "repoPath": "./vscode",
-      "repoFile": "src\\vs\\workbench\\contrib\\search\\browser\\search.contribution.ts",
+      "repoFile": "src/vs/workbench/contrib/search/browser/search.contribution.ts",
       "repoName": "VS Code",
-      "addedDate": "2026-01-08",
-      "addedCommit": "e785475",
+      "addedDate": "2025-05-14",
+      "addedCommit": "71888c9",
       "addedBy": {
-        "name": "Daniel Imms",
-        "email": "2193314+Tyriar@users.noreply.github.com"
+        "name": "Osvaldo Ortega",
+        "email": "osortega@microsoft.com"
+      },
+      "owner": {
+        "name": "Osvaldo Ortega",
+        "email": "osortega@microsoft.com",
+        "date": "2025-05-14",
+        "commit": "71888c9"
       }
     },
     {
       "name": "search.searchView.semanticSearchBehavior",
-      "file": "[VS Code] src\\vs\\workbench\\contrib\\search\\browser\\search.contribution.ts",
+      "file": "[VS Code] src/vs/workbench/contrib/search/browser/search.contribution.ts",
       "line": 391,
       "area": "search.searchView",
       "default": "<computed>",
@@ -2517,18 +3287,50 @@
         "preview"
       ],
       "repoPath": "./vscode",
-      "repoFile": "src\\vs\\workbench\\contrib\\search\\browser\\search.contribution.ts",
+      "repoFile": "src/vs/workbench/contrib/search/browser/search.contribution.ts",
       "repoName": "VS Code",
-      "addedDate": "2026-01-08",
-      "addedCommit": "e785475",
+      "addedDate": "2025-05-13",
+      "addedCommit": "e88088a",
       "addedBy": {
-        "name": "Daniel Imms",
-        "email": "2193314+Tyriar@users.noreply.github.com"
+        "name": "Osvaldo Ortega",
+        "email": "osortega@microsoft.com"
+      },
+      "owner": {
+        "name": "Osvaldo Ortega",
+        "email": "osortega@microsoft.com",
+        "date": "2025-05-13",
+        "commit": "e88088a"
+      }
+    },
+    {
+      "name": "simpleBrowser.useIntegratedBrowser",
+      "file": "[VS Code] extensions/simple-browser/package.json",
+      "line": 55,
+      "area": "simpleBrowser.useIntegratedBrowser",
+      "default": "false",
+      "tags": [
+        "experimental",
+        "onExP"
+      ],
+      "repoPath": "./vscode",
+      "repoFile": "extensions/simple-browser/package.json",
+      "repoName": "VS Code",
+      "addedDate": "2026-01-14",
+      "addedCommit": "4e9b0b7",
+      "addedBy": {
+        "name": "Kyle Cutler",
+        "email": "67761731+kycutler@users.noreply.github.com"
+      },
+      "owner": {
+        "name": "Kyle Cutler",
+        "email": "67761731+kycutler@users.noreply.github.com",
+        "date": "2026-01-14",
+        "commit": "4e9b0b7"
       }
     },
     {
       "name": "typescript.experimental.useTsgo",
-      "file": "[VS Code] extensions\\typescript-language-features\\package.json",
+      "file": "[VS Code] extensions/typescript-language-features/package.json",
       "line": 206,
       "area": "typescript.experimental",
       "default": "false",
@@ -2536,18 +3338,24 @@
         "experimental"
       ],
       "repoPath": "./vscode",
-      "repoFile": "extensions\\typescript-language-features\\package.json",
+      "repoFile": "extensions/typescript-language-features/package.json",
       "repoName": "VS Code",
-      "addedDate": "2026-01-08",
-      "addedCommit": "e785475",
+      "addedDate": "2025-04-28",
+      "addedCommit": "5732011",
       "addedBy": {
-        "name": "Daniel Imms",
-        "email": "2193314+Tyriar@users.noreply.github.com"
+        "name": "Andrew Branch",
+        "email": "andrew@wheream.io"
+      },
+      "owner": {
+        "name": "Andrew Branch",
+        "email": "andrew@wheream.io",
+        "date": "2025-04-28",
+        "commit": "5732011"
       }
     },
     {
       "name": "typescript.tsserver.experimental.enableProjectDiagnostics",
-      "file": "[VS Code] extensions\\typescript-language-features\\package.json",
+      "file": "[VS Code] extensions/typescript-language-features/package.json",
       "line": 1424,
       "area": "typescript.tsserver",
       "default": "false",
@@ -2555,18 +3363,24 @@
         "experimental"
       ],
       "repoPath": "./vscode",
-      "repoFile": "extensions\\typescript-language-features\\package.json",
+      "repoFile": "extensions/typescript-language-features/package.json",
       "repoName": "VS Code",
-      "addedDate": "2026-01-08",
-      "addedCommit": "e785475",
+      "addedDate": "2020-02-06",
+      "addedCommit": "f094278",
       "addedBy": {
-        "name": "Daniel Imms",
-        "email": "2193314+Tyriar@users.noreply.github.com"
+        "name": "Matt Bierner",
+        "email": "matb@microsoft.com"
+      },
+      "owner": {
+        "name": "Matt Bierner",
+        "email": "matb@microsoft.com",
+        "date": "2025-04-14",
+        "commit": "8cd20f6"
       }
     },
     {
       "name": "workbench.experimental.share.enabled",
-      "file": "[VS Code] src\\vs\\workbench\\contrib\\share\\browser\\share.contribution.ts",
+      "file": "[VS Code] src/vs/workbench/contrib/share/browser/share.contribution.ts",
       "line": 164,
       "area": "workbench.experimental",
       "default": "false",
@@ -2574,13 +3388,19 @@
         "experimental"
       ],
       "repoPath": "./vscode",
-      "repoFile": "src\\vs\\workbench\\contrib\\share\\browser\\share.contribution.ts",
+      "repoFile": "src/vs/workbench/contrib/share/browser/share.contribution.ts",
       "repoName": "VS Code",
-      "addedDate": "2026-01-08",
-      "addedCommit": "e785475",
+      "addedDate": "2023-05-22",
+      "addedCommit": "bc1090c",
       "addedBy": {
-        "name": "Daniel Imms",
-        "email": "2193314+Tyriar@users.noreply.github.com"
+        "name": "Joyce Er",
+        "email": "joyce.er@microsoft.com"
+      },
+      "owner": {
+        "name": "Joyce Er",
+        "email": "joyce.er@microsoft.com",
+        "date": "2023-06-22",
+        "commit": "578ffcf"
       }
     }
   ]
