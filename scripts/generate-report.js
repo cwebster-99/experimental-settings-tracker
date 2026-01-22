@@ -6,6 +6,7 @@
 
 import { readFile, writeFile } from 'fs/promises';
 import { join } from 'path';
+import { existsSync } from 'fs';
 
 const FOUND_SETTINGS_FILE = process.env.FOUND_SETTINGS_FILE || './found-settings.json';
 const TRACKING_FILE = process.env.TRACKING_FILE || './experimental-settings.json';
@@ -198,7 +199,15 @@ function generateEmptyReport(dateStr, totalCount) {
  */
 async function writeReport(dateStr, markdown) {
     const filename = `report-${dateStr}.md`;
-    const outputPath = join(OUTPUT_DIR, filename);
+    let outputPath = join(OUTPUT_DIR, filename);
+    
+    // Check if file exists and append version number if it does
+    let version = 2;
+    while (existsSync(outputPath)) {
+        const versionedFilename = `report-${dateStr}-v${version}.md`;
+        outputPath = join(OUTPUT_DIR, versionedFilename);
+        version++;
+    }
     
     // Ensure reports directory exists by creating it with the write
     try {
