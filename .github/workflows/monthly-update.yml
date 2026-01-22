@@ -42,7 +42,7 @@ jobs:
             if ! git pull --rebase origin ${{ github.ref_name }}; then
               echo "Rebase failed, aborting rebase and retrying with merge strategy"
               git rebase --abort
-              git pull --no-rebase origin ${{ github.ref_name }}
+              git pull --no-rebase --no-edit origin ${{ github.ref_name }}
             fi
             git push origin ${{ github.ref_name }}
           fi
