@@ -39,10 +39,10 @@ jobs:
           if ! git diff --staged --quiet; then
             git commit -m "chore: monthly experimental settings update [skip ci]"
             # Pull with rebase to handle any remote changes
-            git pull --rebase origin ${{ github.ref_name }} || {
+            if ! git pull --rebase origin ${{ github.ref_name }}; then
               echo "Rebase failed, aborting rebase and retrying with merge strategy"
               git rebase --abort
-              git pull origin ${{ github.ref_name }}
-            }
+              git pull --no-rebase origin ${{ github.ref_name }}
+            fi
             git push origin ${{ github.ref_name }}
           fi
