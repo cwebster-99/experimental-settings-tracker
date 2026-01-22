@@ -38,5 +38,6 @@ jobs:
           git add experimental-settings.json tracking-report.json found-settings.json recent-settings.json reports/ all-settings.md
           if ! git diff --staged --quiet; then
             git commit -m "chore: monthly experimental settings update [skip ci]"
+            git pull --rebase origin ${{ github.ref_name }}
             git push origin ${{ github.ref_name }}
           fi
