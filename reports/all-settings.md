@@ -1,8 +1,8 @@
 # All Experimental Settings
 
-*Generated: 2026-01-21*
+*Generated: 2026-02-01*
 
-Total settings: 132
+Total settings: 137
 
 ## Settings by Area
 
@@ -12,12 +12,16 @@ Total settings: 132
 | `chat.agent.thinking.collapsedTools` | `'always'` | experimental |
 | **chat.allowAnonymousAccess** | | |
 | `chat.allowAnonymousAccess` | `false` | experimental |
+| **chat.editing** | | |
+| `chat.editing.explainChanges.enabled` | `false` | experimental |
 | **chat.extensionUnification** | | |
 | `chat.extensionUnification.enabled` | `true` | experimental |
 | **chat.sendElementsToChat** | | |
 | `chat.sendElementsToChat.attachCSS` | `true` | preview |
 | `chat.sendElementsToChat.attachImages` | `true` | experimental |
 | `chat.sendElementsToChat.enabled` | `true` | preview |
+| **chat.tips** | | |
+| `chat.tips.enabled` | `false` | experimental |
 | **editor.experimental** | | |
 | `editor.experimental.asyncTokenization` | `true` | experimental |
 | `editor.experimental.asyncTokenizationVerification` | `false` | experimental |
@@ -34,7 +38,11 @@ Total settings: 132
 | `editor.inlineSuggest.triggerCommandOnProviderChange` | `defaults.triggerCommandOnProviderChange` | experimental |
 | **git.optimisticUpdate** | | |
 | `git.optimisticUpdate` | `true` | experimental |
+| **git.worktreeIncludeFiles** | | |
+| `git.worktreeIncludeFiles` | `[]` | experimental |
 | **github.copilot** | | |
+| `github.copilot.chat.agent.largeToolResultsToDisk.enabled` | `false` | advanced, experimental, onExp |
+| `github.copilot.chat.agent.largeToolResultsToDisk.thresholdBytes` | `8192` | advanced, experimental, onExp |
 | `github.copilot.chat.agent.omitFileAttachmentContents` | `false` | advanced, experimental |
 | `github.copilot.chat.agent.temperature` | *(null)* | advanced, experimental |
 | `github.copilot.chat.agentHistorySummarizationForceGpt41` | `false` | advanced, experimental, onExp |
@@ -43,18 +51,18 @@ Total settings: 132
 | `github.copilot.chat.alternateGeminiModelFPrompt.enabled` | `false` | experimental, onExp |
 | `github.copilot.chat.alternateGptPrompt.enabled` | `false` | experimental |
 | `github.copilot.chat.anthropic.contextEditing.config` | `null` | advanced, experimental |
-| `github.copilot.chat.anthropic.contextEditing.enabled` | `true` | experimental, onExp |
+| `github.copilot.chat.anthropic.contextEditing.enabled` | `false` | experimental, onExp |
 | `github.copilot.chat.anthropic.thinking.budgetTokens` | `4000` | experimental, onExp |
 | `github.copilot.chat.anthropic.tools.websearch.allowedDomains` | `[]` | experimental |
 | `github.copilot.chat.anthropic.tools.websearch.blockedDomains` | `[]` | experimental |
 | `github.copilot.chat.anthropic.tools.websearch.enabled` | `false` | experimental, onExp |
 | `github.copilot.chat.anthropic.tools.websearch.maxUses` | `5` | experimental |
 | `github.copilot.chat.anthropic.tools.websearch.userLocation` | `null` | experimental |
-| `github.copilot.chat.anthropic.toolSearchTool.enabled` | `false` | experimental, onExp |
+| `github.copilot.chat.anthropic.toolSearchTool.enabled` | `true` | experimental, onExp |
 | `github.copilot.chat.anthropic.useMessagesApi` | `true` | experimental, onExp |
 | `github.copilot.chat.askQuestions.enabled` | `true` | experimental, onExp |
-| `github.copilot.chat.claudeCode.debug` | `false` | advanced, experimental |
-| `github.copilot.chat.claudeCode.enabled` | `false` | advanced, experimental |
+| `github.copilot.chat.claudeAgent.allowDangerouslySkipPermissions` | `false` | preview |
+| `github.copilot.chat.claudeAgent.enabled` | `true` | preview |
 | `github.copilot.chat.cli.customAgents.enabled` | `true` | advanced, experimental |
 | `github.copilot.chat.cli.mcp.enabled` | `false` | advanced, experimental |
 | `github.copilot.chat.codeGeneration.instructions` | `[]` | experimental |
@@ -63,14 +71,12 @@ Total settings: 132
 | `github.copilot.chat.commitMessageGeneration.instructions` | `[]` | experimental |
 | `github.copilot.chat.completionsFetcher` | *(null)* | experimental, onExp |
 | `github.copilot.chat.copilotDebugCommand.enabled` | `true` | preview |
-| `github.copilot.chat.customAgents.showOrganizationAndEnterpriseAgents` | `false` | experimental |
+| `github.copilot.chat.copilotMemory.enabled` | `false` | preview |
 | `github.copilot.chat.debug.overrideChatEngine` | *(null)* | advanced, experimental |
 | `github.copilot.chat.debug.requestLogger.maxEntries` | `100` | advanced, experimental |
 | `github.copilot.chat.debugTerminalCommandPatterns` | `[]` | advanced, experimental |
 | `github.copilot.chat.editRecording.enabled` | `false` | advanced, experimental |
 | `github.copilot.chat.edits.gemini3MultiReplaceString` | `false` | advanced, experimental, onExp |
-| `github.copilot.chat.edits.suggestRelatedFilesForTests` | `true` | experimental |
-| `github.copilot.chat.edits.suggestRelatedFilesFromGitHistory` | `true` | experimental |
 | `github.copilot.chat.enableUserPreferences` | `false` | advanced, experimental |
 | `github.copilot.chat.feedback.onChange` | `false` | advanced, experimental |
 | `github.copilot.chat.generateTests.codeLens` | `false` | experimental |
@@ -80,6 +86,7 @@ Total settings: 132
 | `github.copilot.chat.githubMcpServer.toolsets` | `["default"]` | experimental |
 | `github.copilot.chat.gpt5AlternativePatch` | `false` | advanced, experimental, onExp |
 | `github.copilot.chat.imageUpload.enabled` | `true` | experimental, onExp |
+| `github.copilot.chat.implementAgent.model` | `""` | experimental |
 | `github.copilot.chat.inlineChat.selectionRatioThreshold` | `0` | advanced, experimental, onExp |
 | `github.copilot.chat.inlineEdits.chatSessionContextProvider.enabled` | `false` | advanced, experimental, onExp |
 | `github.copilot.chat.inlineEdits.diagnosticsContextProvider.enabled` | `false` | advanced, experimental, onExp |
@@ -106,6 +113,8 @@ Total settings: 132
 | `github.copilot.chat.notebook.summaryExperimentEnabled` | `false` | advanced, experimental |
 | `github.copilot.chat.notebook.variableFilteringEnabled` | `false` | advanced, experimental |
 | `github.copilot.chat.omitBaseAgentInstructions` | `false` | advanced, experimental |
+| `github.copilot.chat.planAgent.additionalTools` | `[]` | experimental |
+| `github.copilot.chat.planAgent.model` | `""` | experimental |
 | `github.copilot.chat.projectLabels.chat` | `false` | advanced, experimental, onExp |
 | `github.copilot.chat.projectLabels.expanded` | `false` | advanced, experimental, onExp |
 | `github.copilot.chat.projectLabels.inline` | `false` | advanced, experimental, onExp |
@@ -118,14 +127,14 @@ Total settings: 132
 | `github.copilot.chat.reviewSelection.enabled` | `true` | preview |
 | `github.copilot.chat.reviewSelection.instructions` | `[]` | preview |
 | `github.copilot.chat.searchSubagent.enabled` | `false` | advanced, experimental, onExp |
+| `github.copilot.chat.searchSubagent.model` | `""` | advanced, experimental, onExp |
+| `github.copilot.chat.searchSubagent.toolCallLimit` | `4` | advanced, experimental, onExp |
 | `github.copilot.chat.setupTests.enabled` | `true` | experimental |
-| `github.copilot.chat.suggestRelatedFilesFromGitHistory.useEmbeddings` | `false` | advanced, experimental |
 | `github.copilot.chat.summarizeAgentConversationHistory.enabled` | `true` | experimental |
 | `github.copilot.chat.summarizeAgentConversationHistoryThreshold` | *(null)* | advanced, experimental |
+| `github.copilot.chat.switchAgent.enabled` | `false` | experimental |
 | `github.copilot.chat.testGeneration.instructions` | `[]` | experimental |
 | `github.copilot.chat.tools.defaultToolsGrouped` | `false` | advanced, experimental, onExp |
-| `github.copilot.chat.tools.memory.enabled` | `false` | experimental, onExp |
-| `github.copilot.chat.useResponsesApi` | `true` | experimental, onExp |
 | `github.copilot.chat.useResponsesApiTruncation` | `false` | advanced, experimental |
 | `github.copilot.chat.virtualTools.threshold` | `128` | experimental |
 | `github.copilot.chat.workspace.enableCodeSearch` | `true` | advanced, experimental, onExp |
@@ -142,8 +151,6 @@ Total settings: 132
 | `http.systemCertificatesNode` | `systemCertificatesNodeDefault` | experimental |
 | **ipynb.experimental** | | |
 | `ipynb.experimental.serialization` | `true` | experimental |
-| **mermaid-chat.enabled** | | |
-| `mermaid-chat.enabled` | `false` | experimental |
 | **properties** | | |
 | `properties` | `'default'` | experimental |
 | **scm.repositories** | | |
