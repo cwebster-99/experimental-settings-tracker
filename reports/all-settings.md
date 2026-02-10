@@ -2,14 +2,16 @@
 
 *Generated: 2026-02-10*
 
-Total settings: 141
+Total settings: 148
 
-> ⚠️ **114 setting(s)** have been experimental for more than 60 days.
+> ⚠️ **120 setting(s)** have been experimental for more than 60 days.
 
 ## Settings by Area
 
 | Setting | Added Date | Default | Tags |
 |---------|------------|---------|------|
+| **application.experimental** | | | |
+| `application.experimental.rendererProfiling` | 2025-06-09 ⚠️ | `false` | experimental |
 | **chat.agent** | | | |
 | `chat.agent.thinking.collapsedTools` | 2025-10-26 ⚠️ | `'always'` | experimental |
 | **chat.allowAnonymousAccess** | | | |
@@ -119,7 +121,6 @@ Total settings: 141
 | `github.copilot.chat.notebook.variableFilteringEnabled` | 2025-11-14 ⚠️ | `false` | advanced, experimental |
 | `github.copilot.chat.omitBaseAgentInstructions` | 2025-11-14 ⚠️ | `false` | advanced, experimental |
 | `github.copilot.chat.planAgent.additionalTools` | 2026-01-22 | `[]` | experimental |
-| `github.copilot.chat.planAgent.model` | 2026-01-22 | `""` | experimental |
 | `github.copilot.chat.projectLabels.chat` | 2025-11-14 ⚠️ | `false` | advanced, experimental, onExp |
 | `github.copilot.chat.projectLabels.expanded` | 2025-11-14 ⚠️ | `false` | advanced, experimental, onExp |
 | `github.copilot.chat.projectLabels.inline` | 2025-11-14 ⚠️ | `false` | advanced, experimental, onExp |
@@ -157,8 +158,6 @@ Total settings: 141
 | `http.systemCertificatesNode` | 2025-11-02 ⚠️ | `systemCertificatesNodeDefault` | experimental |
 | **ipynb.experimental** | | | |
 | `ipynb.experimental.serialization` | 2024-08-28 ⚠️ | `true` | experimental |
-| **properties** | | | |
-| `properties` | 2019-01-25 ⚠️ | `'default'` | experimental |
 | **scm.repositories** | | | |
 | `scm.repositories.explorer` | 2025-10-30 ⚠️ | `false` | experimental |
 | **search.searchView** | | | |
@@ -170,21 +169,36 @@ Total settings: 141
 | `typescript.experimental.useTsgo` | 2025-04-28 ⚠️ | `false` | experimental |
 | **typescript.tsserver** | | | |
 | `typescript.tsserver.experimental.enableProjectDiagnostics` | 2020-02-06 ⚠️ | `false` | experimental |
+| **workbench.commandPalette** | | | |
+| `workbench.commandPalette.experimental.askChatLocation` | 2023-09-08 ⚠️ | *(null)* | experimental |
+| `workbench.commandPalette.experimental.enableNaturalLanguageSearch` | 2023-08-25 ⚠️ | *(null)* | experimental |
+| `workbench.commandPalette.experimental.suggestCommands` | 2023-01-17 ⚠️ | *(null)* | experimental |
+| `workbench.commandPalette.showAskInChat` | 2025-10-10 ⚠️ | *(null)* | experimental |
+| **workbench.editor** | | | |
+| `workbench.editor.allowOpenInModalEditor` | 2026-02-05 | *(null)* | experimental |
 | **workbench.experimental** | | | |
+| `workbench.experimental.cloudChanges.autoStore` | 2022-11-29 ⚠️ | *(null)* |  |
+| `workbench.experimental.cloudChanges.partialMatches.enabled` | 2022-11-29 ⚠️ | *(null)* |  |
 | `workbench.experimental.share.enabled` | 2023-05-22 ⚠️ | `false` | experimental |
+| **workbench.secondarySideBar** | | | |
+| `workbench.secondarySideBar.forceMaximized` | 2026-01-25 | *(null)* | experimental |
 
 ## ⚠️ Experimental for 60+ Days
 
-114 setting(s) have been experimental for more than 60 days and may need review.
+120 setting(s) have been experimental for more than 60 days and may need review.
 
 | Setting | Added Date | Age (days) | Owner | Area |
 |---------|------------|------------|-------|------|
-| `properties` | 2019-01-25 | 2573 | Benjamin Pasero | properties |
 | `typescript.tsserver.experimental.enableProjectDiagnostics` | 2020-02-06 | 2196 | Matt Bierner | typescript.tsserver |
 | `git.optimisticUpdate` | 2022-11-04 | 1194 | Ladislau Szomoru | git.optimisticUpdate |
+| `workbench.experimental.cloudChanges.autoStore` | 2022-11-29 | 1169 | Joyce Er | workbench.experimental |
+| `workbench.experimental.cloudChanges.partialMatches.enabled` | 2022-11-29 | 1169 | Joyce Er | workbench.experimental |
+| `workbench.commandPalette.experimental.suggestCommands` | 2023-01-17 | 1120 | Tyler James Leonhardt | workbench.commandPalette |
 | `editor.experimental.asyncTokenization` | 2023-02-15 | 1091 | Henning Dieterichs | editor.experimental |
 | `editor.experimental.asyncTokenizationVerification` | 2023-04-04 | 1043 | Henning Dieterichs | editor.experimental |
 | `workbench.experimental.share.enabled` | 2023-05-22 | 995 | Joyce Er | workbench.experimental |
+| `workbench.commandPalette.experimental.enableNaturalLanguageSearch` | 2023-08-25 | 900 | Tyler James Leonhardt | workbench.commandPalette |
+| `workbench.commandPalette.experimental.askChatLocation` | 2023-09-08 | 886 | Tyler James Leonhardt | workbench.commandPalette |
 | `http.experimental.systemCertificatesV2` | 2023-09-28 | 866 | Christof Marti | http.experimental |
 | `editor.experimental.treeSitterTelemetry` | 2024-08-07 | 552 | Alex Ross | editor.experimental |
 | `ipynb.experimental.serialization` | 2024-08-28 | 531 | nojaf | ipynb.experimental |
@@ -199,6 +213,7 @@ Total settings: 141
 | `search.searchView.semanticSearchBehavior` | 2025-05-13 | 273 | Osvaldo Ortega | search.searchView |
 | `search.searchView.keywordSuggestions` | 2025-05-14 | 272 | Osvaldo Ortega | search.searchView |
 | `editor.inlineSuggest.experimental.suppressInlineSuggestions` | 2025-05-28 | 258 | Benjamin Christopher Simmonds | editor.inlineSuggest |
+| `application.experimental.rendererProfiling` | 2025-06-09 | 246 | Benjamin Pasero | application.experimental |
 | `github.copilot.chat.codeGeneration.instructions` | 2025-06-27 | 228 | kieferrm | github.copilot |
 | `github.copilot.chat.codesearch.enabled` | 2025-06-27 | 228 | kieferrm | github.copilot |
 | `github.copilot.chat.commitMessageGeneration.instructions` | 2025-06-27 | 228 | kieferrm | github.copilot |
@@ -234,6 +249,7 @@ Total settings: 141
 | `editor.inlineSuggest.experimental.emptyResponseInformation` | 2025-10-01 | 132 | BeniBenj | editor.inlineSuggest |
 | `github.copilot.chat.completionsFetcher` | 2025-10-07 | 126 | Christof Marti | github.copilot |
 | `github.copilot.chat.nesFetcher` | 2025-10-07 | 126 | Christof Marti | github.copilot |
+| `workbench.commandPalette.showAskInChat` | 2025-10-10 | 123 | Dmitriy Vasyura | workbench.commandPalette |
 | `chat.agent.thinking.collapsedTools` | 2025-10-26 | 107 | Justin Chen | chat.agent |
 | `chat.extensionUnification.enabled` | 2025-10-30 | 103 | Benjamin Christopher Simmonds | chat.extensionUnification |
 | `github.copilot.chat.anthropic.tools.websearch.enabled` | 2025-10-30 | 103 | Bhavya U | github.copilot |

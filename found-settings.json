@@ -1,7 +1,32 @@
 {
-  "timestamp": "2026-02-10T19:04:01.758Z",
-  "count": 141,
+  "timestamp": "2026-02-10T19:33:45.292Z",
+  "count": 148,
   "settings": [
+    {
+      "name": "application.experimental.rendererProfiling",
+      "file": "[VS Code] src/vs/workbench/contrib/performance/electron-browser/performance.contribution.ts",
+      "line": 40,
+      "area": "application.experimental",
+      "default": "false",
+      "tags": [
+        "experimental"
+      ],
+      "repoPath": "./vscode",
+      "repoFile": "src/vs/workbench/contrib/performance/electron-browser/performance.contribution.ts",
+      "repoName": "VS Code",
+      "addedDate": "2025-06-09",
+      "addedCommit": "cdf404f",
+      "addedBy": {
+        "name": "Benjamin Pasero",
+        "email": "benjamin.pasero@microsoft.com"
+      },
+      "owner": {
+        "name": "Johannes Rieken",
+        "email": "johannes.rieken@gmail.com",
+        "date": "2022-10-21",
+        "commit": "a7b1c3e"
+      }
+    },
     {
       "name": "chat.agent.thinking.collapsedTools",
       "file": "[VS Code] src/vs/workbench/contrib/chat/browser/chat.contribution.ts",
@@ -556,7 +581,7 @@
     {
       "name": "github.copilot.chat.agent.largeToolResultsToDisk.enabled",
       "file": "[Copilot Chat] package.json",
-      "line": 4243,
+      "line": 4234,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -583,7 +608,7 @@
     {
       "name": "github.copilot.chat.agent.largeToolResultsToDisk.thresholdBytes",
       "file": "[Copilot Chat] package.json",
-      "line": 4253,
+      "line": 4244,
       "area": "github.copilot",
       "default": "8192",
       "tags": [
@@ -610,7 +635,7 @@
     {
       "name": "github.copilot.chat.agent.omitFileAttachmentContents",
       "file": "[Copilot Chat] package.json",
-      "line": 4234,
+      "line": 4225,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -636,7 +661,7 @@
     {
       "name": "github.copilot.chat.agent.temperature",
       "file": "[Copilot Chat] package.json",
-      "line": 4223,
+      "line": 4214,
       "area": "github.copilot",
       "default": null,
       "tags": [
@@ -662,7 +687,7 @@
     {
       "name": "github.copilot.chat.agentHistorySummarizationForceGpt41",
       "file": "[Copilot Chat] package.json",
-      "line": 4324,
+      "line": 4315,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -689,7 +714,7 @@
     {
       "name": "github.copilot.chat.agentHistorySummarizationMode",
       "file": "[Copilot Chat] package.json",
-      "line": 4303,
+      "line": 4294,
       "area": "github.copilot",
       "default": null,
       "tags": [
@@ -715,7 +740,7 @@
     {
       "name": "github.copilot.chat.agentHistorySummarizationWithPromptCache",
       "file": "[Copilot Chat] package.json",
-      "line": 4314,
+      "line": 4305,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -819,7 +844,7 @@
     {
       "name": "github.copilot.chat.anthropic.contextEditing.config",
       "file": "[Copilot Chat] package.json",
-      "line": 3929,
+      "line": 3920,
       "area": "github.copilot",
       "default": "null",
       "tags": [
@@ -1100,7 +1125,7 @@
     {
       "name": "github.copilot.chat.askAgent.additionalTools",
       "file": "[Copilot Chat] package.json",
-      "line": 3903,
+      "line": 3894,
       "area": "github.copilot",
       "default": "[]",
       "tags": [
@@ -1125,7 +1150,7 @@
     {
       "name": "github.copilot.chat.askAgent.model",
       "file": "[Copilot Chat] package.json",
-      "line": 3915,
+      "line": 3906,
       "area": "github.copilot",
       "default": "\"\"",
       "tags": [
@@ -1176,7 +1201,7 @@
     {
       "name": "github.copilot.chat.cli.customAgents.enabled",
       "file": "[Copilot Chat] package.json",
-      "line": 4434,
+      "line": 4425,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -1202,7 +1227,7 @@
     {
       "name": "github.copilot.chat.cli.integration.enabled",
       "file": "[Copilot Chat] package.json",
-      "line": 4443,
+      "line": 4434,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1228,7 +1253,7 @@
     {
       "name": "github.copilot.chat.cli.mcp.enabled",
       "file": "[Copilot Chat] package.json",
-      "line": 4452,
+      "line": 4443,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1279,7 +1304,7 @@
     {
       "name": "github.copilot.chat.codesearch.agent.enabled",
       "file": "[Copilot Chat] package.json",
-      "line": 4214,
+      "line": 4205,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -1431,7 +1456,7 @@
     {
       "name": "github.copilot.chat.debug.overrideChatEngine",
       "file": "[Copilot Chat] package.json",
-      "line": 3975,
+      "line": 3966,
       "area": "github.copilot",
       "default": null,
       "tags": [
@@ -1457,7 +1482,7 @@
     {
       "name": "github.copilot.chat.debug.requestLogger.maxEntries",
       "file": "[Copilot Chat] package.json",
-      "line": 4185,
+      "line": 4176,
       "area": "github.copilot",
       "default": "100",
       "tags": [
@@ -1483,7 +1508,7 @@
     {
       "name": "github.copilot.chat.debugTerminalCommandPatterns",
       "file": "[Copilot Chat] package.json",
-      "line": 4145,
+      "line": 4136,
       "area": "github.copilot",
       "default": "[]",
       "tags": [
@@ -1509,7 +1534,7 @@
     {
       "name": "github.copilot.chat.editRecording.enabled",
       "file": "[Copilot Chat] package.json",
-      "line": 4166,
+      "line": 4157,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1535,7 +1560,7 @@
     {
       "name": "github.copilot.chat.edits.gemini3MultiReplaceString",
       "file": "[Copilot Chat] package.json",
-      "line": 3986,
+      "line": 3977,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1562,7 +1587,7 @@
     {
       "name": "github.copilot.chat.enableUserPreferences",
       "file": "[Copilot Chat] package.json",
-      "line": 4283,
+      "line": 4274,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1588,7 +1613,7 @@
     {
       "name": "github.copilot.chat.feedback.onChange",
       "file": "[Copilot Chat] package.json",
-      "line": 4085,
+      "line": 4076,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1739,7 +1764,7 @@
     {
       "name": "github.copilot.chat.gpt5AlternativePatch",
       "file": "[Copilot Chat] package.json",
-      "line": 4372,
+      "line": 4363,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1792,7 +1817,7 @@
     {
       "name": "github.copilot.chat.implementAgent.model",
       "file": "[Copilot Chat] package.json",
-      "line": 3894,
+      "line": 3885,
       "area": "github.copilot",
       "default": "\"\"",
       "tags": [
@@ -1817,7 +1842,7 @@
     {
       "name": "github.copilot.chat.inlineChat.selectionRatioThreshold",
       "file": "[Copilot Chat] package.json",
-      "line": 4175,
+      "line": 4166,
       "area": "github.copilot",
       "default": "0",
       "tags": [
@@ -1844,7 +1869,7 @@
     {
       "name": "github.copilot.chat.inlineEdits.chatSessionContextProvider.enabled",
       "file": "[Copilot Chat] package.json",
-      "line": 4204,
+      "line": 4195,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1871,7 +1896,7 @@
     {
       "name": "github.copilot.chat.inlineEdits.diagnosticsContextProvider.enabled",
       "file": "[Copilot Chat] package.json",
-      "line": 4194,
+      "line": 4185,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1898,7 +1923,7 @@
     {
       "name": "github.copilot.chat.inlineEdits.nextCursorPrediction.currentFileMaxTokens",
       "file": "[Copilot Chat] package.json",
-      "line": 4404,
+      "line": 4395,
       "area": "github.copilot",
       "default": "2000",
       "tags": [
@@ -1925,7 +1950,7 @@
     {
       "name": "github.copilot.chat.inlineEdits.nextCursorPrediction.displayLine",
       "file": "[Copilot Chat] package.json",
-      "line": 4394,
+      "line": 4385,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -1952,7 +1977,7 @@
     {
       "name": "github.copilot.chat.inlineEdits.renameSymbolSuggestions",
       "file": "[Copilot Chat] package.json",
-      "line": 4414,
+      "line": 4405,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -1979,7 +2004,7 @@
     {
       "name": "github.copilot.chat.inlineEdits.triggerOnEditorChangeAfterSeconds",
       "file": "[Copilot Chat] package.json",
-      "line": 4382,
+      "line": 4373,
       "area": "github.copilot",
       "default": null,
       "tags": [
@@ -2006,7 +2031,7 @@
     {
       "name": "github.copilot.chat.instantApply.shortContextLimit",
       "file": "[Copilot Chat] package.json",
-      "line": 4273,
+      "line": 4264,
       "area": "github.copilot",
       "default": "8000",
       "tags": [
@@ -2033,7 +2058,7 @@
     {
       "name": "github.copilot.chat.instantApply.shortContextModelName",
       "file": "[Copilot Chat] package.json",
-      "line": 4263,
+      "line": 4254,
       "area": "github.copilot",
       "default": "\"gpt-4o-instant-apply-full-ft-v66-short\"",
       "tags": [
@@ -2216,7 +2241,7 @@
     {
       "name": "github.copilot.chat.localWorkspaceRecording.enabled",
       "file": "[Copilot Chat] package.json",
-      "line": 4157,
+      "line": 4148,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2318,7 +2343,7 @@
     {
       "name": "github.copilot.chat.notebook.alternativeFormat",
       "file": "[Copilot Chat] package.json",
-      "line": 4121,
+      "line": 4112,
       "area": "github.copilot",
       "default": "\"xml\"",
       "tags": [
@@ -2345,7 +2370,7 @@
     {
       "name": "github.copilot.chat.notebook.alternativeNESFormat.enabled",
       "file": "[Copilot Chat] package.json",
-      "line": 4135,
+      "line": 4126,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2423,7 +2448,7 @@
     {
       "name": "github.copilot.chat.notebook.summaryExperimentEnabled",
       "file": "[Copilot Chat] package.json",
-      "line": 4103,
+      "line": 4094,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2449,7 +2474,7 @@
     {
       "name": "github.copilot.chat.notebook.variableFilteringEnabled",
       "file": "[Copilot Chat] package.json",
-      "line": 4112,
+      "line": 4103,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2475,7 +2500,7 @@
     {
       "name": "github.copilot.chat.omitBaseAgentInstructions",
       "file": "[Copilot Chat] package.json",
-      "line": 4343,
+      "line": 4334,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2524,34 +2549,9 @@
       }
     },
     {
-      "name": "github.copilot.chat.planAgent.model",
-      "file": "[Copilot Chat] package.json",
-      "line": 3885,
-      "area": "github.copilot",
-      "default": "\"\"",
-      "tags": [
-        "experimental"
-      ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
-      "addedDate": "2026-01-22",
-      "addedCommit": "f5f92d9",
-      "addedBy": {
-        "name": "Harald Kirschner",
-        "email": "hkirschner@microsoft.com"
-      },
-      "owner": {
-        "name": "Harald Kirschner",
-        "email": "hkirschner@microsoft.com",
-        "date": "2026-01-23",
-        "commit": "f5f92d9"
-      }
-    },
-    {
       "name": "github.copilot.chat.projectLabels.chat",
       "file": "[Copilot Chat] package.json",
-      "line": 4006,
+      "line": 3997,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2578,7 +2578,7 @@
     {
       "name": "github.copilot.chat.projectLabels.expanded",
       "file": "[Copilot Chat] package.json",
-      "line": 3996,
+      "line": 3987,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2605,7 +2605,7 @@
     {
       "name": "github.copilot.chat.projectLabels.inline",
       "file": "[Copilot Chat] package.json",
-      "line": 4016,
+      "line": 4007,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2632,7 +2632,7 @@
     {
       "name": "github.copilot.chat.promptFileContextProvider.enabled",
       "file": "[Copilot Chat] package.json",
-      "line": 4352,
+      "line": 4343,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -2736,7 +2736,7 @@
     {
       "name": "github.copilot.chat.review.intent",
       "file": "[Copilot Chat] package.json",
-      "line": 4094,
+      "line": 4085,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2837,7 +2837,7 @@
     {
       "name": "github.copilot.chat.searchSubagent.enabled",
       "file": "[Copilot Chat] package.json",
-      "line": 4470,
+      "line": 4461,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2864,7 +2864,7 @@
     {
       "name": "github.copilot.chat.searchSubagent.model",
       "file": "[Copilot Chat] package.json",
-      "line": 4488,
+      "line": 4479,
       "area": "github.copilot",
       "default": "\"\"",
       "tags": [
@@ -2891,7 +2891,7 @@
     {
       "name": "github.copilot.chat.searchSubagent.toolCallLimit",
       "file": "[Copilot Chat] package.json",
-      "line": 4498,
+      "line": 4489,
       "area": "github.copilot",
       "default": "4",
       "tags": [
@@ -2968,7 +2968,7 @@
     {
       "name": "github.copilot.chat.summarizeAgentConversationHistoryThreshold",
       "file": "[Copilot Chat] package.json",
-      "line": 4292,
+      "line": 4283,
       "area": "github.copilot",
       "default": null,
       "tags": [
@@ -3044,7 +3044,7 @@
     {
       "name": "github.copilot.chat.tools.defaultToolsGrouped",
       "file": "[Copilot Chat] package.json",
-      "line": 4362,
+      "line": 4353,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -3096,7 +3096,7 @@
     {
       "name": "github.copilot.chat.useResponsesApiTruncation",
       "file": "[Copilot Chat] package.json",
-      "line": 4334,
+      "line": 4325,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -3147,7 +3147,7 @@
     {
       "name": "github.copilot.chat.workspace.enableCodeSearch",
       "file": "[Copilot Chat] package.json",
-      "line": 4046,
+      "line": 4037,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -3174,7 +3174,7 @@
     {
       "name": "github.copilot.chat.workspace.enableEmbeddingsSearch",
       "file": "[Copilot Chat] package.json",
-      "line": 4056,
+      "line": 4047,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -3201,7 +3201,7 @@
     {
       "name": "github.copilot.chat.workspace.enableFullWorkspace",
       "file": "[Copilot Chat] package.json",
-      "line": 4036,
+      "line": 4027,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -3228,7 +3228,7 @@
     {
       "name": "github.copilot.chat.workspace.maxLocalIndexSize",
       "file": "[Copilot Chat] package.json",
-      "line": 4026,
+      "line": 4017,
       "area": "github.copilot",
       "default": "100000",
       "tags": [
@@ -3255,7 +3255,7 @@
     {
       "name": "github.copilot.chat.workspace.preferredEmbeddingsModel",
       "file": "[Copilot Chat] package.json",
-      "line": 4066,
+      "line": 4057,
       "area": "github.copilot",
       "default": "\"\"",
       "tags": [
@@ -3282,7 +3282,7 @@
     {
       "name": "github.copilot.chat.workspace.prototypeAdoCodeSearchEndpointOverride",
       "file": "[Copilot Chat] package.json",
-      "line": 4076,
+      "line": 4067,
       "area": "github.copilot",
       "default": "\"\"",
       "tags": [
@@ -3308,7 +3308,7 @@
     {
       "name": "github.copilot.nextEditSuggestions.preferredModel",
       "file": "[Copilot Chat] package.json",
-      "line": 4424,
+      "line": 4415,
       "area": "github.copilot",
       "default": "\"none\"",
       "tags": [
@@ -3430,31 +3430,6 @@
         "email": "don.jayamanne@outlook.com",
         "date": "2024-09-12",
         "commit": "c4645ea"
-      }
-    },
-    {
-      "name": "properties",
-      "file": "[VS Code] src/vs/workbench/browser/workbench.contribution.ts",
-      "line": 32,
-      "area": "properties",
-      "default": "'default'",
-      "tags": [
-        "experimental"
-      ],
-      "repoPath": "./vscode",
-      "repoFile": "src/vs/workbench/browser/workbench.contribution.ts",
-      "repoName": "VS Code",
-      "addedDate": "2019-01-25",
-      "addedCommit": "e83cefd",
-      "addedBy": {
-        "name": "Benjamin Pasero",
-        "email": "benjamin.pasero@gmail.com"
-      },
-      "owner": {
-        "name": "Benjamin Pasero",
-        "email": "benjpas@microsoft.com",
-        "date": "2019-02-20",
-        "commit": "983bc95"
       }
     },
     {
@@ -3609,6 +3584,177 @@
       }
     },
     {
+      "name": "workbench.commandPalette.experimental.askChatLocation",
+      "file": "[VS Code] src/vs/workbench/browser/workbench.contribution.ts",
+      "line": 503,
+      "area": "workbench.commandPalette",
+      "default": null,
+      "tags": [
+        "experimental"
+      ],
+      "repoPath": "./vscode",
+      "repoFile": "src/vs/workbench/browser/workbench.contribution.ts",
+      "repoName": "VS Code",
+      "addedDate": "2023-09-08",
+      "addedCommit": "6fe1a14",
+      "addedBy": {
+        "name": "Tyler James Leonhardt",
+        "email": "me@tylerleonhardt.com"
+      },
+      "owner": {
+        "name": "Tyler James Leonhardt",
+        "email": "me@tylerleonhardt.com",
+        "date": "2023-09-09",
+        "commit": "6fe1a14"
+      }
+    },
+    {
+      "name": "workbench.commandPalette.experimental.enableNaturalLanguageSearch",
+      "file": "[VS Code] src/vs/workbench/browser/workbench.contribution.ts",
+      "line": 520,
+      "area": "workbench.commandPalette",
+      "default": null,
+      "tags": [
+        "experimental"
+      ],
+      "repoPath": "./vscode",
+      "repoFile": "src/vs/workbench/browser/workbench.contribution.ts",
+      "repoName": "VS Code",
+      "addedDate": "2023-08-25",
+      "addedCommit": "aced05c",
+      "addedBy": {
+        "name": "Tyler James Leonhardt",
+        "email": "me@tylerleonhardt.com"
+      },
+      "owner": {
+        "name": "Tyler James Leonhardt",
+        "email": "me@tylerleonhardt.com",
+        "date": "2023-08-25",
+        "commit": "aced05c"
+      }
+    },
+    {
+      "name": "workbench.commandPalette.experimental.suggestCommands",
+      "file": "[VS Code] src/vs/workbench/browser/workbench.contribution.ts",
+      "line": 497,
+      "area": "workbench.commandPalette",
+      "default": null,
+      "tags": [
+        "experimental"
+      ],
+      "repoPath": "./vscode",
+      "repoFile": "src/vs/workbench/browser/workbench.contribution.ts",
+      "repoName": "VS Code",
+      "addedDate": "2023-01-17",
+      "addedCommit": "fc4fba3",
+      "addedBy": {
+        "name": "Tyler James Leonhardt",
+        "email": "me@tylerleonhardt.com"
+      },
+      "owner": {
+        "name": "Tyler James Leonhardt",
+        "email": "me@tylerleonhardt.com",
+        "date": "2023-01-17",
+        "commit": "fc4fba3"
+      }
+    },
+    {
+      "name": "workbench.commandPalette.showAskInChat",
+      "file": "[VS Code] src/vs/workbench/browser/workbench.contribution.ts",
+      "line": 514,
+      "area": "workbench.commandPalette",
+      "default": null,
+      "tags": [
+        "experimental"
+      ],
+      "repoPath": "./vscode",
+      "repoFile": "src/vs/workbench/browser/workbench.contribution.ts",
+      "repoName": "VS Code",
+      "addedDate": "2025-10-10",
+      "addedCommit": "5f88101",
+      "addedBy": {
+        "name": "Dmitriy Vasyura",
+        "email": "dmitriv@microsoft.com"
+      },
+      "owner": {
+        "name": "Dmitriy Vasyura",
+        "email": "dmitriv@microsoft.com",
+        "date": "2025-10-11",
+        "commit": "5f88101"
+      }
+    },
+    {
+      "name": "workbench.editor.allowOpenInModalEditor",
+      "file": "[VS Code] src/vs/workbench/browser/workbench.contribution.ts",
+      "line": 352,
+      "area": "workbench.editor",
+      "default": null,
+      "tags": [
+        "experimental"
+      ],
+      "repoPath": "./vscode",
+      "repoFile": "src/vs/workbench/browser/workbench.contribution.ts",
+      "repoName": "VS Code",
+      "addedDate": "2026-02-05",
+      "addedCommit": "bf79fb6",
+      "addedBy": {
+        "name": "Benjamin Pasero",
+        "email": "benjamin.pasero@gmail.com"
+      },
+      "owner": {
+        "name": "Benjamin Pasero",
+        "email": "benjamin.pasero@gmail.com",
+        "date": "2026-02-05",
+        "commit": "bf79fb6"
+      }
+    },
+    {
+      "name": "workbench.experimental.cloudChanges.autoStore",
+      "file": "[VS Code] src/vs/workbench/contrib/editSessions/browser/editSessions.contribution.ts",
+      "line": 1154,
+      "area": "workbench.experimental",
+      "default": null,
+      "tags": [],
+      "repoPath": "./vscode",
+      "repoFile": "src/vs/workbench/contrib/editSessions/browser/editSessions.contribution.ts",
+      "repoName": "VS Code",
+      "addedDate": "2022-11-29",
+      "addedCommit": "1a1ff9c",
+      "addedBy": {
+        "name": "Joyce Er",
+        "email": "joyce.er@microsoft.com"
+      },
+      "owner": {
+        "name": "Joyce Er",
+        "email": "joyce.er@microsoft.com",
+        "date": "2022-11-30",
+        "commit": "1a1ff9c"
+      }
+    },
+    {
+      "name": "workbench.experimental.cloudChanges.partialMatches.enabled",
+      "file": "[VS Code] src/vs/workbench/contrib/editSessions/browser/editSessions.contribution.ts",
+      "line": 1187,
+      "area": "workbench.experimental",
+      "default": null,
+      "tags": [],
+      "repoPath": "./vscode",
+      "repoFile": "src/vs/workbench/contrib/editSessions/browser/editSessions.contribution.ts",
+      "repoName": "VS Code",
+      "addedDate": "2022-11-29",
+      "addedCommit": "1a1ff9c",
+      "addedBy": {
+        "name": "Joyce Er",
+        "email": "joyce.er@microsoft.com"
+      },
+      "owner": {
+        "name": "Joyce Er",
+        "email": "joyce.er@microsoft.com",
+        "date": "2022-11-30",
+        "commit": "1a1ff9c"
+      }
+    },
+    {
       "name": "workbench.experimental.share.enabled",
       "file": "[VS Code] src/vs/workbench/contrib/share/browser/share.contribution.ts",
       "line": 164,
@@ -3631,6 +3777,31 @@
         "email": "joyce.er@microsoft.com",
         "date": "2023-06-22",
         "commit": "578ffcf"
+      }
+    },
+    {
+      "name": "workbench.secondarySideBar.forceMaximized",
+      "file": "[VS Code] src/vs/workbench/browser/workbench.contribution.ts",
+      "line": 597,
+      "area": "workbench.secondarySideBar",
+      "default": null,
+      "tags": [
+        "experimental"
+      ],
+      "repoPath": "./vscode",
+      "repoFile": "src/vs/workbench/browser/workbench.contribution.ts",
+      "repoName": "VS Code",
+      "addedDate": "2026-01-25",
+      "addedCommit": "390f10d",
+      "addedBy": {
+        "name": "Benjamin Pasero",
+        "email": "benjamin.pasero@gmail.com"
+      },
+      "owner": {
+        "name": "Benjamin Pasero",
+        "email": "benjamin.pasero@gmail.com",
+        "date": "2026-01-25",
+        "commit": "390f10d"
       }
     }
   ]
