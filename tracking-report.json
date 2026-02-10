@@ -1,809 +1,713 @@
 {
   "date": "2026-02-10",
-  "runNumber": 6,
+  "runNumber": 7,
   "totalActive": 140,
-  "newSettings": [
-    {
-      "name": "github.copilot.chat.alternateAnthropicPrompt.enabled",
-      "firstSeen": "2026-02-10",
-      "addedDate": "2026-02-08",
-      "addedCommit": "6d87f1c",
-      "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
-      },
-      "owner": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com",
-        "date": "2026-02-09",
-        "commit": "6d87f1c"
-      },
-      "area": "github.copilot",
-      "default": "false",
-      "tags": [
-        "preview",
-        "onExp"
-      ]
-    },
-    {
-      "name": "github.copilot.chat.anthropic.thinking.effort",
-      "firstSeen": "2026-02-10",
-      "addedDate": "2026-02-06",
-      "addedCommit": "3cd324e",
-      "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
-      },
-      "owner": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com",
-        "date": "2026-02-07",
-        "commit": "3cd324e"
-      },
-      "area": "github.copilot",
-      "default": "\"high\"",
-      "tags": [
-        "preview"
-      ]
-    },
-    {
-      "name": "github.copilot.chat.askAgent.additionalTools",
-      "firstSeen": "2026-02-10",
-      "addedDate": "2026-02-10",
-      "addedCommit": "ce1e9ab",
-      "addedBy": {
-        "name": "Benjamin Christopher Simmonds",
-        "email": "44439583+benibenj@users.noreply.github.com"
-      },
-      "owner": {
-        "name": "Benjamin Christopher Simmonds",
-        "email": "44439583+benibenj@users.noreply.github.com",
-        "date": "2026-02-10",
-        "commit": "ce1e9ab"
-      },
-      "area": "github.copilot",
-      "default": "[]",
-      "tags": [
-        "experimental"
-      ]
-    },
-    {
-      "name": "github.copilot.chat.askAgent.model",
-      "firstSeen": "2026-02-10",
-      "addedDate": "2026-02-10",
-      "addedCommit": "ce1e9ab",
-      "addedBy": {
-        "name": "Benjamin Christopher Simmonds",
-        "email": "44439583+benibenj@users.noreply.github.com"
-      },
-      "owner": {
-        "name": "Benjamin Christopher Simmonds",
-        "email": "44439583+benibenj@users.noreply.github.com",
-        "date": "2026-02-10",
-        "commit": "ce1e9ab"
-      },
-      "area": "github.copilot",
-      "default": "\"\"",
-      "tags": [
-        "experimental"
-      ]
-    },
-    {
-      "name": "github.copilot.chat.cli.integration.enabled",
-      "firstSeen": "2026-02-10",
-      "addedDate": "2026-02-08",
-      "addedCommit": "498f1fc",
-      "addedBy": {
-        "name": "Alex Weininger",
-        "email": "alex.weininger@live.com"
-      },
-      "owner": {
-        "name": "Alex Weininger",
-        "email": "alex.weininger@live.com",
-        "date": "2026-02-09",
-        "commit": "498f1fc"
-      },
-      "area": "github.copilot",
-      "default": "false",
-      "tags": [
-        "advanced",
-        "experimental"
-      ]
-    }
-  ],
-  "removedSettings": [
-    {
-      "name": "github.copilot.chat.claudeAgent.allowDangerouslySkipPermissions",
-      "firstSeen": "2026-02-01",
-      "totalRuns": 1,
-      "removedDate": "2026-02-10"
-    },
-    {
-      "name": "github.copilot.chat.claudeAgent.enabled",
-      "firstSeen": "2026-02-01",
-      "totalRuns": 1,
-      "removedDate": "2026-02-10"
-    }
-  ],
+  "newSettings": [],
+  "removedSettings": [],
   "existingSettings": [
     {
       "name": "chat.agent.thinking.collapsedTools",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "chat.allowAnonymousAccess",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "chat.extensionUnification.enabled",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "chat.sendElementsToChat.attachCSS",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "chat.sendElementsToChat.attachImages",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "chat.sendElementsToChat.enabled",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "editor.experimental.asyncTokenization",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "editor.experimental.asyncTokenizationVerification",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "editor.experimental.preferTreeSitter.css",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "editor.experimental.preferTreeSitter.ini",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "editor.experimental.preferTreeSitter.regex",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "editor.experimental.preferTreeSitter.typescript",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "editor.experimental.treeSitterTelemetry",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "editor.inlineSuggest.edits.showLongDistanceHint",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "editor.inlineSuggest.experimental.emptyResponseInformation",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "editor.inlineSuggest.experimental.showOnSuggestConflict",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "editor.inlineSuggest.experimental.suppressInlineSuggestions",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "editor.inlineSuggest.triggerCommandOnProviderChange",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "git.optimisticUpdate",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.agent.temperature",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.agentHistorySummarizationForceGpt41",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.agentHistorySummarizationMode",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.agentHistorySummarizationWithPromptCache",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.alternateGeminiModelFPrompt.enabled",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.alternateGptPrompt.enabled",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.anthropic.thinking.budgetTokens",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.anthropic.tools.websearch.allowedDomains",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.anthropic.tools.websearch.blockedDomains",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.anthropic.tools.websearch.enabled",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.anthropic.tools.websearch.maxUses",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.anthropic.tools.websearch.userLocation",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.anthropic.useMessagesApi",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.cli.customAgents.enabled",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.cli.mcp.enabled",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.codeGeneration.instructions",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.codesearch.agent.enabled",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.codesearch.enabled",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.commitMessageGeneration.instructions",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.completionsFetcher",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.copilotDebugCommand.enabled",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.debug.overrideChatEngine",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.debug.requestLogger.maxEntries",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.debugTerminalCommandPatterns",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.editRecording.enabled",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.edits.gemini3MultiReplaceString",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.enableUserPreferences",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.feedback.onChange",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.generateTests.codeLens",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.githubMcpServer.enabled",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.githubMcpServer.lockdown",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.githubMcpServer.readonly",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.githubMcpServer.toolsets",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.gpt5AlternativePatch",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.imageUpload.enabled",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.inlineChat.selectionRatioThreshold",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.inlineEdits.diagnosticsContextProvider.enabled",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.inlineEdits.nextCursorPrediction.currentFileMaxTokens",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.inlineEdits.nextCursorPrediction.displayLine",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.inlineEdits.renameSymbolSuggestions",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.inlineEdits.triggerOnEditorChangeAfterSeconds",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.instantApply.shortContextLimit",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.instantApply.shortContextModelName",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.languageContext.fix.typescript.enabled",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.languageContext.inline.typescript.enabled",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.languageContext.typescript.cacheTimeout",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.languageContext.typescript.enabled",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.languageContext.typescript.includeDocumentation",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.languageContext.typescript.items",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.localWorkspaceRecording.enabled",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.nesFetcher",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.newWorkspace.useContext7",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.newWorkspaceCreation.enabled",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.notebook.alternativeFormat",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.notebook.alternativeNESFormat.enabled",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.notebook.enhancedNextEditSuggestions.enabled",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.notebook.followCellExecution.enabled",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.notebook.summaryExperimentEnabled",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.notebook.variableFilteringEnabled",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.omitBaseAgentInstructions",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.projectLabels.chat",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.projectLabels.expanded",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.projectLabels.inline",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.promptFileContextProvider.enabled",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.pullRequestDescriptionGeneration.instructions",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.responsesApiReasoningEffort",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.responsesApiReasoningSummary",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.review.intent",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.reviewAgent.enabled",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.reviewSelection.enabled",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.reviewSelection.instructions",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.setupTests.enabled",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.summarizeAgentConversationHistory.enabled",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.summarizeAgentConversationHistoryThreshold",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.testGeneration.instructions",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.tools.defaultToolsGrouped",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.tools.memory.enabled",
       "firstSeen": "2026-01-21",
-      "runCount": 5
+      "runCount": 6
     },
     {
       "name": "github.copilot.chat.useResponsesApiTruncation",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.virtualTools.threshold",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.workspace.enableCodeSearch",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.workspace.enableEmbeddingsSearch",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.workspace.enableFullWorkspace",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.workspace.maxLocalIndexSize",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.workspace.preferredEmbeddingsModel",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.workspace.prototypeAdoCodeSearchEndpointOverride",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.nextEditSuggestions.preferredModel",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "http.experimental.networkInterfaceCheckInterval",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "http.experimental.systemCertificatesV2",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "http.systemCertificatesNode",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "ipynb.experimental.serialization",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "properties",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "scm.repositories.explorer",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "search.searchView.keywordSuggestions",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "search.searchView.semanticSearchBehavior",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "typescript.experimental.useTsgo",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "typescript.tsserver.experimental.enableProjectDiagnostics",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "workbench.experimental.share.enabled",
       "firstSeen": "2026-01-21",
-      "runCount": 6
+      "runCount": 7
     },
     {
       "name": "github.copilot.chat.agent.omitFileAttachmentContents",
       "firstSeen": "2026-01-22",
-      "runCount": 3
+      "runCount": 4
     },
     {
       "name": "github.copilot.chat.anthropic.contextEditing.config",
       "firstSeen": "2026-01-22",
-      "runCount": 3
+      "runCount": 4
     },
     {
       "name": "github.copilot.chat.anthropic.contextEditing.enabled",
       "firstSeen": "2026-01-22",
-      "runCount": 3
+      "runCount": 4
     },
     {
       "name": "github.copilot.chat.anthropic.toolSearchTool.enabled",
       "firstSeen": "2026-01-22",
-      "runCount": 3
+      "runCount": 4
     },
     {
       "name": "github.copilot.chat.askQuestions.enabled",
       "firstSeen": "2026-01-22",
-      "runCount": 3
+      "runCount": 4
     },
     {
       "name": "github.copilot.chat.inlineEdits.chatSessionContextProvider.enabled",
       "firstSeen": "2026-01-22",
-      "runCount": 3
+      "runCount": 4
     },
     {
       "name": "github.copilot.chat.searchSubagent.enabled",
       "firstSeen": "2026-01-22",
-      "runCount": 3
+      "runCount": 4
     },
     {
       "name": "simpleBrowser.useIntegratedBrowser",
       "firstSeen": "2026-01-22",
-      "runCount": 3
+      "runCount": 4
     },
     {
       "name": "chat.editing.explainChanges.enabled",
       "firstSeen": "2026-02-01",
-      "runCount": 2
+      "runCount": 3
     },
     {
       "name": "chat.tips.enabled",
       "firstSeen": "2026-02-01",
-      "runCount": 2
+      "runCount": 3
     },
     {
       "name": "git.worktreeIncludeFiles",
       "firstSeen": "2026-02-01",
-      "runCount": 2
+      "runCount": 3
     },
     {
       "name": "github.copilot.chat.agent.largeToolResultsToDisk.enabled",
       "firstSeen": "2026-02-01",
-      "runCount": 2
+      "runCount": 3
     },
     {
       "name": "github.copilot.chat.agent.largeToolResultsToDisk.thresholdBytes",
       "firstSeen": "2026-02-01",
-      "runCount": 2
+      "runCount": 3
     },
     {
       "name": "github.copilot.chat.copilotMemory.enabled",
       "firstSeen": "2026-02-01",
-      "runCount": 2
+      "runCount": 3
     },
     {
       "name": "github.copilot.chat.implementAgent.model",
       "firstSeen": "2026-02-01",
-      "runCount": 2
+      "runCount": 3
     },
     {
       "name": "github.copilot.chat.planAgent.additionalTools",
       "firstSeen": "2026-02-01",
-      "runCount": 2
+      "runCount": 3
     },
     {
       "name": "github.copilot.chat.planAgent.model",
       "firstSeen": "2026-02-01",
-      "runCount": 2
+      "runCount": 3
     },
     {
       "name": "github.copilot.chat.searchSubagent.model",
       "firstSeen": "2026-02-01",
-      "runCount": 2
+      "runCount": 3
     },
     {
       "name": "github.copilot.chat.searchSubagent.toolCallLimit",
       "firstSeen": "2026-02-01",
-      "runCount": 2
+      "runCount": 3
     },
     {
       "name": "github.copilot.chat.switchAgent.enabled",
       "firstSeen": "2026-02-01",
+      "runCount": 3
+    },
+    {
+      "name": "github.copilot.chat.alternateAnthropicPrompt.enabled",
+      "firstSeen": "2026-02-10",
+      "runCount": 2
+    },
+    {
+      "name": "github.copilot.chat.anthropic.thinking.effort",
+      "firstSeen": "2026-02-10",
+      "runCount": 2
+    },
+    {
+      "name": "github.copilot.chat.askAgent.additionalTools",
+      "firstSeen": "2026-02-10",
+      "runCount": 2
+    },
+    {
+      "name": "github.copilot.chat.askAgent.model",
+      "firstSeen": "2026-02-10",
+      "runCount": 2
+    },
+    {
+      "name": "github.copilot.chat.cli.integration.enabled",
+      "firstSeen": "2026-02-10",
       "runCount": 2
     }
   ],

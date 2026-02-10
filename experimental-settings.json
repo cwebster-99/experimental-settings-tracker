@@ -3,7 +3,7 @@
     "chat.agent.thinking.collapsedTools": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Justin Chen",
@@ -26,7 +26,7 @@
     "chat.allowAnonymousAccess": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Benjamin Pasero",
@@ -49,7 +49,7 @@
     "chat.extensionUnification.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Benjamin Christopher Simmonds",
@@ -72,7 +72,7 @@
     "chat.sendElementsToChat.attachCSS": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Justin Chen",
@@ -95,7 +95,7 @@
     "chat.sendElementsToChat.attachImages": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Justin Chen",
@@ -118,7 +118,7 @@
     "chat.sendElementsToChat.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Justin Chen",
@@ -191,7 +191,7 @@
     "editor.experimental.asyncTokenization": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Henning Dieterichs",
@@ -214,7 +214,7 @@
     "editor.experimental.asyncTokenizationVerification": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Henning Dieterichs",
@@ -237,7 +237,7 @@
     "editor.experimental.preferTreeSitter.css": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Alex Ross",
@@ -260,7 +260,7 @@
     "editor.experimental.preferTreeSitter.ini": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Alex Ross",
@@ -283,7 +283,7 @@
     "editor.experimental.preferTreeSitter.regex": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Alex Ross",
@@ -306,7 +306,7 @@
     "editor.experimental.preferTreeSitter.typescript": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Alex Ross",
@@ -329,7 +329,7 @@
     "editor.experimental.treeSitterTelemetry": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Alex Ross",
@@ -352,7 +352,7 @@
     "editor.inlineSuggest.edits.showLongDistanceHint": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Henning Dieterichs",
@@ -376,7 +376,7 @@
     "editor.inlineSuggest.experimental.emptyResponseInformation": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "BeniBenj",
@@ -399,7 +399,7 @@
     "editor.inlineSuggest.experimental.showOnSuggestConflict": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Henning Dieterichs",
@@ -422,7 +422,7 @@
     "editor.inlineSuggest.experimental.suppressInlineSuggestions": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Benjamin Christopher Simmonds",
@@ -445,7 +445,7 @@
     "editor.inlineSuggest.triggerCommandOnProviderChange": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Henning Dieterichs",
@@ -468,7 +468,7 @@
     "git.optimisticUpdate": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Ladislau Szomoru",
@@ -491,7 +491,7 @@
     "github.copilot.chat.agent.temperature": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Sandeep Somavarapu",
@@ -515,7 +515,7 @@
     "github.copilot.chat.agentHistorySummarizationForceGpt41": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Sandeep Somavarapu",
@@ -540,7 +540,7 @@
     "github.copilot.chat.agentHistorySummarizationMode": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Sandeep Somavarapu",
@@ -564,7 +564,7 @@
     "github.copilot.chat.agentHistorySummarizationWithPromptCache": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Sandeep Somavarapu",
@@ -589,7 +589,7 @@
     "github.copilot.chat.alternateGeminiModelFPrompt.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Paul",
@@ -613,7 +613,7 @@
     "github.copilot.chat.alternateGptPrompt.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Burke Holland",
@@ -636,7 +636,7 @@
     "github.copilot.chat.anthropic.thinking.budgetTokens": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Bhavya U",
@@ -660,7 +660,7 @@
     "github.copilot.chat.anthropic.tools.websearch.allowedDomains": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Bhavya U",
@@ -683,7 +683,7 @@
     "github.copilot.chat.anthropic.tools.websearch.blockedDomains": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Bhavya U",
@@ -706,7 +706,7 @@
     "github.copilot.chat.anthropic.tools.websearch.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Bhavya U",
@@ -730,7 +730,7 @@
     "github.copilot.chat.anthropic.tools.websearch.maxUses": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Bhavya U",
@@ -753,7 +753,7 @@
     "github.copilot.chat.anthropic.tools.websearch.userLocation": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Bhavya U",
@@ -776,7 +776,7 @@
     "github.copilot.chat.anthropic.useMessagesApi": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Bhavya U",
@@ -953,7 +953,7 @@
     "github.copilot.chat.cli.customAgents.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Don Jayamanne",
@@ -977,7 +977,7 @@
     "github.copilot.chat.cli.mcp.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Sandeep Somavarapu",
@@ -1001,7 +1001,7 @@
     "github.copilot.chat.codeGeneration.instructions": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "kieferrm",
@@ -1024,7 +1024,7 @@
     "github.copilot.chat.codesearch.agent.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Sandeep Somavarapu",
@@ -1048,7 +1048,7 @@
     "github.copilot.chat.codesearch.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "kieferrm",
@@ -1071,7 +1071,7 @@
     "github.copilot.chat.commitMessageGeneration.instructions": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "kieferrm",
@@ -1094,7 +1094,7 @@
     "github.copilot.chat.completionsFetcher": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Christof Marti",
@@ -1118,7 +1118,7 @@
     "github.copilot.chat.copilotDebugCommand.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "kieferrm",
@@ -1191,7 +1191,7 @@
     "github.copilot.chat.debug.overrideChatEngine": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Sandeep Somavarapu",
@@ -1215,7 +1215,7 @@
     "github.copilot.chat.debug.requestLogger.maxEntries": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Sandeep Somavarapu",
@@ -1239,7 +1239,7 @@
     "github.copilot.chat.debugTerminalCommandPatterns": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Sandeep Somavarapu",
@@ -1263,7 +1263,7 @@
     "github.copilot.chat.editRecording.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Sandeep Somavarapu",
@@ -1287,7 +1287,7 @@
     "github.copilot.chat.edits.gemini3MultiReplaceString": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Connor Peet",
@@ -1362,7 +1362,7 @@
     "github.copilot.chat.enableUserPreferences": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Sandeep Somavarapu",
@@ -1386,7 +1386,7 @@
     "github.copilot.chat.feedback.onChange": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Sandeep Somavarapu",
@@ -1410,7 +1410,7 @@
     "github.copilot.chat.generateTests.codeLens": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "kieferrm",
@@ -1433,7 +1433,7 @@
     "github.copilot.chat.githubMcpServer.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Tyler James Leonhardt",
@@ -1456,7 +1456,7 @@
     "github.copilot.chat.githubMcpServer.lockdown": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Tyler James Leonhardt",
@@ -1479,7 +1479,7 @@
     "github.copilot.chat.githubMcpServer.readonly": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Tyler James Leonhardt",
@@ -1502,7 +1502,7 @@
     "github.copilot.chat.githubMcpServer.toolsets": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Tyler James Leonhardt",
@@ -1525,7 +1525,7 @@
     "github.copilot.chat.gpt5AlternativePatch": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Sandeep Somavarapu",
@@ -1550,7 +1550,7 @@
     "github.copilot.chat.imageUpload.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Justin Chen",
@@ -1574,7 +1574,7 @@
     "github.copilot.chat.inlineChat.selectionRatioThreshold": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Johannes Rieken",
@@ -1599,7 +1599,7 @@
     "github.copilot.chat.inlineEdits.diagnosticsContextProvider.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Sandeep Somavarapu",
@@ -1624,7 +1624,7 @@
     "github.copilot.chat.inlineEdits.nextCursorPrediction.currentFileMaxTokens": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Sandeep Somavarapu",
@@ -1649,7 +1649,7 @@
     "github.copilot.chat.inlineEdits.nextCursorPrediction.displayLine": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Sandeep Somavarapu",
@@ -1674,7 +1674,7 @@
     "github.copilot.chat.inlineEdits.renameSymbolSuggestions": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Benjamin Christopher Simmonds",
@@ -1699,7 +1699,7 @@
     "github.copilot.chat.inlineEdits.triggerOnEditorChangeAfterSeconds": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Sandeep Somavarapu",
@@ -1724,7 +1724,7 @@
     "github.copilot.chat.instantApply.shortContextLimit": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Sandeep Somavarapu",
@@ -1749,7 +1749,7 @@
     "github.copilot.chat.instantApply.shortContextModelName": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Sandeep Somavarapu",
@@ -1774,7 +1774,7 @@
     "github.copilot.chat.languageContext.fix.typescript.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "kieferrm",
@@ -1798,7 +1798,7 @@
     "github.copilot.chat.languageContext.inline.typescript.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "kieferrm",
@@ -1822,7 +1822,7 @@
     "github.copilot.chat.languageContext.typescript.cacheTimeout": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "kieferrm",
@@ -1846,7 +1846,7 @@
     "github.copilot.chat.languageContext.typescript.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "kieferrm",
@@ -1870,7 +1870,7 @@
     "github.copilot.chat.languageContext.typescript.includeDocumentation": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Dirk Bäumer",
@@ -1894,7 +1894,7 @@
     "github.copilot.chat.languageContext.typescript.items": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Dirk Bäumer",
@@ -1918,7 +1918,7 @@
     "github.copilot.chat.localWorkspaceRecording.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Sandeep Somavarapu",
@@ -1942,7 +1942,7 @@
     "github.copilot.chat.nesFetcher": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Christof Marti",
@@ -1966,7 +1966,7 @@
     "github.copilot.chat.newWorkspace.useContext7": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Bhavya U",
@@ -1989,7 +1989,7 @@
     "github.copilot.chat.newWorkspaceCreation.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "kieferrm",
@@ -2012,7 +2012,7 @@
     "github.copilot.chat.notebook.alternativeFormat": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Sandeep Somavarapu",
@@ -2037,7 +2037,7 @@
     "github.copilot.chat.notebook.alternativeNESFormat.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Sandeep Somavarapu",
@@ -2062,7 +2062,7 @@
     "github.copilot.chat.notebook.enhancedNextEditSuggestions.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Don Jayamanne",
@@ -2086,7 +2086,7 @@
     "github.copilot.chat.notebook.followCellExecution.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "kieferrm",
@@ -2109,7 +2109,7 @@
     "github.copilot.chat.notebook.summaryExperimentEnabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Sandeep Somavarapu",
@@ -2133,7 +2133,7 @@
     "github.copilot.chat.notebook.variableFilteringEnabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Sandeep Somavarapu",
@@ -2157,7 +2157,7 @@
     "github.copilot.chat.omitBaseAgentInstructions": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Sandeep Somavarapu",
@@ -2181,7 +2181,7 @@
     "github.copilot.chat.projectLabels.chat": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Sandeep Somavarapu",
@@ -2206,7 +2206,7 @@
     "github.copilot.chat.projectLabels.expanded": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Sandeep Somavarapu",
@@ -2231,7 +2231,7 @@
     "github.copilot.chat.projectLabels.inline": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Sandeep Somavarapu",
@@ -2256,7 +2256,7 @@
     "github.copilot.chat.promptFileContextProvider.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Sandeep Somavarapu",
@@ -2281,7 +2281,7 @@
     "github.copilot.chat.pullRequestDescriptionGeneration.instructions": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "kieferrm",
@@ -2304,7 +2304,7 @@
     "github.copilot.chat.responsesApiReasoningEffort": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Rob Lourens",
@@ -2328,7 +2328,7 @@
     "github.copilot.chat.responsesApiReasoningSummary": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Rob Lourens",
@@ -2352,7 +2352,7 @@
     "github.copilot.chat.review.intent": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Sandeep Somavarapu",
@@ -2376,7 +2376,7 @@
     "github.copilot.chat.reviewAgent.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Christof Marti",
@@ -2399,7 +2399,7 @@
     "github.copilot.chat.reviewSelection.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "kieferrm",
@@ -2422,7 +2422,7 @@
     "github.copilot.chat.reviewSelection.instructions": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "kieferrm",
@@ -2445,7 +2445,7 @@
     "github.copilot.chat.setupTests.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "kieferrm",
@@ -2494,7 +2494,7 @@
     "github.copilot.chat.summarizeAgentConversationHistory.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "kieferrm",
@@ -2517,7 +2517,7 @@
     "github.copilot.chat.summarizeAgentConversationHistoryThreshold": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Sandeep Somavarapu",
@@ -2541,7 +2541,7 @@
     "github.copilot.chat.testGeneration.instructions": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "kieferrm",
@@ -2564,7 +2564,7 @@
     "github.copilot.chat.tools.defaultToolsGrouped": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Sandeep Somavarapu",
@@ -2589,7 +2589,7 @@
     "github.copilot.chat.tools.memory.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 5,
+      "runCount": 6,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Bhavya U",
@@ -2640,7 +2640,7 @@
     "github.copilot.chat.useResponsesApiTruncation": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Sandeep Somavarapu",
@@ -2664,7 +2664,7 @@
     "github.copilot.chat.virtualTools.threshold": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Connor Peet",
@@ -2687,7 +2687,7 @@
     "github.copilot.chat.workspace.enableCodeSearch": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Sandeep Somavarapu",
@@ -2712,7 +2712,7 @@
     "github.copilot.chat.workspace.enableEmbeddingsSearch": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Sandeep Somavarapu",
@@ -2737,7 +2737,7 @@
     "github.copilot.chat.workspace.enableFullWorkspace": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Sandeep Somavarapu",
@@ -2762,7 +2762,7 @@
     "github.copilot.chat.workspace.maxLocalIndexSize": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Sandeep Somavarapu",
@@ -2787,7 +2787,7 @@
     "github.copilot.chat.workspace.preferredEmbeddingsModel": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Sandeep Somavarapu",
@@ -2812,7 +2812,7 @@
     "github.copilot.chat.workspace.prototypeAdoCodeSearchEndpointOverride": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Sandeep Somavarapu",
@@ -2836,7 +2836,7 @@
     "github.copilot.nextEditSuggestions.preferredModel": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Ulugbek Abdullaev",
@@ -2861,7 +2861,7 @@
     "http.experimental.networkInterfaceCheckInterval": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Christof Marti",
@@ -2884,7 +2884,7 @@
     "http.experimental.systemCertificatesV2": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Christof Marti",
@@ -2907,7 +2907,7 @@
     "http.systemCertificatesNode": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Christof Marti",
@@ -2930,7 +2930,7 @@
     "ipynb.experimental.serialization": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Don Jayamanne",
@@ -2978,7 +2978,7 @@
     "properties": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Benjamin Pasero",
@@ -3001,7 +3001,7 @@
     "scm.repositories.explorer": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Ladislau Szomoru",
@@ -3024,7 +3024,7 @@
     "search.searchView.keywordSuggestions": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Osvaldo Ortega",
@@ -3047,7 +3047,7 @@
     "search.searchView.semanticSearchBehavior": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Osvaldo Ortega",
@@ -3070,7 +3070,7 @@
     "typescript.experimental.useTsgo": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Andrew Branch",
@@ -3093,7 +3093,7 @@
     "typescript.tsserver.experimental.enableProjectDiagnostics": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Matt Bierner",
@@ -3116,7 +3116,7 @@
     "workbench.experimental.share.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
+      "runCount": 7,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Joyce Er",
@@ -3145,7 +3145,7 @@
         "name": "Rob Lourens",
         "email": "roblourens@gmail.com"
       },
-      "runCount": 3,
+      "runCount": 4,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Rob Lourens",
@@ -3169,7 +3169,7 @@
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
       },
-      "runCount": 3,
+      "runCount": 4,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Bhavya U",
@@ -3193,7 +3193,7 @@
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
       },
-      "runCount": 3,
+      "runCount": 4,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Bhavya U",
@@ -3217,7 +3217,7 @@
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
       },
-      "runCount": 3,
+      "runCount": 4,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Bhavya U",
@@ -3241,7 +3241,7 @@
         "name": "Harald Kirschner",
         "email": "hkirschner@microsoft.com"
       },
-      "runCount": 3,
+      "runCount": 4,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Harald Kirschner",
@@ -3265,7 +3265,7 @@
         "name": "Benjamin Christopher Simmonds",
         "email": "44439583+benibenj@users.noreply.github.com"
       },
-      "runCount": 3,
+      "runCount": 4,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Benjamin Christopher Simmonds",
@@ -3290,7 +3290,7 @@
         "name": "Anisha Agarwal",
         "email": "anisagarwal@microsoft.com"
       },
-      "runCount": 3,
+      "runCount": 4,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Anisha Agarwal",
@@ -3315,7 +3315,7 @@
         "name": "Kyle Cutler",
         "email": "67761731+kycutler@users.noreply.github.com"
       },
-      "runCount": 3,
+      "runCount": 4,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Kyle Cutler",
@@ -3339,7 +3339,7 @@
         "name": "Christof Marti",
         "email": "chrmarti@microsoft.com"
       },
-      "runCount": 2,
+      "runCount": 3,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Christof Marti",
@@ -3362,7 +3362,7 @@
         "name": "SteVen Batten",
         "email": "sbatten@microsoft.com"
       },
-      "runCount": 2,
+      "runCount": 3,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "SteVen Batten",
@@ -3385,7 +3385,7 @@
         "name": "Ladislau Szomoru",
         "email": "3372902+lszomoru@users.noreply.github.com"
       },
-      "runCount": 2,
+      "runCount": 3,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Ladislau Szomoru",
@@ -3408,7 +3408,7 @@
         "name": "Connor Peet",
         "email": "connor@peet.io"
       },
-      "runCount": 2,
+      "runCount": 3,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Connor Peet",
@@ -3433,7 +3433,7 @@
         "name": "Connor Peet",
         "email": "connor@peet.io"
       },
-      "runCount": 2,
+      "runCount": 3,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Connor Peet",
@@ -3508,7 +3508,7 @@
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
       },
-      "runCount": 2,
+      "runCount": 3,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Bhavya U",
@@ -3531,7 +3531,7 @@
         "name": "Eleanor Boyd",
         "email": "26030610+eleanorjboyd@users.noreply.github.com"
       },
-      "runCount": 2,
+      "runCount": 3,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Eleanor Boyd",
@@ -3554,7 +3554,7 @@
         "name": "Harald Kirschner",
         "email": "hkirschner@microsoft.com"
       },
-      "runCount": 2,
+      "runCount": 3,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Harald Kirschner",
@@ -3577,7 +3577,7 @@
         "name": "Harald Kirschner",
         "email": "hkirschner@microsoft.com"
       },
-      "runCount": 2,
+      "runCount": 3,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Harald Kirschner",
@@ -3600,7 +3600,7 @@
         "name": "Anisha Agarwal",
         "email": "anisagarwal@microsoft.com"
       },
-      "runCount": 2,
+      "runCount": 3,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Anisha Agarwal",
@@ -3625,7 +3625,7 @@
         "name": "Anisha Agarwal",
         "email": "anisagarwal@microsoft.com"
       },
-      "runCount": 2,
+      "runCount": 3,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Anisha Agarwal",
@@ -3650,7 +3650,7 @@
         "name": "SteVen Batten",
         "email": "steven.m.batten@outlook.com"
       },
-      "runCount": 2,
+      "runCount": 3,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "SteVen Batten",
@@ -3673,7 +3673,7 @@
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
       },
-      "runCount": 1,
+      "runCount": 2,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Bhavya U",
@@ -3697,7 +3697,7 @@
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
       },
-      "runCount": 1,
+      "runCount": 2,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Bhavya U",
@@ -3720,7 +3720,7 @@
         "name": "Benjamin Christopher Simmonds",
         "email": "44439583+benibenj@users.noreply.github.com"
       },
-      "runCount": 1,
+      "runCount": 2,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Benjamin Christopher Simmonds",
@@ -3743,7 +3743,7 @@
         "name": "Benjamin Christopher Simmonds",
         "email": "44439583+benibenj@users.noreply.github.com"
       },
-      "runCount": 1,
+      "runCount": 2,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Benjamin Christopher Simmonds",
@@ -3766,7 +3766,7 @@
         "name": "Alex Weininger",
         "email": "alex.weininger@live.com"
       },
-      "runCount": 1,
+      "runCount": 2,
       "lastSeen": "2026-02-10",
       "owner": {
         "name": "Alex Weininger",
@@ -3783,5 +3783,5 @@
     }
   },
   "lastRun": "2026-02-10",
-  "runCount": 6
+  "runCount": 7
 }
