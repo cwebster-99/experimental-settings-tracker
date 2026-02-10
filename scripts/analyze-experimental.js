@@ -134,9 +134,9 @@ function extractExperimentalSettings(content, filePath) {
     for (let i = 0; i < lines.length; i++) {
         const line = lines[i];
         
-        // Look for setting name pattern
+        // Look for setting name pattern (must contain a dot, e.g. "editor.fontSize")
         const settingMatch = line.match(/['"`]([a-zA-Z][a-zA-Z0-9_.]+)['"`]\s*:\s*\{/);
-        if (settingMatch && !inSettingBlock) {
+        if (settingMatch && !inSettingBlock && settingMatch[1].includes('.')) {
             currentSetting = settingMatch[1];
             currentSettingLine = i + 1; // 1-based line number
             inSettingBlock = true;

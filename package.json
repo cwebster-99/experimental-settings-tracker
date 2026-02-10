@@ -17,7 +17,8 @@
     "generate-table": "node scripts/generate-table.js",
     "find-recent": "node scripts/find-recent-settings.js",
     "find-recent:week": "DAYS_BACK=7 node scripts/find-recent-settings.js",
-    "find-recent:month": "DAYS_BACK=30 node scripts/find-recent-settings.js"
+    "find-recent:month": "DAYS_BACK=30 node scripts/find-recent-settings.js",
+    "generate-issues": "node scripts/generate-issues.js"
   },
   "keywords": [
     "vscode",

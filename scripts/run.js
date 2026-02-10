@@ -17,7 +17,8 @@ const STEPS = [
     { name: 'Get owners via git blame', script: 'get-owners.js' },
     { name: 'Update tracking data', script: 'update-tracking.js' },
     { name: 'Generate markdown report', script: 'generate-report.js' },
-    { name: 'Generate all-settings table', script: 'generate-table.js' }
+    { name: 'Generate all-settings table', script: 'generate-table.js' },
+    { name: 'Generate GitHub issues', script: 'generate-issues.js' }
 ];
 
 /**
@@ -95,6 +96,7 @@ async function main() {
     console.log('\nOutput files in reports/:');
     console.log('  - report-YYYY-MM-DD.md  (settings from last 28 days)');
     console.log('  - all-settings.md       (all settings table)');
+    console.log('\nGitHub issues created for flagged and recent settings.');
 }
 
 main()
