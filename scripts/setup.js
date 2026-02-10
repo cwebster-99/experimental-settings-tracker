@@ -6,7 +6,6 @@
 import { exec } from 'child_process';
 import { promisify } from 'util';
 import { access } from 'fs/promises';
-import { join } from 'path';
 
 const execAsync = promisify(exec);
 
@@ -88,7 +87,7 @@ async function setup() {
     console.log('   npm run analyze         - Scan for experimental settings');
     console.log('   npm run get-owners      - Get git blame info');
     console.log('   npm run generate-report - Generate the markdown report');
-    console.log('   npm run run-all         - Run the full pipeline\n');
+    console.log('   npm start               - Run the full pipeline\n');
 }
 
 // Run if called directly

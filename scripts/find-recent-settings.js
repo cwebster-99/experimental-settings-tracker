@@ -156,8 +156,8 @@ async function findRecentSettings() {
 
 // Run if called directly
 findRecentSettings()
-    .then((result) => {
-        process.exit(result.summary.new > 0 ? 0 : 0);
+    .then(() => {
+        process.exit(0);
     })
     .catch((error) => {
         console.error('Error:', error);

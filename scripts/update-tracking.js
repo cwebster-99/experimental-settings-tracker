@@ -104,6 +104,11 @@ async function updateTracking() {
             const defaultValue = defaultMap.get(settingName);
             const tags = tagsMap.get(settingName);
             
+            // Also update git info if we have it and it wasn't set before
+            const addedDate = addedDateMap.get(settingName);
+            const addedCommit = addedCommitMap.get(settingName);
+            const addedBy = addedByMap.get(settingName);
+
             tracking.settings[settingName] = {
                 ...settingData,
                 runCount: (settingData.runCount || 0) + 1,
@@ -112,7 +117,10 @@ async function updateTracking() {
                 ...(owner && { owner }),
                 ...(area && { area }),
                 ...(defaultValue !== undefined && { default: defaultValue }),
-                ...(tags && { tags })
+                ...(tags && { tags }),
+                ...(!settingData.addedDate && addedDate && { addedDate }),
+                ...(!settingData.addedCommit && addedCommit && { addedCommit }),
+                ...(!settingData.addedBy && addedBy && { addedBy })
             };
             
             report.existingSettings.push({
@@ -182,38 +190,6 @@ async function updateTracking() {
             const ownerStr = owner ? ` (${owner.name})` : '';
             const dateStr = addedDate ? ` [added: ${addedDate}]` : '';
             console.log(`New setting: ${settingName}${ownerStr}${dateStr}`);
-        } else {
-            // Update info if we have it (always update to latest)
-            const owner = ownerMap.get(settingName);
-            const area = areaMap.get(settingName);
-            const defaultValue = defaultMap.get(settingName);
-            const tags = tagsMap.get(settingName);
-            const addedDate = addedDateMap.get(settingName);
-            const addedCommit = addedCommitMap.get(settingName);
-            const addedBy = addedByMap.get(settingName);
-            
-            if (owner) {
-                tracking.settings[settingName].owner = owner;
-            }
-            if (area) {
-                tracking.settings[settingName].area = area;
-            }
-            if (defaultValue !== undefined) {
-                tracking.settings[settingName].default = defaultValue;
-            }
-            if (tags) {
-                tracking.settings[settingName].tags = tags;
-            }
-            // Update git info if we have it and it wasn't set before
-            if (addedDate && !tracking.settings[settingName].addedDate) {
-                tracking.settings[settingName].addedDate = addedDate;
-            }
-            if (addedCommit && !tracking.settings[settingName].addedCommit) {
-                tracking.settings[settingName].addedCommit = addedCommit;
-            }
-            if (addedBy && !tracking.settings[settingName].addedBy) {
-                tracking.settings[settingName].addedBy = addedBy;
-            }
         }
     }
     

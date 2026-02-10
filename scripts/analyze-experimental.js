@@ -6,9 +6,8 @@
  * Now includes git history lookup to find the actual date when settings were added
  */
 
-import { readdir, readFile } from 'fs/promises';
+import { readdir, readFile, writeFile } from 'fs/promises';
 import { join, relative } from 'path';
-import { writeFile } from 'fs/promises';
 import { batchGetSettingDates } from './git-history.js';
 
 const OUTPUT_FILE = process.env.OUTPUT_FILE || './found-settings.json';
