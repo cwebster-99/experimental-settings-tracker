@@ -1,8 +1,8 @@
 # All Experimental Settings
 
-*Generated: 2026-02-01*
+*Generated: 2026-02-10*
 
-Total settings: 137
+Total settings: 141
 
 ## Settings by Area
 
@@ -48,22 +48,25 @@ Total settings: 137
 | `github.copilot.chat.agentHistorySummarizationForceGpt41` | `false` | advanced, experimental, onExp |
 | `github.copilot.chat.agentHistorySummarizationMode` | *(null)* | advanced, experimental |
 | `github.copilot.chat.agentHistorySummarizationWithPromptCache` | `false` | advanced, experimental, onExp |
+| `github.copilot.chat.alternateAnthropicPrompt.enabled` | `false` | preview, onExp |
 | `github.copilot.chat.alternateGeminiModelFPrompt.enabled` | `false` | experimental, onExp |
 | `github.copilot.chat.alternateGptPrompt.enabled` | `false` | experimental |
 | `github.copilot.chat.anthropic.contextEditing.config` | `null` | advanced, experimental |
 | `github.copilot.chat.anthropic.contextEditing.enabled` | `false` | experimental, onExp |
-| `github.copilot.chat.anthropic.thinking.budgetTokens` | `4000` | experimental, onExp |
+| `github.copilot.chat.anthropic.thinking.budgetTokens` | `16000` | preview, onExp |
+| `github.copilot.chat.anthropic.thinking.effort` | `"high"` | preview |
 | `github.copilot.chat.anthropic.tools.websearch.allowedDomains` | `[]` | experimental |
 | `github.copilot.chat.anthropic.tools.websearch.blockedDomains` | `[]` | experimental |
 | `github.copilot.chat.anthropic.tools.websearch.enabled` | `false` | experimental, onExp |
 | `github.copilot.chat.anthropic.tools.websearch.maxUses` | `5` | experimental |
 | `github.copilot.chat.anthropic.tools.websearch.userLocation` | `null` | experimental |
 | `github.copilot.chat.anthropic.toolSearchTool.enabled` | `true` | experimental, onExp |
-| `github.copilot.chat.anthropic.useMessagesApi` | `true` | experimental, onExp |
+| `github.copilot.chat.anthropic.useMessagesApi` | `true` | preview, onExp |
+| `github.copilot.chat.askAgent.additionalTools` | `[]` | experimental |
+| `github.copilot.chat.askAgent.model` | `""` | experimental |
 | `github.copilot.chat.askQuestions.enabled` | `true` | experimental, onExp |
-| `github.copilot.chat.claudeAgent.allowDangerouslySkipPermissions` | `false` | preview |
-| `github.copilot.chat.claudeAgent.enabled` | `true` | preview |
 | `github.copilot.chat.cli.customAgents.enabled` | `true` | advanced, experimental |
+| `github.copilot.chat.cli.integration.enabled` | `false` | advanced, experimental |
 | `github.copilot.chat.cli.mcp.enabled` | `false` | advanced, experimental |
 | `github.copilot.chat.codeGeneration.instructions` | `[]` | experimental |
 | `github.copilot.chat.codesearch.agent.enabled` | `true` | advanced, experimental |
@@ -135,6 +138,7 @@ Total settings: 137
 | `github.copilot.chat.switchAgent.enabled` | `false` | experimental |
 | `github.copilot.chat.testGeneration.instructions` | `[]` | experimental |
 | `github.copilot.chat.tools.defaultToolsGrouped` | `false` | advanced, experimental, onExp |
+| `github.copilot.chat.tools.memory.enabled` | `false` | preview |
 | `github.copilot.chat.useResponsesApiTruncation` | `false` | advanced, experimental |
 | `github.copilot.chat.virtualTools.threshold` | `128` | experimental |
 | `github.copilot.chat.workspace.enableCodeSearch` | `true` | advanced, experimental, onExp |
