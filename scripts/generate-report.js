@@ -71,6 +71,26 @@ async function generateReport() {
     // Load current findings
     const findings = await loadJsonFile(FOUND_SETTINGS_FILE);
     
+    // Load persistent tracking data for flagged settings
+    let tracking = { settings: {} };
+    try {
+        tracking = await loadJsonFile(TRACKING_FILE);
+    } catch {
+        console.log('Could not load tracking file, skipping flagged settings section.');
+    }
+
+    // Build list of flagged settings (experimental > 60 days)
+    const flaggedSettings = [];
+    const todayMs = new Date().getTime();
+    for (const setting of findings.settings) {
+        const tracked = tracking.settings && tracking.settings[setting.name];
+        if (tracked && tracked.flagged) {
+            const addedMs = new Date(tracked.addedDate).getTime();
+            const ageInDays = Math.floor((todayMs - addedMs) / (24 * 60 * 60 * 1000));
+            flaggedSettings.push({ ...setting, ageInDays, flaggedDate: tracked.flaggedDate });
+        }
+    }
+    
     // Filter settings by addedDate (git-based actual introduction date)
     // Falls back to owner.date for backwards compatibility
     const recentSettings = findings.settings.filter(setting => {
@@ -85,7 +105,7 @@ async function generateReport() {
         console.log('No recent settings to report.');
         
         // Still generate a report indicating no new settings
-        const markdown = generateEmptyReport(dateStr, findings.settings.length);
+        const markdown = generateEmptyReport(dateStr, findings.settings.length, flaggedSettings);
         await writeReport(dateStr, markdown);
         return;
     }
@@ -105,7 +125,7 @@ async function generateReport() {
     const sortedAreas = Array.from(groupedByArea.keys()).sort();
     
     // Generate markdown
-    const markdown = generateMarkdown(dateStr, recentSettings.length, findings.settings.length, sortedAreas, groupedByArea);
+    const markdown = generateMarkdown(dateStr, recentSettings.length, findings.settings.length, sortedAreas, groupedByArea, flaggedSettings);
     
     await writeReport(dateStr, markdown);
 }
@@ -124,7 +144,7 @@ function extractArea(settingName) {
 /**
  * Generate markdown content
  */
-function generateMarkdown(dateStr, recentCount, totalCount, sortedAreas, groupedByArea) {
+function generateMarkdown(dateStr, recentCount, totalCount, sortedAreas, groupedByArea, flaggedSettings = []) {
     const lines = [
         `# Experimental Settings Report - ${dateStr}`,
         '',
@@ -165,6 +185,9 @@ function generateMarkdown(dateStr, recentCount, totalCount, sortedAreas, grouped
         lines.push('');
     }
     
+    // Add flagged settings section
+    lines.push(...generateFlaggedSection(flaggedSettings));
+
     lines.push('---');
     lines.push('');
     lines.push(`*Generated on ${new Date().toISOString()}*`);
@@ -173,9 +196,50 @@ function generateMarkdown(dateStr, recentCount, totalCount, sortedAreas, grouped
 }
 
 /**
+ * Generate the flagged settings section
+ */
+function generateFlaggedSection(flaggedSettings) {
+    const lines = [];
+
+    lines.push(`## ⚠️ Experimental for 60+ Days`);
+    lines.push('');
+
+    if (flaggedSettings.length === 0) {
+        lines.push('No settings have been experimental for more than 60 days.');
+        lines.push('');
+        return lines;
+    }
+
+    lines.push(`${flaggedSettings.length} setting(s) have been experimental for more than 60 days.`);
+    lines.push('');
+    lines.push('| Setting Name | Added Date | Age (days) | Owner | Area | Tags |');
+    lines.push('|--------------|------------|------------|-------|------|------|');
+
+    // Sort by age descending
+    flaggedSettings.sort((a, b) => b.ageInDays - a.ageInDays);
+
+    for (const setting of flaggedSettings) {
+        const name = `\`${escapeMarkdown(setting.name)}\``;
+        const addedDate = setting.addedDate || '-';
+        const age = setting.ageInDays;
+        const owner = (setting.addedBy && setting.addedBy.name) ||
+                      (setting.owner && setting.owner.name) || '-';
+        const area = setting.area || extractArea(setting.name);
+        const tags = formatTags(setting.tags);
+
+        lines.push(`| ${name} | ${addedDate} | ${age} | ${escapeMarkdown(owner)} | ${area} | ${tags} |`);
+    }
+
+    lines.push('');
+    return lines;
+}
+
+/**
  * Generate empty report when no recent settings found
  */
-function generateEmptyReport(dateStr, totalCount) {
+function generateEmptyReport(dateStr, totalCount, flaggedSettings = []) {
+    const flaggedSection = generateFlaggedSection(flaggedSettings);
+
     return [
         `# Experimental Settings Report - ${dateStr}`,
         '',
@@ -188,6 +252,7 @@ function generateEmptyReport(dateStr, totalCount) {
         '',
         `No new experimental settings were introduced in the last ${DAYS_BACK} days.`,
         '',
+        ...flaggedSection,
         '---',
         '',
         `*Generated on ${new Date().toISOString()}*`

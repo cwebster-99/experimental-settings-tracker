@@ -91,7 +91,8 @@ async function updateTracking() {
         totalActive: 0,
         newSettings: [],
         removedSettings: [],
-        existingSettings: []
+        existingSettings: [],
+        flaggedSettings: []
     };
     
     // Update existing settings and detect removals
@@ -216,6 +217,35 @@ async function updateTracking() {
         }
     }
     
+    // Flag settings that have been experimental for more than 60 days
+    const FLAG_DAYS = 60;
+    const todayMs = new Date(today).getTime();
+
+    for (const [settingName, settingData] of Object.entries(tracking.settings)) {
+        if (settingData.removedDate) continue;
+        if (!settingData.addedDate) continue;
+
+        const addedMs = new Date(settingData.addedDate).getTime();
+        const ageInDays = Math.floor((todayMs - addedMs) / (24 * 60 * 60 * 1000));
+
+        if (ageInDays > FLAG_DAYS) {
+            if (!settingData.flagged) {
+                settingData.flagged = true;
+                settingData.flaggedDate = today;
+            }
+
+            report.flaggedSettings.push({
+                name: settingName,
+                addedDate: settingData.addedDate,
+                ageInDays,
+                flaggedDate: settingData.flaggedDate,
+                ...(settingData.owner && { owner: settingData.owner }),
+                ...(settingData.area && { area: settingData.area }),
+                ...(settingData.tags && { tags: settingData.tags })
+            });
+        }
+    }
+
     // Count active settings
     report.totalActive = Object.values(tracking.settings)
         .filter(s => !s.removedDate).length;
@@ -238,6 +268,7 @@ async function updateTracking() {
     console.log(`New settings this run: ${report.newSettings.length}`);
     console.log(`Removed settings this run: ${report.removedSettings.length}`);
     console.log(`Continuing from previous: ${report.existingSettings.length}`);
+    console.log(`Flagged (experimental > 60 days): ${report.flaggedSettings.length}`);
     
     return report;
 }

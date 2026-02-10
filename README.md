@@ -7,7 +7,7 @@ A tool that monitors experimental settings in VS Code and Copilot Chat repositor
 
 ## Latest Report
 
-**[View Latest Report (2026-01-21)](reports/report-2026-01-21.md)** - 131 experimental settings tracked
+**[View Latest Report (2026-01-21)](reports/report-2026-01-21.md)** - 140 experimental settings tracked
 
 ## Features
 
