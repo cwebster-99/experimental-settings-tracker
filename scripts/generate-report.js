@@ -80,14 +80,17 @@ async function generateReport() {
     }
 
     // Build list of flagged settings (experimental > 60 days)
+    // Use addedDate directly from found-settings.json (git-based) for accurate age calculation
     const flaggedSettings = [];
     const todayMs = new Date().getTime();
     for (const setting of findings.settings) {
-        const tracked = tracking.settings && tracking.settings[setting.name];
-        if (tracked && tracked.flagged) {
-            const addedMs = new Date(tracked.addedDate).getTime();
-            const ageInDays = Math.floor((todayMs - addedMs) / (24 * 60 * 60 * 1000));
-            flaggedSettings.push({ ...setting, ageInDays, flaggedDate: tracked.flaggedDate });
+        const addedDate = setting.addedDate || (setting.owner && setting.owner.date);
+        if (!addedDate) continue;
+        const addedMs = new Date(addedDate).getTime();
+        const ageInDays = Math.floor((todayMs - addedMs) / (24 * 60 * 60 * 1000));
+        if (ageInDays > 60) {
+            const tracked = tracking.settings && tracking.settings[setting.name];
+            flaggedSettings.push({ ...setting, ageInDays, flaggedDate: tracked && tracked.flaggedDate });
         }
     }
     
