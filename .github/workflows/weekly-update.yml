@@ -1,9 +1,9 @@
-name: Monthly Experimental Settings Update
+name: Weekly Experimental Settings Update
 
 on:
-  # Run at 9am UTC on the 1st of every month
+  # Run at 9am UTC every Monday
   schedule:
-    - cron: '0 9 1 * *'
+    - cron: '0 9 * * 1'
   
   # Allow manual trigger
   workflow_dispatch:
@@ -37,7 +37,7 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add experimental-settings.json tracking-report.json found-settings.json recent-settings.json reports/ all-settings.md
           if ! git diff --staged --quiet; then
-            git commit -m "chore: monthly experimental settings update [skip ci]"
+            git commit -m "chore: weekly experimental settings update [skip ci]"
             # Pull with rebase to handle any remote changes
             if ! git pull --rebase origin ${{ github.ref_name }}; then
               echo "Rebase failed, aborting rebase and retrying with merge strategy"
