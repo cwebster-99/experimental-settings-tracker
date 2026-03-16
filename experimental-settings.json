@@ -3,8 +3,8 @@
     "chat.agent.thinking.collapsedTools": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Justin Chen",
         "email": "54879025+justschen@users.noreply.github.com",
@@ -21,13 +21,15 @@
       "addedBy": {
         "name": "Daniel Imms",
         "email": "2193314+Tyriar@users.noreply.github.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "chat.allowAnonymousAccess": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Benjamin Pasero",
         "email": "benjamin.pasero@gmail.com",
@@ -44,13 +46,15 @@
       "addedBy": {
         "name": "Daniel Imms",
         "email": "2193314+Tyriar@users.noreply.github.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "chat.extensionUnification.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Benjamin Christopher Simmonds",
         "email": "44439583+benibenj@users.noreply.github.com",
@@ -67,13 +71,15 @@
       "addedBy": {
         "name": "Daniel Imms",
         "email": "2193314+Tyriar@users.noreply.github.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "chat.sendElementsToChat.attachCSS": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Justin Chen",
         "email": "54879025+justschen@users.noreply.github.com",
@@ -90,13 +96,15 @@
       "addedBy": {
         "name": "Daniel Imms",
         "email": "2193314+Tyriar@users.noreply.github.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "chat.sendElementsToChat.attachImages": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Justin Chen",
         "email": "54879025+justschen@users.noreply.github.com",
@@ -113,13 +121,15 @@
       "addedBy": {
         "name": "Daniel Imms",
         "email": "2193314+Tyriar@users.noreply.github.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "chat.sendElementsToChat.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Justin Chen",
         "email": "54879025+justschen@users.noreply.github.com",
@@ -136,7 +146,9 @@
       "addedBy": {
         "name": "Daniel Imms",
         "email": "2193314+Tyriar@users.noreply.github.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "chat.todoListTool.descriptionField": {
       "firstSeen": "2026-01-21",
@@ -191,8 +203,8 @@
     "editor.experimental.asyncTokenization": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Henning Dieterichs",
         "email": "hdieterichs@microsoft.com",
@@ -209,13 +221,15 @@
       "addedBy": {
         "name": "Daniel Imms",
         "email": "2193314+Tyriar@users.noreply.github.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "editor.experimental.asyncTokenizationVerification": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Henning Dieterichs",
         "email": "hdieterichs@microsoft.com",
@@ -232,13 +246,15 @@
       "addedBy": {
         "name": "Daniel Imms",
         "email": "2193314+Tyriar@users.noreply.github.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "editor.experimental.preferTreeSitter.css": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Alex Ross",
         "email": "38270282+alexr00@users.noreply.github.com",
@@ -255,13 +271,15 @@
       "addedBy": {
         "name": "Daniel Imms",
         "email": "2193314+Tyriar@users.noreply.github.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "editor.experimental.preferTreeSitter.ini": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Alex Ross",
         "email": "38270282+alexr00@users.noreply.github.com",
@@ -278,13 +296,15 @@
       "addedBy": {
         "name": "Daniel Imms",
         "email": "2193314+Tyriar@users.noreply.github.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "editor.experimental.preferTreeSitter.regex": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Alex Ross",
         "email": "38270282+alexr00@users.noreply.github.com",
@@ -301,13 +321,15 @@
       "addedBy": {
         "name": "Daniel Imms",
         "email": "2193314+Tyriar@users.noreply.github.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "editor.experimental.preferTreeSitter.typescript": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Alex Ross",
         "email": "38270282+alexr00@users.noreply.github.com",
@@ -324,13 +346,15 @@
       "addedBy": {
         "name": "Daniel Imms",
         "email": "2193314+Tyriar@users.noreply.github.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "editor.experimental.treeSitterTelemetry": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Alex Ross",
         "email": "alros@microsoft.com",
@@ -347,13 +371,15 @@
       "addedBy": {
         "name": "Daniel Imms",
         "email": "2193314+Tyriar@users.noreply.github.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "editor.inlineSuggest.edits.showLongDistanceHint": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Henning Dieterichs",
         "email": "hdieterichs@microsoft.com",
@@ -371,13 +397,15 @@
       "addedBy": {
         "name": "Daniel Imms",
         "email": "2193314+Tyriar@users.noreply.github.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "editor.inlineSuggest.experimental.emptyResponseInformation": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "BeniBenj",
         "email": "besimmonds@microsoft.com",
@@ -394,13 +422,15 @@
       "addedBy": {
         "name": "Daniel Imms",
         "email": "2193314+Tyriar@users.noreply.github.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "editor.inlineSuggest.experimental.showOnSuggestConflict": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Henning Dieterichs",
         "email": "hdieterichs@microsoft.com",
@@ -417,13 +447,15 @@
       "addedBy": {
         "name": "Daniel Imms",
         "email": "2193314+Tyriar@users.noreply.github.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "editor.inlineSuggest.experimental.suppressInlineSuggestions": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Benjamin Christopher Simmonds",
         "email": "44439583+benibenj@users.noreply.github.com",
@@ -440,13 +472,15 @@
       "addedBy": {
         "name": "Daniel Imms",
         "email": "2193314+Tyriar@users.noreply.github.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "editor.inlineSuggest.triggerCommandOnProviderChange": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Henning Dieterichs",
         "email": "hdieterichs@microsoft.com",
@@ -463,13 +497,15 @@
       "addedBy": {
         "name": "Daniel Imms",
         "email": "2193314+Tyriar@users.noreply.github.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "git.optimisticUpdate": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Ladislau Szomoru",
         "email": "3372902+lszomoru@users.noreply.github.com",
@@ -486,13 +522,15 @@
       "addedBy": {
         "name": "Daniel Imms",
         "email": "2193314+Tyriar@users.noreply.github.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.agent.temperature": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
@@ -510,13 +548,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.agentHistorySummarizationForceGpt41": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
@@ -535,13 +575,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.agentHistorySummarizationMode": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
@@ -559,13 +601,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.agentHistorySummarizationWithPromptCache": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
@@ -584,13 +628,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.alternateGeminiModelFPrompt.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Paul",
         "email": "paul_wang347@hotmail.com",
@@ -608,13 +654,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.alternateGptPrompt.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Burke Holland",
         "email": "buhollan@microsoft.com",
@@ -631,13 +679,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.anthropic.thinking.budgetTokens": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com",
@@ -655,13 +705,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.anthropic.tools.websearch.allowedDomains": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com",
@@ -678,13 +730,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.anthropic.tools.websearch.blockedDomains": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com",
@@ -701,13 +755,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.anthropic.tools.websearch.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com",
@@ -725,13 +781,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.anthropic.tools.websearch.maxUses": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com",
@@ -748,13 +806,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.anthropic.tools.websearch.userLocation": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com",
@@ -771,7 +831,9 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.anthropic.useMessagesApi": {
       "firstSeen": "2026-01-21",
@@ -955,8 +1017,8 @@
     "github.copilot.chat.cli.customAgents.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Don Jayamanne",
         "email": "don.jayamanne@outlook.com",
@@ -974,60 +1036,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.cli.mcp.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
-      "owner": {
-        "name": "Sandeep Somavarapu",
-        "email": "sasomava@microsoft.com",
-        "date": "2025-11-15",
-        "commit": "5e459a3"
-      },
-      "area": "github.copilot",
-      "default": "false",
-      "tags": [
-        "advanced",
-        "experimental"
-      ],
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
-      "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
-      }
-    },
-    "github.copilot.chat.codeGeneration.instructions": {
-      "firstSeen": "2026-01-21",
-      "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
-      "owner": {
-        "name": "kieferrm",
-        "email": "4674940+kieferrm@users.noreply.github.com",
-        "date": "2025-06-27",
-        "commit": "af813ee"
-      },
-      "area": "github.copilot",
-      "default": "[]",
-      "tags": [
-        "experimental"
-      ],
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
-      "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
-      }
-    },
-    "github.copilot.chat.codesearch.agent.enabled": {
-      "firstSeen": "2026-01-21",
-      "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
@@ -1045,36 +1062,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
-    },
-    "github.copilot.chat.codesearch.enabled": {
-      "firstSeen": "2026-01-21",
-      "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
-      "owner": {
-        "name": "kieferrm",
-        "email": "4674940+kieferrm@users.noreply.github.com",
-        "date": "2025-06-27",
-        "commit": "af813ee"
       },
-      "area": "github.copilot",
-      "default": "false",
-      "tags": [
-        "preview"
-      ],
-      "addedDate": "2026-01-08",
-      "addedCommit": "da94575",
-      "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
-      }
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
-    "github.copilot.chat.commitMessageGeneration.instructions": {
+    "github.copilot.chat.codeGeneration.instructions": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com",
@@ -1091,13 +1087,91 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
+    },
+    "github.copilot.chat.codesearch.agent.enabled": {
+      "firstSeen": "2026-01-21",
+      "firstSeenRun": 1,
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
+      "owner": {
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com",
+        "date": "2025-11-15",
+        "commit": "5e459a3"
+      },
+      "area": "github.copilot",
+      "default": "true",
+      "tags": [
+        "advanced",
+        "experimental"
+      ],
+      "addedDate": "2026-01-08",
+      "addedCommit": "da94575",
+      "addedBy": {
+        "name": "Bhavya U",
+        "email": "bhavyau@microsoft.com"
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
+    },
+    "github.copilot.chat.codesearch.enabled": {
+      "firstSeen": "2026-01-21",
+      "firstSeenRun": 1,
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
+      "owner": {
+        "name": "kieferrm",
+        "email": "4674940+kieferrm@users.noreply.github.com",
+        "date": "2025-06-27",
+        "commit": "af813ee"
+      },
+      "area": "github.copilot",
+      "default": "false",
+      "tags": [
+        "preview"
+      ],
+      "addedDate": "2026-01-08",
+      "addedCommit": "da94575",
+      "addedBy": {
+        "name": "Bhavya U",
+        "email": "bhavyau@microsoft.com"
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
+    },
+    "github.copilot.chat.commitMessageGeneration.instructions": {
+      "firstSeen": "2026-01-21",
+      "firstSeenRun": 1,
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
+      "owner": {
+        "name": "kieferrm",
+        "email": "4674940+kieferrm@users.noreply.github.com",
+        "date": "2025-06-27",
+        "commit": "af813ee"
+      },
+      "area": "github.copilot",
+      "default": "[]",
+      "tags": [
+        "experimental"
+      ],
+      "addedDate": "2026-01-08",
+      "addedCommit": "da94575",
+      "addedBy": {
+        "name": "Bhavya U",
+        "email": "bhavyau@microsoft.com"
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.completionsFetcher": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Christof Marti",
         "email": "chrmarti@microsoft.com",
@@ -1115,13 +1189,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.copilotDebugCommand.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com",
@@ -1138,7 +1214,9 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.customAgents.showOrganizationAndEnterpriseAgents": {
       "firstSeen": "2026-01-21",
@@ -1219,8 +1297,8 @@
     "github.copilot.chat.debug.requestLogger.maxEntries": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
@@ -1238,13 +1316,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.debugTerminalCommandPatterns": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
@@ -1262,13 +1342,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.editRecording.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
@@ -1286,13 +1368,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.edits.gemini3MultiReplaceString": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Connor Peet",
         "email": "connor@peet.io",
@@ -1311,7 +1395,9 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.edits.suggestRelatedFilesForTests": {
       "firstSeen": "2026-01-21",
@@ -1366,8 +1452,8 @@
     "github.copilot.chat.enableUserPreferences": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
@@ -1385,13 +1471,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.feedback.onChange": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
@@ -1409,7 +1497,9 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.generateTests.codeLens": {
       "firstSeen": "2026-01-21",
@@ -1439,8 +1529,8 @@
     "github.copilot.chat.githubMcpServer.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Tyler James Leonhardt",
         "email": "2644648+TylerLeonhardt@users.noreply.github.com",
@@ -1457,13 +1547,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.githubMcpServer.lockdown": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Tyler James Leonhardt",
         "email": "2644648+TylerLeonhardt@users.noreply.github.com",
@@ -1480,13 +1572,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.githubMcpServer.readonly": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Tyler James Leonhardt",
         "email": "2644648+TylerLeonhardt@users.noreply.github.com",
@@ -1503,13 +1597,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.githubMcpServer.toolsets": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Tyler James Leonhardt",
         "email": "2644648+TylerLeonhardt@users.noreply.github.com",
@@ -1526,13 +1622,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.gpt5AlternativePatch": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
@@ -1551,13 +1649,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.imageUpload.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Justin Chen",
         "email": "54879025+justschen@users.noreply.github.com",
@@ -1575,13 +1675,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.inlineChat.selectionRatioThreshold": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Johannes Rieken",
         "email": "johannes.rieken@gmail.com",
@@ -1600,13 +1702,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.inlineEdits.diagnosticsContextProvider.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
@@ -1625,13 +1729,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.inlineEdits.nextCursorPrediction.currentFileMaxTokens": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
@@ -1650,13 +1756,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.inlineEdits.nextCursorPrediction.displayLine": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
@@ -1675,13 +1783,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.inlineEdits.renameSymbolSuggestions": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Benjamin Christopher Simmonds",
         "email": "44439583+benibenj@users.noreply.github.com",
@@ -1700,13 +1810,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.inlineEdits.triggerOnEditorChangeAfterSeconds": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
@@ -1725,13 +1837,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.instantApply.shortContextLimit": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
@@ -1750,13 +1864,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.instantApply.shortContextModelName": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
@@ -1775,13 +1891,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.languageContext.fix.typescript.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com",
@@ -1799,13 +1917,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.languageContext.inline.typescript.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com",
@@ -1823,13 +1943,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.languageContext.typescript.cacheTimeout": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com",
@@ -1847,13 +1969,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.languageContext.typescript.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com",
@@ -1871,13 +1995,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.languageContext.typescript.includeDocumentation": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Dirk Bäumer",
         "email": "dirkb@microsoft.com",
@@ -1895,13 +2021,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.languageContext.typescript.items": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Dirk Bäumer",
         "email": "dirkb@microsoft.com",
@@ -1919,13 +2047,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.localWorkspaceRecording.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
@@ -1943,13 +2073,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.nesFetcher": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Christof Marti",
         "email": "chrmarti@microsoft.com",
@@ -1967,13 +2099,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.newWorkspace.useContext7": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com",
@@ -1990,13 +2124,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.newWorkspaceCreation.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com",
@@ -2013,13 +2149,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.notebook.alternativeFormat": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
@@ -2038,13 +2176,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.notebook.alternativeNESFormat.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
@@ -2063,13 +2203,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.notebook.enhancedNextEditSuggestions.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Don Jayamanne",
         "email": "don.jayamanne@outlook.com",
@@ -2087,13 +2229,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.notebook.followCellExecution.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com",
@@ -2110,13 +2254,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.notebook.summaryExperimentEnabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
@@ -2134,13 +2280,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.notebook.variableFilteringEnabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
@@ -2158,13 +2306,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.omitBaseAgentInstructions": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
@@ -2182,13 +2332,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.projectLabels.chat": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
@@ -2207,13 +2359,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.projectLabels.expanded": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
@@ -2232,13 +2386,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.projectLabels.inline": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
@@ -2257,13 +2413,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.promptFileContextProvider.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
@@ -2282,13 +2440,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.pullRequestDescriptionGeneration.instructions": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com",
@@ -2305,13 +2465,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.responsesApiReasoningEffort": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Rob Lourens",
         "email": "roblourens@gmail.com",
@@ -2329,13 +2491,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.responsesApiReasoningSummary": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Rob Lourens",
         "email": "roblourens@gmail.com",
@@ -2353,13 +2517,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.review.intent": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
@@ -2377,7 +2543,9 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.reviewAgent.enabled": {
       "firstSeen": "2026-01-21",
@@ -2457,8 +2625,8 @@
     "github.copilot.chat.setupTests.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com",
@@ -2475,7 +2643,9 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.suggestRelatedFilesFromGitHistory.useEmbeddings": {
       "firstSeen": "2026-01-21",
@@ -2506,8 +2676,8 @@
     "github.copilot.chat.summarizeAgentConversationHistory.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com",
@@ -2524,13 +2694,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.summarizeAgentConversationHistoryThreshold": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
@@ -2548,13 +2720,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.testGeneration.instructions": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com",
@@ -2571,13 +2745,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.tools.defaultToolsGrouped": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
@@ -2596,13 +2772,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.tools.memory.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 9,
-      "lastSeen": "2026-03-09",
+      "runCount": 10,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com",
@@ -2652,8 +2830,8 @@
     "github.copilot.chat.useResponsesApiTruncation": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
@@ -2671,13 +2849,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.virtualTools.threshold": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Connor Peet",
         "email": "connor@peet.io",
@@ -2694,13 +2874,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.workspace.enableCodeSearch": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
@@ -2719,13 +2901,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.workspace.enableEmbeddingsSearch": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
@@ -2744,13 +2928,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.workspace.enableFullWorkspace": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
@@ -2769,13 +2955,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.workspace.maxLocalIndexSize": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
@@ -2794,13 +2982,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.workspace.preferredEmbeddingsModel": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
@@ -2819,13 +3009,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.workspace.prototypeAdoCodeSearchEndpointOverride": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
@@ -2843,13 +3035,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.nextEditSuggestions.preferredModel": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Ulugbek Abdullaev",
         "email": "ulugbekna@gmail.com",
@@ -2868,13 +3062,15 @@
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "http.experimental.networkInterfaceCheckInterval": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Christof Marti",
         "email": "chrmarti@microsoft.com",
@@ -2891,13 +3087,15 @@
       "addedBy": {
         "name": "Daniel Imms",
         "email": "2193314+Tyriar@users.noreply.github.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "http.experimental.systemCertificatesV2": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Christof Marti",
         "email": "chrmarti@microsoft.com",
@@ -2914,13 +3112,15 @@
       "addedBy": {
         "name": "Daniel Imms",
         "email": "2193314+Tyriar@users.noreply.github.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "http.systemCertificatesNode": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Christof Marti",
         "email": "chrmarti@microsoft.com",
@@ -2937,13 +3137,15 @@
       "addedBy": {
         "name": "Daniel Imms",
         "email": "2193314+Tyriar@users.noreply.github.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "ipynb.experimental.serialization": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Don Jayamanne",
         "email": "don.jayamanne@outlook.com",
@@ -2960,7 +3162,9 @@
       "addedBy": {
         "name": "Daniel Imms",
         "email": "2193314+Tyriar@users.noreply.github.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "mermaid-chat.enabled": {
       "firstSeen": "2026-01-21",
@@ -3015,8 +3219,8 @@
     "scm.repositories.explorer": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Ladislau Szomoru",
         "email": "3372902+lszomoru@users.noreply.github.com",
@@ -3033,13 +3237,15 @@
       "addedBy": {
         "name": "Daniel Imms",
         "email": "2193314+Tyriar@users.noreply.github.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "search.searchView.keywordSuggestions": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Osvaldo Ortega",
         "email": "osortega@microsoft.com",
@@ -3056,13 +3262,15 @@
       "addedBy": {
         "name": "Daniel Imms",
         "email": "2193314+Tyriar@users.noreply.github.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "search.searchView.semanticSearchBehavior": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Osvaldo Ortega",
         "email": "osortega@microsoft.com",
@@ -3079,7 +3287,9 @@
       "addedBy": {
         "name": "Daniel Imms",
         "email": "2193314+Tyriar@users.noreply.github.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "typescript.experimental.useTsgo": {
       "firstSeen": "2026-01-21",
@@ -3134,8 +3344,8 @@
     "workbench.experimental.share.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 10,
-      "lastSeen": "2026-03-09",
+      "runCount": 11,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Joyce Er",
         "email": "joyce.er@microsoft.com",
@@ -3152,7 +3362,9 @@
       "addedBy": {
         "name": "Daniel Imms",
         "email": "2193314+Tyriar@users.noreply.github.com"
-      }
+      },
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.agent.omitFileAttachmentContents": {
       "firstSeen": "2026-01-22",
@@ -3163,8 +3375,8 @@
         "name": "Rob Lourens",
         "email": "roblourens@gmail.com"
       },
-      "runCount": 7,
-      "lastSeen": "2026-03-09",
+      "runCount": 8,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Rob Lourens",
         "email": "roblourens@gmail.com",
@@ -3239,8 +3451,8 @@
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
       },
-      "runCount": 7,
-      "lastSeen": "2026-03-09",
+      "runCount": 8,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com",
@@ -3288,8 +3500,8 @@
         "name": "Benjamin Christopher Simmonds",
         "email": "44439583+benibenj@users.noreply.github.com"
       },
-      "runCount": 7,
-      "lastSeen": "2026-03-09",
+      "runCount": 8,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Benjamin Christopher Simmonds",
         "email": "44439583+benibenj@users.noreply.github.com",
@@ -3313,8 +3525,8 @@
         "name": "Anisha Agarwal",
         "email": "anisagarwal@microsoft.com"
       },
-      "runCount": 7,
-      "lastSeen": "2026-03-09",
+      "runCount": 8,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Anisha Agarwal",
         "email": "anisagarwal@microsoft.com",
@@ -3327,7 +3539,9 @@
         "advanced",
         "experimental",
         "onExp"
-      ]
+      ],
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "simpleBrowser.useIntegratedBrowser": {
       "firstSeen": "2026-01-22",
@@ -3364,8 +3578,8 @@
         "name": "Christof Marti",
         "email": "chrmarti@microsoft.com"
       },
-      "runCount": 6,
-      "lastSeen": "2026-03-09",
+      "runCount": 7,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Christof Marti",
         "email": "chrmarti@microsoft.com",
@@ -3387,8 +3601,8 @@
         "name": "SteVen Batten",
         "email": "sbatten@microsoft.com"
       },
-      "runCount": 6,
-      "lastSeen": "2026-03-09",
+      "runCount": 7,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "SteVen Batten",
         "email": "sbatten@microsoft.com",
@@ -3410,8 +3624,8 @@
         "name": "Ladislau Szomoru",
         "email": "3372902+lszomoru@users.noreply.github.com"
       },
-      "runCount": 6,
-      "lastSeen": "2026-03-09",
+      "runCount": 7,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Ladislau Szomoru",
         "email": "3372902+lszomoru@users.noreply.github.com",
@@ -3422,7 +3636,9 @@
       "default": "[]",
       "tags": [
         "experimental"
-      ]
+      ],
+      "flagged": true,
+      "flaggedDate": "2026-03-16"
     },
     "github.copilot.chat.agent.largeToolResultsToDisk.enabled": {
       "firstSeen": "2026-02-01",
@@ -3433,8 +3649,8 @@
         "name": "Connor Peet",
         "email": "connor@peet.io"
       },
-      "runCount": 6,
-      "lastSeen": "2026-03-09",
+      "runCount": 7,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Connor Peet",
         "email": "connor@peet.io",
@@ -3458,8 +3674,8 @@
         "name": "Connor Peet",
         "email": "connor@peet.io"
       },
-      "runCount": 6,
-      "lastSeen": "2026-03-09",
+      "runCount": 7,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Connor Peet",
         "email": "connor@peet.io",
@@ -3533,8 +3749,8 @@
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
       },
-      "runCount": 6,
-      "lastSeen": "2026-03-09",
+      "runCount": 7,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com",
@@ -3556,8 +3772,8 @@
         "name": "Eleanor Boyd",
         "email": "26030610+eleanorjboyd@users.noreply.github.com"
       },
-      "runCount": 6,
-      "lastSeen": "2026-03-09",
+      "runCount": 7,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Eleanor Boyd",
         "email": "26030610+eleanorjboyd@users.noreply.github.com",
@@ -3579,8 +3795,8 @@
         "name": "Harald Kirschner",
         "email": "hkirschner@microsoft.com"
       },
-      "runCount": 6,
-      "lastSeen": "2026-03-09",
+      "runCount": 7,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Harald Kirschner",
         "email": "hkirschner@microsoft.com",
@@ -3627,8 +3843,8 @@
         "name": "Anisha Agarwal",
         "email": "anisagarwal@microsoft.com"
       },
-      "runCount": 6,
-      "lastSeen": "2026-03-09",
+      "runCount": 7,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Anisha Agarwal",
         "email": "anisagarwal@microsoft.com",
@@ -3652,8 +3868,8 @@
         "name": "Anisha Agarwal",
         "email": "anisagarwal@microsoft.com"
       },
-      "runCount": 6,
-      "lastSeen": "2026-03-09",
+      "runCount": 7,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Anisha Agarwal",
         "email": "anisagarwal@microsoft.com",
@@ -3677,8 +3893,8 @@
         "name": "SteVen Batten",
         "email": "steven.m.batten@outlook.com"
       },
-      "runCount": 6,
-      "lastSeen": "2026-03-09",
+      "runCount": 7,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "SteVen Batten",
         "email": "steven.m.batten@outlook.com",
@@ -3727,8 +3943,8 @@
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
       },
-      "runCount": 5,
-      "lastSeen": "2026-03-09",
+      "runCount": 6,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com",
@@ -3750,8 +3966,8 @@
         "name": "Benjamin Christopher Simmonds",
         "email": "44439583+benibenj@users.noreply.github.com"
       },
-      "runCount": 5,
-      "lastSeen": "2026-03-09",
+      "runCount": 6,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Benjamin Christopher Simmonds",
         "email": "44439583+benibenj@users.noreply.github.com",
@@ -3773,8 +3989,8 @@
         "name": "Benjamin Christopher Simmonds",
         "email": "44439583+benibenj@users.noreply.github.com"
       },
-      "runCount": 5,
-      "lastSeen": "2026-03-09",
+      "runCount": 6,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Benjamin Christopher Simmonds",
         "email": "44439583+benibenj@users.noreply.github.com",
@@ -3822,8 +4038,8 @@
         "name": "Benjamin Pasero",
         "email": "benjamin.pasero@microsoft.com"
       },
-      "runCount": 3,
-      "lastSeen": "2026-03-09",
+      "runCount": 4,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Johannes Rieken",
         "email": "johannes.rieken@gmail.com",
@@ -3847,8 +4063,8 @@
         "name": "Tyler James Leonhardt",
         "email": "me@tylerleonhardt.com"
       },
-      "runCount": 3,
-      "lastSeen": "2026-03-09",
+      "runCount": 4,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Tyler James Leonhardt",
         "email": "me@tylerleonhardt.com",
@@ -3872,8 +4088,8 @@
         "name": "Tyler James Leonhardt",
         "email": "me@tylerleonhardt.com"
       },
-      "runCount": 3,
-      "lastSeen": "2026-03-09",
+      "runCount": 4,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Tyler James Leonhardt",
         "email": "me@tylerleonhardt.com",
@@ -3897,8 +4113,8 @@
         "name": "Tyler James Leonhardt",
         "email": "me@tylerleonhardt.com"
       },
-      "runCount": 3,
-      "lastSeen": "2026-03-09",
+      "runCount": 4,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Tyler James Leonhardt",
         "email": "me@tylerleonhardt.com",
@@ -3922,8 +4138,8 @@
         "name": "Dmitriy Vasyura",
         "email": "dmitriv@microsoft.com"
       },
-      "runCount": 3,
-      "lastSeen": "2026-03-09",
+      "runCount": 4,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Dmitriy Vasyura",
         "email": "dmitriv@microsoft.com",
@@ -3972,8 +4188,8 @@
         "name": "Joyce Er",
         "email": "joyce.er@microsoft.com"
       },
-      "runCount": 3,
-      "lastSeen": "2026-03-09",
+      "runCount": 4,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Joyce Er",
         "email": "joyce.er@microsoft.com",
@@ -3995,8 +4211,8 @@
         "name": "Joyce Er",
         "email": "joyce.er@microsoft.com"
       },
-      "runCount": 3,
-      "lastSeen": "2026-03-09",
+      "runCount": 4,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Joyce Er",
         "email": "joyce.er@microsoft.com",
@@ -4018,8 +4234,8 @@
         "name": "Benjamin Pasero",
         "email": "benjamin.pasero@gmail.com"
       },
-      "runCount": 3,
-      "lastSeen": "2026-03-09",
+      "runCount": 4,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Benjamin Pasero",
         "email": "benjamin.pasero@gmail.com",
@@ -4041,8 +4257,8 @@
         "name": "Joyce Er",
         "email": "30305945+joyceerhl@users.noreply.github.com"
       },
-      "runCount": 2,
-      "lastSeen": "2026-03-09",
+      "runCount": 3,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Joyce Er",
         "email": "30305945+joyceerhl@users.noreply.github.com",
@@ -4066,8 +4282,8 @@
         "name": "Johannes Rieken",
         "email": "johannes.rieken@gmail.com"
       },
-      "runCount": 2,
-      "lastSeen": "2026-03-09",
+      "runCount": 3,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Johannes Rieken",
         "email": "johannes.rieken@gmail.com",
@@ -4089,8 +4305,8 @@
         "name": "Johannes Rieken",
         "email": "johannes.rieken@gmail.com"
       },
-      "runCount": 2,
-      "lastSeen": "2026-03-09",
+      "runCount": 3,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Johannes Rieken",
         "email": "johannes.rieken@gmail.com",
@@ -4112,8 +4328,8 @@
         "name": "Benjamin Pasero",
         "email": "benjamin.pasero@gmail.com"
       },
-      "runCount": 2,
-      "lastSeen": "2026-03-09",
+      "runCount": 3,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Benjamin Pasero",
         "email": "benjamin.pasero@gmail.com",
@@ -4135,8 +4351,8 @@
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
       },
-      "runCount": 2,
-      "lastSeen": "2026-03-09",
+      "runCount": 3,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com",
@@ -4159,8 +4375,8 @@
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
       },
-      "runCount": 2,
-      "lastSeen": "2026-03-09",
+      "runCount": 3,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com",
@@ -4183,8 +4399,8 @@
         "name": "Don Jayamanne",
         "email": "don.jayamanne@outlook.com"
       },
-      "runCount": 2,
-      "lastSeen": "2026-03-09",
+      "runCount": 3,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Don Jayamanne",
         "email": "don.jayamanne@outlook.com",
@@ -4207,8 +4423,8 @@
         "name": "Harald Kirschner",
         "email": "hkirschner@microsoft.com"
       },
-      "runCount": 2,
-      "lastSeen": "2026-03-09",
+      "runCount": 3,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Harald Kirschner",
         "email": "hkirschner@microsoft.com",
@@ -4230,8 +4446,8 @@
         "name": "Alex Ross",
         "email": "38270282+alexr00@users.noreply.github.com"
       },
-      "runCount": 2,
-      "lastSeen": "2026-03-09",
+      "runCount": 3,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Alex Ross",
         "email": "38270282+alexr00@users.noreply.github.com",
@@ -4254,8 +4470,8 @@
         "name": "Alex Ross",
         "email": "38270282+alexr00@users.noreply.github.com"
       },
-      "runCount": 2,
-      "lastSeen": "2026-03-09",
+      "runCount": 3,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Alex Ross",
         "email": "38270282+alexr00@users.noreply.github.com",
@@ -4279,8 +4495,8 @@
         "name": "Alex Ross",
         "email": "38270282+alexr00@users.noreply.github.com"
       },
-      "runCount": 2,
-      "lastSeen": "2026-03-09",
+      "runCount": 3,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Alex Ross",
         "email": "38270282+alexr00@users.noreply.github.com",
@@ -4304,8 +4520,8 @@
         "name": "dileepyavan",
         "email": "52841896+dileepyavan@users.noreply.github.com"
       },
-      "runCount": 2,
-      "lastSeen": "2026-03-09",
+      "runCount": 3,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "dileepyavan",
         "email": "52841896+dileepyavan@users.noreply.github.com",
@@ -4328,8 +4544,8 @@
         "name": "dileepyavan",
         "email": "52841896+dileepyavan@users.noreply.github.com"
       },
-      "runCount": 2,
-      "lastSeen": "2026-03-09",
+      "runCount": 3,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "dileepyavan",
         "email": "52841896+dileepyavan@users.noreply.github.com",
@@ -4378,8 +4594,8 @@
         "name": "Kyle Cutler",
         "email": "67761731+kycutler@users.noreply.github.com"
       },
-      "runCount": 2,
-      "lastSeen": "2026-03-09",
+      "runCount": 3,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Kyle Cutler",
         "email": "67761731+kycutler@users.noreply.github.com",
@@ -4401,8 +4617,8 @@
         "name": "Benjamin Pasero",
         "email": "benjamin.pasero@gmail.com"
       },
-      "runCount": 2,
-      "lastSeen": "2026-03-09",
+      "runCount": 3,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Benjamin Pasero",
         "email": "benjamin.pasero@gmail.com",
@@ -4424,8 +4640,8 @@
         "name": "Josh Spicer",
         "email": "23246594+joshspicer@users.noreply.github.com"
       },
-      "runCount": 1,
-      "lastSeen": "2026-03-09",
+      "runCount": 2,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Josh Spicer",
         "email": "23246594+joshspicer@users.noreply.github.com",
@@ -4447,8 +4663,8 @@
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
       },
-      "runCount": 1,
-      "lastSeen": "2026-03-09",
+      "runCount": 2,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com",
@@ -4471,8 +4687,8 @@
         "name": "Benjamin Christopher Simmonds",
         "email": "44439583+benibenj@users.noreply.github.com"
       },
-      "runCount": 1,
-      "lastSeen": "2026-03-09",
+      "runCount": 2,
+      "lastSeen": "2026-03-16",
       "owner": {
         "name": "Benjamin Christopher Simmonds",
         "email": "44439583+benibenj@users.noreply.github.com",
@@ -4485,8 +4701,175 @@
         "advanced",
         "experimental"
       ]
+    },
+    "github.copilot.chat.agentDebugLog.enabled": {
+      "firstSeen": "2026-03-16",
+      "firstSeenRun": 11,
+      "addedDate": "2026-03-13",
+      "addedCommit": "f728c43",
+      "addedBy": {
+        "name": "Paul",
+        "email": "paul_wang347@hotmail.com"
+      },
+      "runCount": 1,
+      "lastSeen": "2026-03-16",
+      "owner": {
+        "name": "Paul",
+        "email": "paul_wang347@hotmail.com",
+        "date": "2026-03-13",
+        "commit": "f728c43"
+      },
+      "area": "github.copilot",
+      "default": "false",
+      "tags": [
+        "advanced",
+        "experimental"
+      ]
+    },
+    "github.copilot.chat.agentDebugLog.fileLogging.enabled": {
+      "firstSeen": "2026-03-16",
+      "firstSeenRun": 11,
+      "addedDate": "2026-03-13",
+      "addedCommit": "49e1c1f",
+      "addedBy": {
+        "name": "Vijay Upadya",
+        "email": "41652029+vijayupadya@users.noreply.github.com"
+      },
+      "runCount": 1,
+      "lastSeen": "2026-03-16",
+      "owner": {
+        "name": "Vijay Upadya",
+        "email": "41652029+vijayupadya@users.noreply.github.com",
+        "date": "2026-03-13",
+        "commit": "49e1c1f"
+      },
+      "area": "github.copilot",
+      "default": "false",
+      "tags": [
+        "advanced",
+        "experimental",
+        "onExp"
+      ]
+    },
+    "github.copilot.chat.agentDebugLog.fileLogging.flushIntervalMs": {
+      "firstSeen": "2026-03-16",
+      "firstSeenRun": 11,
+      "addedDate": "2026-03-13",
+      "addedCommit": "49e1c1f",
+      "addedBy": {
+        "name": "Vijay Upadya",
+        "email": "41652029+vijayupadya@users.noreply.github.com"
+      },
+      "runCount": 1,
+      "lastSeen": "2026-03-16",
+      "owner": {
+        "name": "Vijay Upadya",
+        "email": "41652029+vijayupadya@users.noreply.github.com",
+        "date": "2026-03-13",
+        "commit": "49e1c1f"
+      },
+      "area": "github.copilot",
+      "default": "4000",
+      "tags": [
+        "advanced",
+        "experimental"
+      ]
+    },
+    "github.copilot.chat.anthropic.promptOptimization": {
+      "firstSeen": "2026-03-16",
+      "firstSeenRun": 11,
+      "addedDate": "2026-03-10",
+      "addedCommit": "8b7c6ec",
+      "addedBy": {
+        "name": "Bhavya U",
+        "email": "bhavyau@microsoft.com"
+      },
+      "runCount": 1,
+      "lastSeen": "2026-03-16",
+      "owner": {
+        "name": "Bhavya U",
+        "email": "bhavyau@microsoft.com",
+        "date": "2026-03-10",
+        "commit": "8b7c6ec"
+      },
+      "area": "github.copilot",
+      "default": "\"control\"",
+      "tags": [
+        "experimental",
+        "onExp"
+      ]
+    },
+    "github.copilot.chat.tools.viewImage.enabled": {
+      "firstSeen": "2026-03-16",
+      "firstSeenRun": 11,
+      "addedDate": "2026-03-13",
+      "addedCommit": "04a5994",
+      "addedBy": {
+        "name": "Rob Lourens",
+        "email": "roblourens@gmail.com"
+      },
+      "runCount": 1,
+      "lastSeen": "2026-03-16",
+      "owner": {
+        "name": "Rob Lourens",
+        "email": "roblourens@gmail.com",
+        "date": "2026-03-14",
+        "commit": "04a5994"
+      },
+      "area": "github.copilot",
+      "default": "true",
+      "tags": [
+        "preview",
+        "onExp"
+      ]
+    },
+    "imageCarousel.explorerContextMenu.enabled": {
+      "firstSeen": "2026-03-16",
+      "firstSeenRun": 11,
+      "addedDate": "2026-03-13",
+      "addedCommit": "6cd9d43",
+      "addedBy": {
+        "name": "Tyler James Leonhardt",
+        "email": "2644648+TylerLeonhardt@users.noreply.github.com"
+      },
+      "runCount": 1,
+      "lastSeen": "2026-03-16",
+      "owner": {
+        "name": "Tyler James Leonhardt",
+        "email": "2644648+TylerLeonhardt@users.noreply.github.com",
+        "date": "2026-03-13",
+        "commit": "6cd9d43"
+      },
+      "area": "imageCarousel.explorerContextMenu",
+      "default": "false",
+      "tags": [
+        "experimental"
+      ]
+    },
+    "update.titleBar": {
+      "firstSeen": "2026-03-16",
+      "firstSeenRun": 11,
+      "addedDate": "2026-03-10",
+      "addedCommit": "cfe3b32",
+      "addedBy": {
+        "name": "Dmitriy Vasyura",
+        "email": "dmitriv@microsoft.com"
+      },
+      "runCount": 1,
+      "lastSeen": "2026-03-16",
+      "owner": {
+        "name": "Dmitriy Vasyura",
+        "email": "dmitriv@microsoft.com",
+        "date": "2026-03-10",
+        "commit": "cfe3b32"
+      },
+      "area": "update.titleBar",
+      "default": "<computed>",
+      "tags": [
+        "experimental"
+      ]
     }
   },
-  "lastRun": "2026-03-09",
-  "runCount": 10
+  "lastRun": "2026-03-16",
+  "runCount": 11
 }
