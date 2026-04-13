@@ -3,8 +3,8 @@
     "chat.agent.thinking.collapsedTools": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Justin Chen",
         "email": "54879025+justschen@users.noreply.github.com",
@@ -28,8 +28,8 @@
     "chat.allowAnonymousAccess": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Benjamin Pasero",
         "email": "benjamin.pasero@gmail.com",
@@ -53,8 +53,8 @@
     "chat.extensionUnification.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Benjamin Christopher Simmonds",
         "email": "44439583+benibenj@users.noreply.github.com",
@@ -78,8 +78,8 @@
     "chat.sendElementsToChat.attachCSS": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Justin Chen",
         "email": "54879025+justschen@users.noreply.github.com",
@@ -103,8 +103,8 @@
     "chat.sendElementsToChat.attachImages": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Justin Chen",
         "email": "54879025+justschen@users.noreply.github.com",
@@ -128,8 +128,8 @@
     "chat.sendElementsToChat.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Justin Chen",
         "email": "54879025+justschen@users.noreply.github.com",
@@ -203,8 +203,8 @@
     "editor.experimental.asyncTokenization": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Henning Dieterichs",
         "email": "hdieterichs@microsoft.com",
@@ -228,8 +228,8 @@
     "editor.experimental.asyncTokenizationVerification": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Henning Dieterichs",
         "email": "hdieterichs@microsoft.com",
@@ -253,8 +253,8 @@
     "editor.experimental.preferTreeSitter.css": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Alex Ross",
         "email": "38270282+alexr00@users.noreply.github.com",
@@ -278,8 +278,8 @@
     "editor.experimental.preferTreeSitter.ini": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Alex Ross",
         "email": "38270282+alexr00@users.noreply.github.com",
@@ -303,8 +303,8 @@
     "editor.experimental.preferTreeSitter.regex": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Alex Ross",
         "email": "38270282+alexr00@users.noreply.github.com",
@@ -328,8 +328,8 @@
     "editor.experimental.preferTreeSitter.typescript": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Alex Ross",
         "email": "38270282+alexr00@users.noreply.github.com",
@@ -353,8 +353,8 @@
     "editor.experimental.treeSitterTelemetry": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Alex Ross",
         "email": "alros@microsoft.com",
@@ -378,8 +378,8 @@
     "editor.inlineSuggest.edits.showLongDistanceHint": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Henning Dieterichs",
         "email": "hdieterichs@microsoft.com",
@@ -404,8 +404,8 @@
     "editor.inlineSuggest.experimental.emptyResponseInformation": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "BeniBenj",
         "email": "besimmonds@microsoft.com",
@@ -429,8 +429,8 @@
     "editor.inlineSuggest.experimental.showOnSuggestConflict": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Henning Dieterichs",
         "email": "hdieterichs@microsoft.com",
@@ -454,8 +454,8 @@
     "editor.inlineSuggest.experimental.suppressInlineSuggestions": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Benjamin Christopher Simmonds",
         "email": "44439583+benibenj@users.noreply.github.com",
@@ -479,8 +479,8 @@
     "editor.inlineSuggest.triggerCommandOnProviderChange": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Henning Dieterichs",
         "email": "hdieterichs@microsoft.com",
@@ -504,8 +504,8 @@
     "git.optimisticUpdate": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Ladislau Szomoru",
         "email": "3372902+lszomoru@users.noreply.github.com",
@@ -529,13 +529,13 @@
     "github.copilot.chat.agent.temperature": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       },
       "area": "github.copilot",
       "default": null,
@@ -584,13 +584,13 @@
     "github.copilot.chat.agentHistorySummarizationMode": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       },
       "area": "github.copilot",
       "default": null,
@@ -639,13 +639,13 @@
     "github.copilot.chat.alternateGeminiModelFPrompt.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Paul",
         "email": "paul_wang347@hotmail.com",
         "date": "2025-12-17",
-        "commit": "eff7025"
+        "commit": "2374fbf"
       },
       "area": "github.copilot",
       "default": "false",
@@ -665,13 +665,13 @@
     "github.copilot.chat.alternateGptPrompt.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Burke Holland",
         "email": "buhollan@microsoft.com",
         "date": "2025-08-09",
-        "commit": "520fe9f"
+        "commit": "f11dd07"
       },
       "area": "github.copilot",
       "default": "false",
@@ -718,13 +718,13 @@
     "github.copilot.chat.anthropic.tools.websearch.allowedDomains": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com",
         "date": "2025-11-04",
-        "commit": "1dc7bc6"
+        "commit": "8b9e36f"
       },
       "area": "github.copilot",
       "default": "[]",
@@ -743,13 +743,13 @@
     "github.copilot.chat.anthropic.tools.websearch.blockedDomains": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com",
         "date": "2025-11-04",
-        "commit": "1dc7bc6"
+        "commit": "8b9e36f"
       },
       "area": "github.copilot",
       "default": "[]",
@@ -768,13 +768,13 @@
     "github.copilot.chat.anthropic.tools.websearch.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com",
         "date": "2025-10-31",
-        "commit": "3c7bf6c"
+        "commit": "e639b4f"
       },
       "area": "github.copilot",
       "default": "false",
@@ -794,13 +794,13 @@
     "github.copilot.chat.anthropic.tools.websearch.maxUses": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com",
         "date": "2025-11-04",
-        "commit": "1dc7bc6"
+        "commit": "8b9e36f"
       },
       "area": "github.copilot",
       "default": "5",
@@ -819,13 +819,13 @@
     "github.copilot.chat.anthropic.tools.websearch.userLocation": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com",
         "date": "2025-11-04",
-        "commit": "1dc7bc6"
+        "commit": "8b9e36f"
       },
       "area": "github.copilot",
       "default": "null",
@@ -997,13 +997,13 @@
     "github.copilot.chat.cli.autoCommit.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 6,
-      "lastSeen": "2026-04-06",
+      "runCount": 7,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Ladislau Szomoru",
         "email": "3372902+lszomoru@users.noreply.github.com",
         "date": "2026-03-22",
-        "commit": "303006e"
+        "commit": "50adab3"
       },
       "area": "github.copilot",
       "default": "true",
@@ -1051,13 +1051,13 @@
     "github.copilot.chat.cli.mcp.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       },
       "area": "github.copilot",
       "default": "true",
@@ -1077,13 +1077,13 @@
     "github.copilot.chat.codeGeneration.instructions": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com",
         "date": "2025-06-27",
-        "commit": "af813ee"
+        "commit": "333d9a4"
       },
       "area": "github.copilot",
       "default": "[]",
@@ -1102,13 +1102,13 @@
     "github.copilot.chat.codesearch.agent.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       },
       "area": "github.copilot",
       "default": "true",
@@ -1128,13 +1128,13 @@
     "github.copilot.chat.codesearch.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com",
         "date": "2025-06-27",
-        "commit": "af813ee"
+        "commit": "333d9a4"
       },
       "area": "github.copilot",
       "default": "false",
@@ -1153,13 +1153,13 @@
     "github.copilot.chat.commitMessageGeneration.instructions": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com",
         "date": "2025-06-27",
-        "commit": "af813ee"
+        "commit": "333d9a4"
       },
       "area": "github.copilot",
       "default": "[]",
@@ -1178,13 +1178,13 @@
     "github.copilot.chat.completionsFetcher": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Christof Marti",
         "email": "chrmarti@microsoft.com",
         "date": "2025-10-07",
-        "commit": "5c1d517"
+        "commit": "79ef9c8"
       },
       "area": "github.copilot",
       "default": null,
@@ -1204,13 +1204,13 @@
     "github.copilot.chat.copilotDebugCommand.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com",
         "date": "2025-06-27",
-        "commit": "af813ee"
+        "commit": "333d9a4"
       },
       "area": "github.copilot",
       "default": "true",
@@ -1305,13 +1305,13 @@
     "github.copilot.chat.debug.requestLogger.maxEntries": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-17",
-        "commit": "ae638b2"
+        "commit": "fedde4f"
       },
       "area": "github.copilot",
       "default": "100",
@@ -1331,13 +1331,13 @@
     "github.copilot.chat.debugTerminalCommandPatterns": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       },
       "area": "github.copilot",
       "default": "[]",
@@ -1357,13 +1357,13 @@
     "github.copilot.chat.editRecording.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-17",
-        "commit": "ae638b2"
+        "commit": "fedde4f"
       },
       "area": "github.copilot",
       "default": "false",
@@ -1383,13 +1383,13 @@
     "github.copilot.chat.edits.gemini3MultiReplaceString": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Connor Peet",
         "email": "connor@peet.io",
         "date": "2025-11-24",
-        "commit": "ab060a8"
+        "commit": "fdf60b9"
       },
       "area": "github.copilot",
       "default": "false",
@@ -1460,13 +1460,13 @@
     "github.copilot.chat.enableUserPreferences": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       },
       "area": "github.copilot",
       "default": "false",
@@ -1486,13 +1486,13 @@
     "github.copilot.chat.feedback.onChange": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       },
       "area": "github.copilot",
       "default": "false",
@@ -1537,13 +1537,13 @@
     "github.copilot.chat.githubMcpServer.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Tyler James Leonhardt",
         "email": "2644648+TylerLeonhardt@users.noreply.github.com",
         "date": "2025-11-20",
-        "commit": "6cea1c0"
+        "commit": "2db395a"
       },
       "area": "github.copilot",
       "default": "false",
@@ -1562,13 +1562,13 @@
     "github.copilot.chat.githubMcpServer.lockdown": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Tyler James Leonhardt",
         "email": "2644648+TylerLeonhardt@users.noreply.github.com",
         "date": "2025-11-20",
-        "commit": "6cea1c0"
+        "commit": "2db395a"
       },
       "area": "github.copilot",
       "default": "false",
@@ -1587,13 +1587,13 @@
     "github.copilot.chat.githubMcpServer.readonly": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Tyler James Leonhardt",
         "email": "2644648+TylerLeonhardt@users.noreply.github.com",
         "date": "2025-11-20",
-        "commit": "6cea1c0"
+        "commit": "2db395a"
       },
       "area": "github.copilot",
       "default": "false",
@@ -1612,13 +1612,13 @@
     "github.copilot.chat.githubMcpServer.toolsets": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Tyler James Leonhardt",
         "email": "2644648+TylerLeonhardt@users.noreply.github.com",
         "date": "2025-11-20",
-        "commit": "6cea1c0"
+        "commit": "2db395a"
       },
       "area": "github.copilot",
       "default": "[\"default\"]",
@@ -1637,13 +1637,13 @@
     "github.copilot.chat.gpt5AlternativePatch": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       },
       "area": "github.copilot",
       "default": "false",
@@ -1664,13 +1664,13 @@
     "github.copilot.chat.imageUpload.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Justin Chen",
         "email": "54879025+justschen@users.noreply.github.com",
         "date": "2025-09-09",
-        "commit": "2ddaf12"
+        "commit": "75a7075"
       },
       "area": "github.copilot",
       "default": "true",
@@ -1690,13 +1690,13 @@
     "github.copilot.chat.inlineChat.selectionRatioThreshold": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Johannes Rieken",
         "email": "johannes.rieken@gmail.com",
         "date": "2025-12-01",
-        "commit": "df2b4d3"
+        "commit": "844a8b8"
       },
       "area": "github.copilot",
       "default": "0",
@@ -1717,13 +1717,13 @@
     "github.copilot.chat.inlineEdits.diagnosticsContextProvider.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-17",
-        "commit": "ae638b2"
+        "commit": "fedde4f"
       },
       "area": "github.copilot",
       "default": "false",
@@ -1744,13 +1744,13 @@
     "github.copilot.chat.inlineEdits.nextCursorPrediction.currentFileMaxTokens": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       },
       "area": "github.copilot",
       "default": "3000",
@@ -1771,13 +1771,13 @@
     "github.copilot.chat.inlineEdits.nextCursorPrediction.displayLine": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       },
       "area": "github.copilot",
       "default": "true",
@@ -1798,13 +1798,13 @@
     "github.copilot.chat.inlineEdits.renameSymbolSuggestions": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Benjamin Christopher Simmonds",
         "email": "44439583+benibenj@users.noreply.github.com",
         "date": "2025-11-24",
-        "commit": "4513b44"
+        "commit": "e2c99eb"
       },
       "area": "github.copilot",
       "default": "true",
@@ -1825,13 +1825,13 @@
     "github.copilot.chat.inlineEdits.triggerOnEditorChangeAfterSeconds": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       },
       "area": "github.copilot",
       "default": null,
@@ -1852,13 +1852,13 @@
     "github.copilot.chat.instantApply.shortContextLimit": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       },
       "area": "github.copilot",
       "default": "8000",
@@ -1879,13 +1879,13 @@
     "github.copilot.chat.instantApply.shortContextModelName": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       },
       "area": "github.copilot",
       "default": "\"gpt-4o-instant-apply-full-ft-v66-short\"",
@@ -1906,13 +1906,13 @@
     "github.copilot.chat.languageContext.fix.typescript.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com",
         "date": "2025-06-27",
-        "commit": "af813ee"
+        "commit": "333d9a4"
       },
       "area": "github.copilot",
       "default": "false",
@@ -1932,13 +1932,13 @@
     "github.copilot.chat.languageContext.inline.typescript.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com",
         "date": "2025-06-27",
-        "commit": "af813ee"
+        "commit": "333d9a4"
       },
       "area": "github.copilot",
       "default": "false",
@@ -1958,13 +1958,13 @@
     "github.copilot.chat.languageContext.typescript.cacheTimeout": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com",
         "date": "2025-06-27",
-        "commit": "af813ee"
+        "commit": "333d9a4"
       },
       "area": "github.copilot",
       "default": "500",
@@ -1984,13 +1984,13 @@
     "github.copilot.chat.languageContext.typescript.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com",
         "date": "2025-06-27",
-        "commit": "af813ee"
+        "commit": "333d9a4"
       },
       "area": "github.copilot",
       "default": "true",
@@ -2010,13 +2010,13 @@
     "github.copilot.chat.languageContext.typescript.includeDocumentation": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Dirk Bäumer",
         "email": "dirkb@microsoft.com",
         "date": "2025-09-29",
-        "commit": "6271f4e"
+        "commit": "3c9a4c5"
       },
       "area": "github.copilot",
       "default": "false",
@@ -2036,13 +2036,13 @@
     "github.copilot.chat.languageContext.typescript.items": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Dirk Bäumer",
         "email": "dirkb@microsoft.com",
         "date": "2025-09-29",
-        "commit": "582f523"
+        "commit": "e9c0e6e"
       },
       "area": "github.copilot",
       "default": "\"double\"",
@@ -2062,13 +2062,13 @@
     "github.copilot.chat.localWorkspaceRecording.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-17",
-        "commit": "ae638b2"
+        "commit": "fedde4f"
       },
       "area": "github.copilot",
       "default": "false",
@@ -2088,13 +2088,13 @@
     "github.copilot.chat.nesFetcher": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Christof Marti",
         "email": "chrmarti@microsoft.com",
         "date": "2025-10-07",
-        "commit": "5c1d517"
+        "commit": "79ef9c8"
       },
       "area": "github.copilot",
       "default": null,
@@ -2114,13 +2114,13 @@
     "github.copilot.chat.newWorkspace.useContext7": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com",
         "date": "2025-07-28",
-        "commit": "f2c587b"
+        "commit": "1d325fa"
       },
       "area": "github.copilot",
       "default": "false",
@@ -2139,13 +2139,13 @@
     "github.copilot.chat.newWorkspaceCreation.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com",
         "date": "2025-06-27",
-        "commit": "af813ee"
+        "commit": "333d9a4"
       },
       "area": "github.copilot",
       "default": "true",
@@ -2164,13 +2164,13 @@
     "github.copilot.chat.notebook.alternativeFormat": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       },
       "area": "github.copilot",
       "default": "\"xml\"",
@@ -2191,13 +2191,13 @@
     "github.copilot.chat.notebook.alternativeNESFormat.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       },
       "area": "github.copilot",
       "default": "false",
@@ -2218,13 +2218,13 @@
     "github.copilot.chat.notebook.enhancedNextEditSuggestions.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Don Jayamanne",
         "email": "don.jayamanne@outlook.com",
         "date": "2025-08-28",
-        "commit": "8254f14"
+        "commit": "b8c0c8f"
       },
       "area": "github.copilot",
       "default": "false",
@@ -2244,13 +2244,13 @@
     "github.copilot.chat.notebook.followCellExecution.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com",
         "date": "2025-06-27",
-        "commit": "af813ee"
+        "commit": "333d9a4"
       },
       "area": "github.copilot",
       "default": "false",
@@ -2269,13 +2269,13 @@
     "github.copilot.chat.notebook.summaryExperimentEnabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       },
       "area": "github.copilot",
       "default": "false",
@@ -2295,13 +2295,13 @@
     "github.copilot.chat.notebook.variableFilteringEnabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       },
       "area": "github.copilot",
       "default": "false",
@@ -2321,13 +2321,13 @@
     "github.copilot.chat.omitBaseAgentInstructions": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       },
       "area": "github.copilot",
       "default": "false",
@@ -2347,13 +2347,13 @@
     "github.copilot.chat.projectLabels.chat": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       },
       "area": "github.copilot",
       "default": "false",
@@ -2374,13 +2374,13 @@
     "github.copilot.chat.projectLabels.expanded": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       },
       "area": "github.copilot",
       "default": "false",
@@ -2401,13 +2401,13 @@
     "github.copilot.chat.projectLabels.inline": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       },
       "area": "github.copilot",
       "default": "false",
@@ -2428,13 +2428,13 @@
     "github.copilot.chat.promptFileContextProvider.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       },
       "area": "github.copilot",
       "default": "true",
@@ -2455,13 +2455,13 @@
     "github.copilot.chat.pullRequestDescriptionGeneration.instructions": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com",
         "date": "2025-06-27",
-        "commit": "af813ee"
+        "commit": "333d9a4"
       },
       "area": "github.copilot",
       "default": "[]",
@@ -2508,13 +2508,13 @@
     "github.copilot.chat.responsesApiReasoningSummary": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Rob Lourens",
         "email": "roblourens@gmail.com",
         "date": "2025-09-12",
-        "commit": "e5d025e"
+        "commit": "be66370"
       },
       "area": "github.copilot",
       "default": "\"detailed\"",
@@ -2534,13 +2534,13 @@
     "github.copilot.chat.review.intent": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       },
       "area": "github.copilot",
       "default": "false",
@@ -2635,13 +2635,13 @@
     "github.copilot.chat.setupTests.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com",
         "date": "2025-06-27",
-        "commit": "af813ee"
+        "commit": "333d9a4"
       },
       "area": "github.copilot",
       "default": "true",
@@ -2686,13 +2686,13 @@
     "github.copilot.chat.summarizeAgentConversationHistory.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com",
         "date": "2025-06-27",
-        "commit": "af813ee"
+        "commit": "333d9a4"
       },
       "area": "github.copilot",
       "default": "true",
@@ -2711,13 +2711,13 @@
     "github.copilot.chat.summarizeAgentConversationHistoryThreshold": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       },
       "area": "github.copilot",
       "default": null,
@@ -2737,13 +2737,13 @@
     "github.copilot.chat.testGeneration.instructions": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com",
         "date": "2025-06-27",
-        "commit": "af813ee"
+        "commit": "333d9a4"
       },
       "area": "github.copilot",
       "default": "[]",
@@ -2762,13 +2762,13 @@
     "github.copilot.chat.tools.defaultToolsGrouped": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       },
       "area": "github.copilot",
       "default": "false",
@@ -2789,13 +2789,13 @@
     "github.copilot.chat.tools.memory.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 13,
-      "lastSeen": "2026-04-06",
+      "runCount": 14,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com",
         "date": "2026-02-08",
-        "commit": "bd62c33"
+        "commit": "b596994"
       },
       "area": "github.copilot",
       "default": "true",
@@ -2840,13 +2840,13 @@
     "github.copilot.chat.useResponsesApiTruncation": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       },
       "area": "github.copilot",
       "default": "false",
@@ -2866,13 +2866,13 @@
     "github.copilot.chat.virtualTools.threshold": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Connor Peet",
         "email": "connor@peet.io",
         "date": "2025-07-30",
-        "commit": "3576d74"
+        "commit": "f841f8d"
       },
       "area": "github.copilot",
       "default": "128",
@@ -2891,13 +2891,13 @@
     "github.copilot.chat.workspace.enableCodeSearch": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       },
       "area": "github.copilot",
       "default": "true",
@@ -2976,13 +2976,13 @@
     "github.copilot.chat.workspace.maxLocalIndexSize": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       },
       "area": "github.copilot",
       "default": "100000",
@@ -3003,13 +3003,13 @@
     "github.copilot.chat.workspace.preferredEmbeddingsModel": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       },
       "area": "github.copilot",
       "default": "\"\"",
@@ -3030,13 +3030,13 @@
     "github.copilot.chat.workspace.prototypeAdoCodeSearchEndpointOverride": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       },
       "area": "github.copilot",
       "default": "\"\"",
@@ -3056,13 +3056,13 @@
     "github.copilot.nextEditSuggestions.preferredModel": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Ulugbek Abdullaev",
         "email": "ulugbekna@gmail.com",
         "date": "2025-12-02",
-        "commit": "5dde749"
+        "commit": "3c78ed8"
       },
       "area": "github.copilot",
       "default": "\"none\"",
@@ -3083,8 +3083,8 @@
     "http.experimental.networkInterfaceCheckInterval": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Christof Marti",
         "email": "chrmarti@microsoft.com",
@@ -3108,8 +3108,8 @@
     "http.experimental.systemCertificatesV2": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Christof Marti",
         "email": "chrmarti@microsoft.com",
@@ -3133,8 +3133,8 @@
     "http.systemCertificatesNode": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Christof Marti",
         "email": "chrmarti@microsoft.com",
@@ -3158,8 +3158,8 @@
     "ipynb.experimental.serialization": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Don Jayamanne",
         "email": "don.jayamanne@outlook.com",
@@ -3233,8 +3233,8 @@
     "scm.repositories.explorer": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Ladislau Szomoru",
         "email": "3372902+lszomoru@users.noreply.github.com",
@@ -3258,8 +3258,8 @@
     "search.searchView.keywordSuggestions": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Osvaldo Ortega",
         "email": "osortega@microsoft.com",
@@ -3283,8 +3283,8 @@
     "search.searchView.semanticSearchBehavior": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Osvaldo Ortega",
         "email": "osortega@microsoft.com",
@@ -3358,8 +3358,8 @@
     "workbench.experimental.share.enabled": {
       "firstSeen": "2026-01-21",
       "firstSeenRun": 1,
-      "runCount": 14,
-      "lastSeen": "2026-04-06",
+      "runCount": 15,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Joyce Er",
         "email": "joyce.er@microsoft.com",
@@ -3389,13 +3389,13 @@
         "name": "Rob Lourens",
         "email": "roblourens@gmail.com"
       },
-      "runCount": 11,
-      "lastSeen": "2026-04-06",
+      "runCount": 12,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Rob Lourens",
         "email": "roblourens@gmail.com",
         "date": "2026-01-19",
-        "commit": "e38444a"
+        "commit": "03febf5"
       },
       "area": "github.copilot",
       "default": "false",
@@ -3467,13 +3467,13 @@
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
       },
-      "runCount": 11,
-      "lastSeen": "2026-04-06",
+      "runCount": 12,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com",
         "date": "2026-02-17",
-        "commit": "70a279d"
+        "commit": "08a0293"
       },
       "area": "github.copilot",
       "default": "true",
@@ -3518,13 +3518,13 @@
         "name": "Benjamin Christopher Simmonds",
         "email": "44439583+benibenj@users.noreply.github.com"
       },
-      "runCount": 11,
-      "lastSeen": "2026-04-06",
+      "runCount": 12,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Benjamin Christopher Simmonds",
         "email": "44439583+benibenj@users.noreply.github.com",
         "date": "2026-01-21",
-        "commit": "f7b1ec2"
+        "commit": "2268d1f"
       },
       "area": "github.copilot",
       "default": "false",
@@ -3545,13 +3545,13 @@
         "name": "Anisha Agarwal",
         "email": "anisagarwal@microsoft.com"
       },
-      "runCount": 11,
-      "lastSeen": "2026-04-06",
+      "runCount": 12,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Anisha Agarwal",
         "email": "anisagarwal@microsoft.com",
         "date": "2026-01-15",
-        "commit": "f50a99e"
+        "commit": "0af20a7"
       },
       "area": "github.copilot",
       "default": "false",
@@ -3598,8 +3598,8 @@
         "name": "Christof Marti",
         "email": "chrmarti@microsoft.com"
       },
-      "runCount": 10,
-      "lastSeen": "2026-04-06",
+      "runCount": 11,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Christof Marti",
         "email": "chrmarti@microsoft.com",
@@ -3648,8 +3648,8 @@
         "name": "Ladislau Szomoru",
         "email": "3372902+lszomoru@users.noreply.github.com"
       },
-      "runCount": 10,
-      "lastSeen": "2026-04-06",
+      "runCount": 11,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Ladislau Szomoru",
         "email": "3372902+lszomoru@users.noreply.github.com",
@@ -3673,13 +3673,13 @@
         "name": "Connor Peet",
         "email": "connor@peet.io"
       },
-      "runCount": 10,
-      "lastSeen": "2026-04-06",
+      "runCount": 11,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Connor Peet",
         "email": "connor@peet.io",
         "date": "2026-01-23",
-        "commit": "eec987f"
+        "commit": "d93ad2a"
       },
       "area": "github.copilot",
       "default": "true",
@@ -3700,13 +3700,13 @@
         "name": "Connor Peet",
         "email": "connor@peet.io"
       },
-      "runCount": 10,
-      "lastSeen": "2026-04-06",
+      "runCount": 11,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Connor Peet",
         "email": "connor@peet.io",
         "date": "2026-01-23",
-        "commit": "eec987f"
+        "commit": "d93ad2a"
       },
       "area": "github.copilot",
       "default": "8192",
@@ -3777,13 +3777,13 @@
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
       },
-      "runCount": 10,
-      "lastSeen": "2026-04-06",
+      "runCount": 11,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com",
         "date": "2026-01-29",
-        "commit": "53cae4e"
+        "commit": "cb59a60"
       },
       "area": "github.copilot",
       "default": "false",
@@ -3802,13 +3802,13 @@
         "name": "Eleanor Boyd",
         "email": "26030610+eleanorjboyd@users.noreply.github.com"
       },
-      "runCount": 10,
-      "lastSeen": "2026-04-06",
+      "runCount": 11,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Eleanor Boyd",
         "email": "26030610+eleanorjboyd@users.noreply.github.com",
         "date": "2026-01-25",
-        "commit": "2051a86"
+        "commit": "b5375ef"
       },
       "area": "github.copilot",
       "default": "\"\"",
@@ -3827,13 +3827,13 @@
         "name": "Harald Kirschner",
         "email": "hkirschner@microsoft.com"
       },
-      "runCount": 10,
-      "lastSeen": "2026-04-06",
+      "runCount": 11,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Harald Kirschner",
         "email": "hkirschner@microsoft.com",
         "date": "2026-01-23",
-        "commit": "f5f92d9"
+        "commit": "6d1dc0c"
       },
       "area": "github.copilot",
       "default": "[]",
@@ -3877,13 +3877,13 @@
         "name": "Anisha Agarwal",
         "email": "anisagarwal@microsoft.com"
       },
-      "runCount": 10,
-      "lastSeen": "2026-04-06",
+      "runCount": 11,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Anisha Agarwal",
         "email": "anisagarwal@microsoft.com",
         "date": "2026-01-29",
-        "commit": "3e5f9a1"
+        "commit": "3e10be1"
       },
       "area": "github.copilot",
       "default": "\"\"",
@@ -3904,13 +3904,13 @@
         "name": "Anisha Agarwal",
         "email": "anisagarwal@microsoft.com"
       },
-      "runCount": 10,
-      "lastSeen": "2026-04-06",
+      "runCount": 11,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Anisha Agarwal",
         "email": "anisagarwal@microsoft.com",
         "date": "2026-01-29",
-        "commit": "3e5f9a1"
+        "commit": "3e10be1"
       },
       "area": "github.copilot",
       "default": "4",
@@ -3931,13 +3931,13 @@
         "name": "SteVen Batten",
         "email": "steven.m.batten@outlook.com"
       },
-      "runCount": 10,
-      "lastSeen": "2026-04-06",
+      "runCount": 11,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "SteVen Batten",
         "email": "steven.m.batten@outlook.com",
         "date": "2026-01-30",
-        "commit": "57850ec"
+        "commit": "4ccd265"
       },
       "area": "github.copilot",
       "default": "false",
@@ -4008,19 +4008,21 @@
         "name": "Benjamin Christopher Simmonds",
         "email": "44439583+benibenj@users.noreply.github.com"
       },
-      "runCount": 9,
-      "lastSeen": "2026-04-06",
+      "runCount": 10,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Benjamin Christopher Simmonds",
         "email": "44439583+benibenj@users.noreply.github.com",
         "date": "2026-02-10",
-        "commit": "ce1e9ab"
+        "commit": "b872e48"
       },
       "area": "github.copilot",
       "default": "[]",
       "tags": [
         "experimental"
-      ]
+      ],
+      "flagged": true,
+      "flaggedDate": "2026-04-13"
     },
     "github.copilot.chat.askAgent.model": {
       "firstSeen": "2026-02-10",
@@ -4031,19 +4033,21 @@
         "name": "Benjamin Christopher Simmonds",
         "email": "44439583+benibenj@users.noreply.github.com"
       },
-      "runCount": 9,
-      "lastSeen": "2026-04-06",
+      "runCount": 10,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Benjamin Christopher Simmonds",
         "email": "44439583+benibenj@users.noreply.github.com",
         "date": "2026-02-10",
-        "commit": "ce1e9ab"
+        "commit": "b872e48"
       },
       "area": "github.copilot",
       "default": "\"\"",
       "tags": [
         "experimental"
-      ]
+      ],
+      "flagged": true,
+      "flaggedDate": "2026-04-13"
     },
     "github.copilot.chat.cli.integration.enabled": {
       "firstSeen": "2026-02-10",
@@ -4080,8 +4084,8 @@
         "name": "Benjamin Pasero",
         "email": "benjamin.pasero@microsoft.com"
       },
-      "runCount": 7,
-      "lastSeen": "2026-04-06",
+      "runCount": 8,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Johannes Rieken",
         "email": "johannes.rieken@gmail.com",
@@ -4105,8 +4109,8 @@
         "name": "Tyler James Leonhardt",
         "email": "me@tylerleonhardt.com"
       },
-      "runCount": 7,
-      "lastSeen": "2026-04-06",
+      "runCount": 8,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Tyler James Leonhardt",
         "email": "me@tylerleonhardt.com",
@@ -4130,8 +4134,8 @@
         "name": "Tyler James Leonhardt",
         "email": "me@tylerleonhardt.com"
       },
-      "runCount": 7,
-      "lastSeen": "2026-04-06",
+      "runCount": 8,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Tyler James Leonhardt",
         "email": "me@tylerleonhardt.com",
@@ -4155,8 +4159,8 @@
         "name": "Tyler James Leonhardt",
         "email": "me@tylerleonhardt.com"
       },
-      "runCount": 7,
-      "lastSeen": "2026-04-06",
+      "runCount": 8,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Tyler James Leonhardt",
         "email": "me@tylerleonhardt.com",
@@ -4180,8 +4184,8 @@
         "name": "Dmitriy Vasyura",
         "email": "dmitriv@microsoft.com"
       },
-      "runCount": 7,
-      "lastSeen": "2026-04-06",
+      "runCount": 8,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Dmitriy Vasyura",
         "email": "dmitriv@microsoft.com",
@@ -4230,8 +4234,8 @@
         "name": "Joyce Er",
         "email": "joyce.er@microsoft.com"
       },
-      "runCount": 7,
-      "lastSeen": "2026-04-06",
+      "runCount": 8,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Joyce Er",
         "email": "joyce.er@microsoft.com",
@@ -4253,8 +4257,8 @@
         "name": "Joyce Er",
         "email": "joyce.er@microsoft.com"
       },
-      "runCount": 7,
-      "lastSeen": "2026-04-06",
+      "runCount": 8,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Joyce Er",
         "email": "joyce.er@microsoft.com",
@@ -4276,8 +4280,8 @@
         "name": "Benjamin Pasero",
         "email": "benjamin.pasero@gmail.com"
       },
-      "runCount": 7,
-      "lastSeen": "2026-04-06",
+      "runCount": 8,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Benjamin Pasero",
         "email": "benjamin.pasero@gmail.com",
@@ -4301,8 +4305,8 @@
         "name": "Joyce Er",
         "email": "30305945+joyceerhl@users.noreply.github.com"
       },
-      "runCount": 6,
-      "lastSeen": "2026-04-06",
+      "runCount": 7,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Joyce Er",
         "email": "30305945+joyceerhl@users.noreply.github.com",
@@ -4326,8 +4330,8 @@
         "name": "Johannes Rieken",
         "email": "johannes.rieken@gmail.com"
       },
-      "runCount": 6,
-      "lastSeen": "2026-04-06",
+      "runCount": 7,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Johannes Rieken",
         "email": "johannes.rieken@gmail.com",
@@ -4349,8 +4353,8 @@
         "name": "Johannes Rieken",
         "email": "johannes.rieken@gmail.com"
       },
-      "runCount": 6,
-      "lastSeen": "2026-04-06",
+      "runCount": 7,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Johannes Rieken",
         "email": "johannes.rieken@gmail.com",
@@ -4372,8 +4376,8 @@
         "name": "Benjamin Pasero",
         "email": "benjamin.pasero@gmail.com"
       },
-      "runCount": 6,
-      "lastSeen": "2026-04-06",
+      "runCount": 7,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Benjamin Pasero",
         "email": "benjamin.pasero@gmail.com",
@@ -4395,13 +4399,13 @@
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
       },
-      "runCount": 6,
-      "lastSeen": "2026-04-06",
+      "runCount": 7,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com",
         "date": "2026-02-17",
-        "commit": "70a279d"
+        "commit": "08a0293"
       },
       "area": "github.copilot",
       "default": "\"off\"",
@@ -4419,8 +4423,8 @@
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
       },
-      "runCount": 6,
-      "lastSeen": "2026-04-06",
+      "runCount": 7,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com",
@@ -4432,7 +4436,9 @@
       "tags": [
         "preview",
         "onExp"
-      ]
+      ],
+      "flagged": true,
+      "flaggedDate": "2026-04-13"
     },
     "github.copilot.chat.cli.planMode.enabled": {
       "firstSeen": "2026-03-01",
@@ -4469,13 +4475,13 @@
         "name": "Harald Kirschner",
         "email": "hkirschner@microsoft.com"
       },
-      "runCount": 6,
-      "lastSeen": "2026-04-06",
+      "runCount": 7,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Harald Kirschner",
         "email": "hkirschner@microsoft.com",
         "date": "2026-02-12",
-        "commit": "10cc8a0"
+        "commit": "24a3494"
       },
       "area": "github.copilot",
       "default": "\"\"",
@@ -4492,13 +4498,13 @@
         "name": "Alex Ross",
         "email": "38270282+alexr00@users.noreply.github.com"
       },
-      "runCount": 6,
-      "lastSeen": "2026-04-06",
+      "runCount": 7,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Alex Ross",
         "email": "38270282+alexr00@users.noreply.github.com",
         "date": "2026-02-23",
-        "commit": "c784cb0"
+        "commit": "65fdf85"
       },
       "area": "github.copilot",
       "default": "false",
@@ -4516,13 +4522,13 @@
         "name": "Alex Ross",
         "email": "38270282+alexr00@users.noreply.github.com"
       },
-      "runCount": 6,
-      "lastSeen": "2026-04-06",
+      "runCount": 7,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Alex Ross",
         "email": "38270282+alexr00@users.noreply.github.com",
         "date": "2026-02-23",
-        "commit": "42a2ed5"
+        "commit": "c387e1e"
       },
       "area": "github.copilot",
       "default": "false",
@@ -4541,13 +4547,13 @@
         "name": "Alex Ross",
         "email": "38270282+alexr00@users.noreply.github.com"
       },
-      "runCount": 6,
-      "lastSeen": "2026-04-06",
+      "runCount": 7,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Alex Ross",
         "email": "38270282+alexr00@users.noreply.github.com",
         "date": "2026-02-23",
-        "commit": "cfc40d6"
+        "commit": "835a104"
       },
       "area": "github.copilot",
       "default": "false",
@@ -4566,13 +4572,13 @@
         "name": "dileepyavan",
         "email": "52841896+dileepyavan@users.noreply.github.com"
       },
-      "runCount": 6,
-      "lastSeen": "2026-04-06",
+      "runCount": 7,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "dileepyavan",
         "email": "52841896+dileepyavan@users.noreply.github.com",
         "date": "2026-02-16",
-        "commit": "971cf31"
+        "commit": "9b93393"
       },
       "area": "github.copilot",
       "default": "false",
@@ -4590,13 +4596,13 @@
         "name": "dileepyavan",
         "email": "52841896+dileepyavan@users.noreply.github.com"
       },
-      "runCount": 6,
-      "lastSeen": "2026-04-06",
+      "runCount": 7,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "dileepyavan",
         "email": "52841896+dileepyavan@users.noreply.github.com",
         "date": "2026-02-17",
-        "commit": "5107791"
+        "commit": "d0b9ef2"
       },
       "area": "github.copilot",
       "default": "true",
@@ -4640,8 +4646,8 @@
         "name": "Kyle Cutler",
         "email": "67761731+kycutler@users.noreply.github.com"
       },
-      "runCount": 6,
-      "lastSeen": "2026-04-06",
+      "runCount": 7,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Kyle Cutler",
         "email": "67761731+kycutler@users.noreply.github.com",
@@ -4688,8 +4694,8 @@
         "name": "Josh Spicer",
         "email": "23246594+joshspicer@users.noreply.github.com"
       },
-      "runCount": 5,
-      "lastSeen": "2026-04-06",
+      "runCount": 6,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Josh Spicer",
         "email": "23246594+joshspicer@users.noreply.github.com",
@@ -4711,13 +4717,13 @@
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
       },
-      "runCount": 5,
-      "lastSeen": "2026-04-06",
+      "runCount": 6,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com",
         "date": "2026-03-04",
-        "commit": "552b3b5"
+        "commit": "b4a27c8"
       },
       "area": "github.copilot",
       "default": "\"server\"",
@@ -4735,13 +4741,13 @@
         "name": "Benjamin Christopher Simmonds",
         "email": "44439583+benibenj@users.noreply.github.com"
       },
-      "runCount": 5,
-      "lastSeen": "2026-04-06",
+      "runCount": 6,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Benjamin Christopher Simmonds",
         "email": "44439583+benibenj@users.noreply.github.com",
         "date": "2026-03-02",
-        "commit": "ad676d1"
+        "commit": "1c1147b"
       },
       "area": "github.copilot",
       "default": "\"auto\"",
@@ -4759,13 +4765,13 @@
         "name": "Paul",
         "email": "paul_wang347@hotmail.com"
       },
-      "runCount": 4,
-      "lastSeen": "2026-04-06",
+      "runCount": 5,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Paul",
         "email": "paul_wang347@hotmail.com",
         "date": "2026-03-13",
-        "commit": "f728c43"
+        "commit": "46cc19a"
       },
       "area": "github.copilot",
       "default": "false",
@@ -4783,13 +4789,13 @@
         "name": "Vijay Upadya",
         "email": "41652029+vijayupadya@users.noreply.github.com"
       },
-      "runCount": 4,
-      "lastSeen": "2026-04-06",
+      "runCount": 5,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Vijay Upadya",
         "email": "41652029+vijayupadya@users.noreply.github.com",
         "date": "2026-03-13",
-        "commit": "49e1c1f"
+        "commit": "bd82f04"
       },
       "area": "github.copilot",
       "default": "false",
@@ -4808,13 +4814,13 @@
         "name": "Vijay Upadya",
         "email": "41652029+vijayupadya@users.noreply.github.com"
       },
-      "runCount": 4,
-      "lastSeen": "2026-04-06",
+      "runCount": 5,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Vijay Upadya",
         "email": "41652029+vijayupadya@users.noreply.github.com",
         "date": "2026-03-13",
-        "commit": "49e1c1f"
+        "commit": "bd82f04"
       },
       "area": "github.copilot",
       "default": "4000",
@@ -4858,13 +4864,13 @@
         "name": "Rob Lourens",
         "email": "roblourens@gmail.com"
       },
-      "runCount": 4,
-      "lastSeen": "2026-04-06",
+      "runCount": 5,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Rob Lourens",
         "email": "roblourens@gmail.com",
         "date": "2026-03-14",
-        "commit": "04a5994"
+        "commit": "9d3bb4e"
       },
       "area": "github.copilot",
       "default": "true",
@@ -4882,8 +4888,8 @@
         "name": "Tyler James Leonhardt",
         "email": "2644648+TylerLeonhardt@users.noreply.github.com"
       },
-      "runCount": 4,
-      "lastSeen": "2026-04-06",
+      "runCount": 5,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Tyler James Leonhardt",
         "email": "2644648+TylerLeonhardt@users.noreply.github.com",
@@ -4983,8 +4989,8 @@
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
       },
-      "runCount": 3,
-      "lastSeen": "2026-04-06",
+      "runCount": 4,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com",
@@ -5007,13 +5013,13 @@
         "name": "Ross Wollman",
         "email": "rwoll@users.noreply.github.com"
       },
-      "runCount": 3,
-      "lastSeen": "2026-04-06",
+      "runCount": 4,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Ross Wollman",
         "email": "rwoll@users.noreply.github.com",
         "date": "2026-03-17",
-        "commit": "3ce643a"
+        "commit": "2527bcd"
       },
       "area": "github.copilot",
       "default": "null",
@@ -5031,19 +5037,20 @@
         "name": "Vikram Nitin",
         "email": "vikramnitin9@gmail.com"
       },
-      "runCount": 3,
-      "lastSeen": "2026-04-06",
+      "runCount": 4,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Vikram Nitin",
         "email": "vikramnitin9@gmail.com",
         "date": "2026-03-19",
-        "commit": "499ec7a"
+        "commit": "0464f32"
       },
       "area": "github.copilot",
       "default": "false",
       "tags": [
         "advanced",
-        "experimental"
+        "experimental",
+        "onExp"
       ]
     },
     "github.copilot.chat.executionSubagent.model": {
@@ -5055,19 +5062,20 @@
         "name": "Vikram Nitin",
         "email": "vikramnitin9@gmail.com"
       },
-      "runCount": 3,
-      "lastSeen": "2026-04-06",
+      "runCount": 4,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Vikram Nitin",
         "email": "vikramnitin9@gmail.com",
         "date": "2026-03-19",
-        "commit": "499ec7a"
+        "commit": "0464f32"
       },
       "area": "github.copilot",
       "default": "\"\"",
       "tags": [
         "advanced",
-        "experimental"
+        "experimental",
+        "onExp"
       ]
     },
     "github.copilot.chat.executionSubagent.toolCallLimit": {
@@ -5079,19 +5087,20 @@
         "name": "Vikram Nitin",
         "email": "vikramnitin9@gmail.com"
       },
-      "runCount": 3,
-      "lastSeen": "2026-04-06",
+      "runCount": 4,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Vikram Nitin",
         "email": "vikramnitin9@gmail.com",
         "date": "2026-03-19",
-        "commit": "499ec7a"
+        "commit": "0464f32"
       },
       "area": "github.copilot",
-      "default": "5",
+      "default": "10",
       "tags": [
         "advanced",
-        "experimental"
+        "experimental",
+        "onExp"
       ]
     },
     "imageCarousel.chat.enabled": {
@@ -5103,8 +5112,8 @@
         "name": "Tyler James Leonhardt",
         "email": "2644648+TylerLeonhardt@users.noreply.github.com"
       },
-      "runCount": 3,
-      "lastSeen": "2026-04-06",
+      "runCount": 4,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Tyler James Leonhardt",
         "email": "2644648+TylerLeonhardt@users.noreply.github.com",
@@ -5126,13 +5135,13 @@
         "name": "dileepyavan",
         "email": "52841896+dileepyavan@users.noreply.github.com"
       },
-      "runCount": 2,
-      "lastSeen": "2026-04-06",
+      "runCount": 3,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "dileepyavan",
         "email": "52841896+dileepyavan@users.noreply.github.com",
         "date": "2026-03-26",
-        "commit": "a0c21f1"
+        "commit": "b0a72ed"
       },
       "area": "github.copilot",
       "default": "false",
@@ -5150,13 +5159,13 @@
         "name": "dileepyavan",
         "email": "52841896+dileepyavan@users.noreply.github.com"
       },
-      "runCount": 2,
-      "lastSeen": "2026-04-06",
+      "runCount": 3,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "dileepyavan",
         "email": "52841896+dileepyavan@users.noreply.github.com",
         "date": "2026-03-26",
-        "commit": "a0c21f1"
+        "commit": "b0a72ed"
       },
       "area": "github.copilot",
       "default": "false",
@@ -5174,13 +5183,13 @@
         "name": "Giuseppe Cianci",
         "email": "39117631+Giuspepe@users.noreply.github.com"
       },
-      "runCount": 2,
-      "lastSeen": "2026-04-06",
+      "runCount": 3,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Giuseppe Cianci",
         "email": "39117631+Giuspepe@users.noreply.github.com",
         "date": "2026-03-24",
-        "commit": "7e43160"
+        "commit": "7cfeafb"
       },
       "area": "github.copilot",
       "default": "false",
@@ -5198,13 +5207,13 @@
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com"
       },
-      "runCount": 2,
-      "lastSeen": "2026-04-06",
+      "runCount": 3,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
         "date": "2026-03-26",
-        "commit": "44c1fc2"
+        "commit": "26c365f"
       },
       "area": "github.copilot",
       "default": "100",
@@ -5223,8 +5232,8 @@
         "name": "Rob Lourens",
         "email": "roblourens@gmail.com"
       },
-      "runCount": 1,
-      "lastSeen": "2026-04-06",
+      "runCount": 2,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Rob Lourens",
         "email": "roblourens@gmail.com",
@@ -5247,13 +5256,13 @@
         "name": "Vijay Upadya",
         "email": "41652029+vijayupadya@users.noreply.github.com"
       },
-      "runCount": 1,
-      "lastSeen": "2026-04-06",
+      "runCount": 2,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Vijay Upadya",
         "email": "41652029+vijayupadya@users.noreply.github.com",
         "date": "2026-03-30",
-        "commit": "00df316"
+        "commit": "c9107a2"
       },
       "area": "github.copilot",
       "default": "50",
@@ -5272,13 +5281,13 @@
         "name": "Vijay Upadya",
         "email": "41652029+vijayupadya@users.noreply.github.com"
       },
-      "runCount": 1,
-      "lastSeen": "2026-04-06",
+      "runCount": 2,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Vijay Upadya",
         "email": "41652029+vijayupadya@users.noreply.github.com",
         "date": "2026-04-01",
-        "commit": "26fc626"
+        "commit": "021a997"
       },
       "area": "github.copilot",
       "default": "100",
@@ -5297,13 +5306,13 @@
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
       },
-      "runCount": 1,
-      "lastSeen": "2026-04-06",
+      "runCount": 2,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com",
         "date": "2026-04-03",
-        "commit": "1d26378"
+        "commit": "c7c0fac"
       },
       "area": "github.copilot",
       "default": "false",
@@ -5322,13 +5331,13 @@
         "name": "Connor Peet",
         "email": "connor@peet.io"
       },
-      "runCount": 1,
-      "lastSeen": "2026-04-06",
+      "runCount": 2,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Connor Peet",
         "email": "connor@peet.io",
         "date": "2026-04-03",
-        "commit": "f20c231"
+        "commit": "933c4e6"
       },
       "area": "github.copilot",
       "default": "false",
@@ -5347,21 +5356,115 @@
         "name": "Harald Kirschner",
         "email": "hkirschner@microsoft.com"
       },
-      "runCount": 1,
-      "lastSeen": "2026-04-06",
+      "runCount": 2,
+      "lastSeen": "2026-04-13",
       "owner": {
         "name": "Harald Kirschner",
         "email": "hkirschner@microsoft.com",
         "date": "2026-04-03",
-        "commit": "1761632"
+        "commit": "9eb0453"
       },
       "area": "github.copilot",
       "default": "\"stable\"",
       "tags": [
         "experimental"
       ]
+    },
+    "github.copilot.chat.debug.promptOverrideString": {
+      "firstSeen": "2026-04-13",
+      "firstSeenRun": 15,
+      "addedDate": "2026-04-07",
+      "addedCommit": "fba847a",
+      "addedBy": {
+        "name": "dileepyavan",
+        "email": "52841896+dileepyavan@users.noreply.github.com"
+      },
+      "runCount": 1,
+      "lastSeen": "2026-04-13",
+      "owner": {
+        "name": "dileepyavan",
+        "email": "52841896+dileepyavan@users.noreply.github.com",
+        "date": "2026-04-07",
+        "commit": "fba847a"
+      },
+      "area": "github.copilot",
+      "default": "null",
+      "tags": [
+        "advanced",
+        "experimental"
+      ]
+    },
+    "github.copilot.chat.exploreAgent.enabled": {
+      "firstSeen": "2026-04-13",
+      "firstSeenRun": 15,
+      "addedDate": "2026-04-07",
+      "addedCommit": "7ab3939",
+      "addedBy": {
+        "name": "Bhavya U",
+        "email": "bhavyau@microsoft.com"
+      },
+      "runCount": 1,
+      "lastSeen": "2026-04-13",
+      "owner": {
+        "name": "Bhavya U",
+        "email": "bhavyau@microsoft.com",
+        "date": "2026-04-07",
+        "commit": "7ab3939"
+      },
+      "area": "github.copilot",
+      "default": "true",
+      "tags": [
+        "experimental",
+        "onExp"
+      ]
+    },
+    "telemetry.performance.inputLatencySamplingProbability": {
+      "firstSeen": "2026-04-13",
+      "firstSeenRun": 15,
+      "addedDate": "2026-04-09",
+      "addedCommit": "203f80a",
+      "addedBy": {
+        "name": "Henning Dieterichs",
+        "email": "hdieterichs@microsoft.com"
+      },
+      "runCount": 1,
+      "lastSeen": "2026-04-13",
+      "owner": {
+        "name": "Henning Dieterichs",
+        "email": "hdieterichs@microsoft.com",
+        "date": "2026-04-09",
+        "commit": "203f80a"
+      },
+      "area": "telemetry.performance",
+      "default": "0",
+      "tags": [
+        "experimental"
+      ]
+    },
+    "workbench.welcomePage.experimentalOnboarding": {
+      "firstSeen": "2026-04-13",
+      "firstSeenRun": 15,
+      "addedDate": "2026-04-10",
+      "addedCommit": "01667d8",
+      "addedBy": {
+        "name": "Elijah King",
+        "email": "elijahwilliamking@icloud.com"
+      },
+      "runCount": 1,
+      "lastSeen": "2026-04-13",
+      "owner": {
+        "name": "Elijah King",
+        "email": "elijahwilliamking@icloud.com",
+        "date": "2026-04-10",
+        "commit": "01667d8"
+      },
+      "area": "workbench.welcomePage",
+      "default": "true",
+      "tags": [
+        "experimental"
+      ]
     }
   },
-  "lastRun": "2026-04-06",
-  "runCount": 14
+  "lastRun": "2026-04-13",
+  "runCount": 15
 }

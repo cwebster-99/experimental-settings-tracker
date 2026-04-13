@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-06T10:08:01.367Z",
-  "count": 162,
+  "timestamp": "2026-04-13T10:46:03.049Z",
+  "count": 166,
   "settings": [
     {
       "name": "application.experimental.rendererProfiling",
@@ -30,7 +30,7 @@
     {
       "name": "chat.agent.thinking.collapsedTools",
       "file": "[VS Code] src/vs/workbench/contrib/chat/browser/chat.contribution.ts",
-      "line": 1234,
+      "line": 1347,
       "area": "chat.agent",
       "default": "'always'",
       "tags": [
@@ -55,7 +55,7 @@
     {
       "name": "chat.allowAnonymousAccess",
       "file": "[VS Code] src/vs/workbench/contrib/chat/browser/chat.contribution.ts",
-      "line": 1311,
+      "line": 1424,
       "area": "chat.allowAnonymousAccess",
       "default": "false",
       "tags": [
@@ -80,7 +80,7 @@
     {
       "name": "chat.editing.explainChanges.enabled",
       "file": "[VS Code] src/vs/workbench/contrib/chat/browser/chat.contribution.ts",
-      "line": 311,
+      "line": 327,
       "area": "chat.editing",
       "default": "false",
       "tags": [
@@ -105,7 +105,7 @@
     {
       "name": "chat.experimentalSessionsWindowOverride",
       "file": "[VS Code] src/vs/workbench/contrib/chat/browser/chat.contribution.ts",
-      "line": 198,
+      "line": 202,
       "area": "chat.experimentalSessionsWindowOverride",
       "default": "false",
       "tags": [
@@ -130,7 +130,7 @@
     {
       "name": "chat.extensionUnification.enabled",
       "file": "[VS Code] src/vs/workbench/contrib/chat/browser/chat.contribution.ts",
-      "line": 1349,
+      "line": 1462,
       "area": "chat.extensionUnification",
       "default": "true",
       "tags": [
@@ -155,7 +155,7 @@
     {
       "name": "chat.implicitContext.enabled",
       "file": "[VS Code] src/vs/workbench/contrib/chat/browser/chat.contribution.ts",
-      "line": 266,
+      "line": 282,
       "area": "chat.implicitContext",
       "default": "{",
       "tags": [
@@ -180,7 +180,7 @@
     {
       "name": "chat.sendElementsToChat.attachCSS",
       "file": "[VS Code] src/vs/workbench/contrib/chat/browser/chat.contribution.ts",
-      "line": 488,
+      "line": 504,
       "area": "chat.sendElementsToChat",
       "default": "true",
       "tags": [
@@ -205,7 +205,7 @@
     {
       "name": "chat.sendElementsToChat.attachImages",
       "file": "[VS Code] src/vs/workbench/contrib/chat/browser/chat.contribution.ts",
-      "line": 494,
+      "line": 510,
       "area": "chat.sendElementsToChat",
       "default": "true",
       "tags": [
@@ -230,7 +230,7 @@
     {
       "name": "chat.sendElementsToChat.enabled",
       "file": "[VS Code] src/vs/workbench/contrib/chat/browser/chat.contribution.ts",
-      "line": 482,
+      "line": 498,
       "area": "chat.sendElementsToChat",
       "default": "true",
       "tags": [
@@ -255,7 +255,7 @@
     {
       "name": "chat.sshRemoteAgentHostCommand",
       "file": "[VS Code] src/vs/sessions/contrib/remoteAgentHost/browser/remoteAgentHost.contribution.ts",
-      "line": 579,
+      "line": 581,
       "area": "chat.sshRemoteAgentHostCommand",
       "default": "''",
       "tags": [
@@ -281,7 +281,7 @@
     {
       "name": "chat.tools.renameTool.enabled",
       "file": "[VS Code] src/vs/workbench/contrib/chat/browser/chat.contribution.ts",
-      "line": 1267,
+      "line": 1380,
       "area": "chat.tools",
       "default": "true",
       "tags": [
@@ -306,7 +306,7 @@
     {
       "name": "chat.tools.usagesTool.enabled",
       "file": "[VS Code] src/vs/workbench/contrib/chat/browser/chat.contribution.ts",
-      "line": 1258,
+      "line": 1371,
       "area": "chat.tools",
       "default": "true",
       "tags": [
@@ -706,8 +706,8 @@
     },
     {
       "name": "github.copilot.chat.agent.largeToolResultsToDisk.enabled",
-      "file": "[Copilot Chat] package.json",
-      "line": 4283,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4267,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -715,11 +715,11 @@
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2026-01-23",
-      "addedCommit": "eec987f",
+      "addedCommit": "d93ad2a",
       "addedBy": {
         "name": "Connor Peet",
         "email": "connor@peet.io"
@@ -728,13 +728,13 @@
         "name": "Connor Peet",
         "email": "connor@peet.io",
         "date": "2026-01-23",
-        "commit": "eec987f"
+        "commit": "d93ad2a"
       }
     },
     {
       "name": "github.copilot.chat.agent.largeToolResultsToDisk.thresholdBytes",
-      "file": "[Copilot Chat] package.json",
-      "line": 4293,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4277,
       "area": "github.copilot",
       "default": "8192",
       "tags": [
@@ -742,11 +742,11 @@
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2026-01-23",
-      "addedCommit": "eec987f",
+      "addedCommit": "d93ad2a",
       "addedBy": {
         "name": "Connor Peet",
         "email": "connor@peet.io"
@@ -755,24 +755,24 @@
         "name": "Connor Peet",
         "email": "connor@peet.io",
         "date": "2026-01-23",
-        "commit": "eec987f"
+        "commit": "d93ad2a"
       }
     },
     {
       "name": "github.copilot.chat.agent.omitFileAttachmentContents",
-      "file": "[Copilot Chat] package.json",
-      "line": 4274,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4258,
       "area": "github.copilot",
       "default": "false",
       "tags": [
         "advanced",
         "experimental"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2026-01-18",
-      "addedCommit": "e38444a",
+      "addedCommit": "03febf5",
       "addedBy": {
         "name": "Rob Lourens",
         "email": "roblourens@gmail.com"
@@ -781,24 +781,24 @@
         "name": "Rob Lourens",
         "email": "roblourens@gmail.com",
         "date": "2026-01-19",
-        "commit": "e38444a"
+        "commit": "03febf5"
       }
     },
     {
       "name": "github.copilot.chat.agent.temperature",
-      "file": "[Copilot Chat] package.json",
-      "line": 4263,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4247,
       "area": "github.copilot",
       "default": null,
       "tags": [
         "advanced",
         "experimental"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-11-14",
-      "addedCommit": "7098ab5",
+      "addedCommit": "3898ba5",
       "addedBy": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com"
@@ -807,24 +807,24 @@
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       }
     },
     {
       "name": "github.copilot.chat.agentDebugLog.enabled",
-      "file": "[Copilot Chat] package.json",
-      "line": 4630,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4633,
       "area": "github.copilot",
       "default": "false",
       "tags": [
         "advanced",
         "experimental"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2026-03-13",
-      "addedCommit": "f728c43",
+      "addedCommit": "46cc19a",
       "addedBy": {
         "name": "Paul",
         "email": "paul_wang347@hotmail.com"
@@ -833,13 +833,13 @@
         "name": "Paul",
         "email": "paul_wang347@hotmail.com",
         "date": "2026-03-13",
-        "commit": "f728c43"
+        "commit": "46cc19a"
       }
     },
     {
       "name": "github.copilot.chat.agentDebugLog.fileLogging.enabled",
-      "file": "[Copilot Chat] package.json",
-      "line": 4639,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4643,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -847,11 +847,11 @@
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2026-03-13",
-      "addedCommit": "49e1c1f",
+      "addedCommit": "bd82f04",
       "addedBy": {
         "name": "Vijay Upadya",
         "email": "41652029+vijayupadya@users.noreply.github.com"
@@ -860,24 +860,24 @@
         "name": "Vijay Upadya",
         "email": "41652029+vijayupadya@users.noreply.github.com",
         "date": "2026-03-13",
-        "commit": "49e1c1f"
+        "commit": "bd82f04"
       }
     },
     {
       "name": "github.copilot.chat.agentDebugLog.fileLogging.flushIntervalMs",
-      "file": "[Copilot Chat] package.json",
-      "line": 4649,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4653,
       "area": "github.copilot",
       "default": "4000",
       "tags": [
         "advanced",
         "experimental"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2026-03-13",
-      "addedCommit": "49e1c1f",
+      "addedCommit": "bd82f04",
       "addedBy": {
         "name": "Vijay Upadya",
         "email": "41652029+vijayupadya@users.noreply.github.com"
@@ -886,13 +886,13 @@
         "name": "Vijay Upadya",
         "email": "41652029+vijayupadya@users.noreply.github.com",
         "date": "2026-03-13",
-        "commit": "49e1c1f"
+        "commit": "bd82f04"
       }
     },
     {
       "name": "github.copilot.chat.agentDebugLog.fileLogging.maxRetainedSessionLogs",
-      "file": "[Copilot Chat] package.json",
-      "line": 4659,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4663,
       "area": "github.copilot",
       "default": "50",
       "tags": [
@@ -900,11 +900,11 @@
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2026-03-30",
-      "addedCommit": "00df316",
+      "addedCommit": "c9107a2",
       "addedBy": {
         "name": "Vijay Upadya",
         "email": "41652029+vijayupadya@users.noreply.github.com"
@@ -913,13 +913,13 @@
         "name": "Vijay Upadya",
         "email": "41652029+vijayupadya@users.noreply.github.com",
         "date": "2026-03-30",
-        "commit": "00df316"
+        "commit": "c9107a2"
       }
     },
     {
       "name": "github.copilot.chat.agentDebugLog.fileLogging.maxSessionLogSizeMB",
-      "file": "[Copilot Chat] package.json",
-      "line": 4670,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4674,
       "area": "github.copilot",
       "default": "100",
       "tags": [
@@ -927,11 +927,11 @@
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2026-03-31",
-      "addedCommit": "26fc626",
+      "addedCommit": "021a997",
       "addedBy": {
         "name": "Vijay Upadya",
         "email": "41652029+vijayupadya@users.noreply.github.com"
@@ -940,13 +940,13 @@
         "name": "Vijay Upadya",
         "email": "41652029+vijayupadya@users.noreply.github.com",
         "date": "2026-04-01",
-        "commit": "26fc626"
+        "commit": "021a997"
       }
     },
     {
       "name": "github.copilot.chat.agentHistorySummarizationInline",
-      "file": "[Copilot Chat] package.json",
-      "line": 4381,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4368,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -954,11 +954,11 @@
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2026-04-03",
-      "addedCommit": "1d26378",
+      "addedCommit": "c7c0fac",
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
@@ -967,24 +967,24 @@
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com",
         "date": "2026-04-03",
-        "commit": "1d26378"
+        "commit": "c7c0fac"
       }
     },
     {
       "name": "github.copilot.chat.agentHistorySummarizationMode",
-      "file": "[Copilot Chat] package.json",
-      "line": 4370,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4357,
       "area": "github.copilot",
       "default": null,
       "tags": [
         "advanced",
         "experimental"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-11-14",
-      "addedCommit": "7098ab5",
+      "addedCommit": "3898ba5",
       "addedBy": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com"
@@ -993,24 +993,24 @@
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       }
     },
     {
       "name": "github.copilot.chat.alternateGeminiModelFPrompt.enabled",
-      "file": "[Copilot Chat] package.json",
-      "line": 3756,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3719,
       "area": "github.copilot",
       "default": "false",
       "tags": [
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-12-16",
-      "addedCommit": "eff7025",
+      "addedCommit": "2374fbf",
       "addedBy": {
         "name": "Paul",
         "email": "paul_wang347@hotmail.com"
@@ -1019,23 +1019,23 @@
         "name": "Paul",
         "email": "paul_wang347@hotmail.com",
         "date": "2025-12-17",
-        "commit": "eff7025"
+        "commit": "2374fbf"
       }
     },
     {
       "name": "github.copilot.chat.alternateGptPrompt.enabled",
-      "file": "[Copilot Chat] package.json",
-      "line": 3748,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3711,
       "area": "github.copilot",
       "default": "false",
       "tags": [
         "experimental"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-08-09",
-      "addedCommit": "520fe9f",
+      "addedCommit": "f11dd07",
       "addedBy": {
         "name": "Burke Holland",
         "email": "buhollan@microsoft.com"
@@ -1044,24 +1044,24 @@
         "name": "Burke Holland",
         "email": "buhollan@microsoft.com",
         "date": "2025-08-09",
-        "commit": "520fe9f"
+        "commit": "f11dd07"
       }
     },
     {
       "name": "github.copilot.chat.anthropic.contextEditing.mode",
-      "file": "[Copilot Chat] package.json",
-      "line": 3765,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3728,
       "area": "github.copilot",
       "default": "\"off\"",
       "tags": [
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2026-02-17",
-      "addedCommit": "70a279d",
+      "addedCommit": "08a0293",
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
@@ -1070,23 +1070,23 @@
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com",
         "date": "2026-02-17",
-        "commit": "70a279d"
+        "commit": "08a0293"
       }
     },
     {
       "name": "github.copilot.chat.anthropic.tools.websearch.allowedDomains",
-      "file": "[Copilot Chat] package.json",
-      "line": 3857,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3820,
       "area": "github.copilot",
       "default": "[]",
       "tags": [
         "experimental"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-11-03",
-      "addedCommit": "1dc7bc6",
+      "addedCommit": "8b9e36f",
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
@@ -1095,23 +1095,23 @@
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com",
         "date": "2025-11-04",
-        "commit": "1dc7bc6"
+        "commit": "8b9e36f"
       }
     },
     {
       "name": "github.copilot.chat.anthropic.tools.websearch.blockedDomains",
-      "file": "[Copilot Chat] package.json",
-      "line": 3868,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3831,
       "area": "github.copilot",
       "default": "[]",
       "tags": [
         "experimental"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-11-03",
-      "addedCommit": "1dc7bc6",
+      "addedCommit": "8b9e36f",
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
@@ -1120,24 +1120,24 @@
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com",
         "date": "2025-11-04",
-        "commit": "1dc7bc6"
+        "commit": "8b9e36f"
       }
     },
     {
       "name": "github.copilot.chat.anthropic.tools.websearch.enabled",
-      "file": "[Copilot Chat] package.json",
-      "line": 3838,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3801,
       "area": "github.copilot",
       "default": "false",
       "tags": [
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-10-30",
-      "addedCommit": "3c7bf6c",
+      "addedCommit": "e639b4f",
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
@@ -1146,23 +1146,23 @@
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com",
         "date": "2025-10-31",
-        "commit": "3c7bf6c"
+        "commit": "e639b4f"
       }
     },
     {
       "name": "github.copilot.chat.anthropic.tools.websearch.maxUses",
-      "file": "[Copilot Chat] package.json",
-      "line": 3847,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3810,
       "area": "github.copilot",
       "default": "5",
       "tags": [
         "experimental"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-11-03",
-      "addedCommit": "1dc7bc6",
+      "addedCommit": "8b9e36f",
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
@@ -1171,23 +1171,23 @@
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com",
         "date": "2025-11-04",
-        "commit": "1dc7bc6"
+        "commit": "8b9e36f"
       }
     },
     {
       "name": "github.copilot.chat.anthropic.tools.websearch.userLocation",
-      "file": "[Copilot Chat] package.json",
-      "line": 3879,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3842,
       "area": "github.copilot",
       "default": "null",
       "tags": [
         "experimental"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-11-03",
-      "addedCommit": "1dc7bc6",
+      "addedCommit": "8b9e36f",
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
@@ -1196,23 +1196,23 @@
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com",
         "date": "2025-11-04",
-        "commit": "1dc7bc6"
+        "commit": "8b9e36f"
       }
     },
     {
       "name": "github.copilot.chat.anthropic.toolSearchTool.enabled",
-      "file": "[Copilot Chat] package.json",
-      "line": 3243,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3215,
       "area": "github.copilot",
       "default": "true",
       "tags": [
         "preview"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2026-01-15",
-      "addedCommit": "11fd8fb",
+      "addedCommit": "23cb26e",
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
@@ -1221,24 +1221,24 @@
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com",
         "date": "2026-02-17",
-        "commit": "70a279d"
+        "commit": "08a0293"
       }
     },
     {
       "name": "github.copilot.chat.anthropic.toolSearchTool.mode",
-      "file": "[Copilot Chat] package.json",
-      "line": 3251,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3223,
       "area": "github.copilot",
       "default": "\"server\"",
       "tags": [
         "preview",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2026-03-04",
-      "addedCommit": "552b3b5",
+      "addedCommit": "b4a27c8",
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
@@ -1247,23 +1247,23 @@
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com",
         "date": "2026-03-04",
-        "commit": "552b3b5"
+        "commit": "b4a27c8"
       }
     },
     {
       "name": "github.copilot.chat.askAgent.additionalTools",
-      "file": "[Copilot Chat] package.json",
-      "line": 3959,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3922,
       "area": "github.copilot",
       "default": "[]",
       "tags": [
         "experimental"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2026-02-10",
-      "addedCommit": "ce1e9ab",
+      "addedCommit": "b872e48",
       "addedBy": {
         "name": "Benjamin Christopher Simmonds",
         "email": "44439583+benibenj@users.noreply.github.com"
@@ -1272,23 +1272,23 @@
         "name": "Benjamin Christopher Simmonds",
         "email": "44439583+benibenj@users.noreply.github.com",
         "date": "2026-02-10",
-        "commit": "ce1e9ab"
+        "commit": "b872e48"
       }
     },
     {
       "name": "github.copilot.chat.askAgent.model",
-      "file": "[Copilot Chat] package.json",
-      "line": 3971,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3934,
       "area": "github.copilot",
       "default": "\"\"",
       "tags": [
         "experimental"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2026-02-10",
-      "addedCommit": "ce1e9ab",
+      "addedCommit": "b872e48",
       "addedBy": {
         "name": "Benjamin Christopher Simmonds",
         "email": "44439583+benibenj@users.noreply.github.com"
@@ -1297,7 +1297,7 @@
         "name": "Benjamin Christopher Simmonds",
         "email": "44439583+benibenj@users.noreply.github.com",
         "date": "2026-02-10",
-        "commit": "ce1e9ab"
+        "commit": "b872e48"
       }
     },
     {
@@ -1328,19 +1328,19 @@
     },
     {
       "name": "github.copilot.chat.cli.autoCommit.enabled",
-      "file": "[Copilot Chat] package.json",
-      "line": 4559,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4554,
       "area": "github.copilot",
       "default": "true",
       "tags": [
         "advanced",
         "experimental"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-12-23",
-      "addedCommit": "6173cd0",
+      "addedCommit": "b502918",
       "addedBy": {
         "name": "Ladislau Szomoru",
         "email": "3372902+lszomoru@users.noreply.github.com"
@@ -1349,24 +1349,24 @@
         "name": "Ladislau Szomoru",
         "email": "3372902+lszomoru@users.noreply.github.com",
         "date": "2026-03-22",
-        "commit": "303006e"
+        "commit": "50adab3"
       }
     },
     {
       "name": "github.copilot.chat.cli.mcp.enabled",
-      "file": "[Copilot Chat] package.json",
-      "line": 4518,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4505,
       "area": "github.copilot",
       "default": "true",
       "tags": [
         "advanced",
         "experimental"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-11-14",
-      "addedCommit": "7098ab5",
+      "addedCommit": "3898ba5",
       "addedBy": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com"
@@ -1375,23 +1375,23 @@
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       }
     },
     {
       "name": "github.copilot.chat.codeGeneration.instructions",
-      "file": "[Copilot Chat] package.json",
-      "line": 3358,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3321,
       "area": "github.copilot",
       "default": "[]",
       "tags": [
         "experimental"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-06-27",
-      "addedCommit": "af813ee",
+      "addedCommit": "333d9a4",
       "addedBy": {
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com"
@@ -1400,24 +1400,24 @@
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com",
         "date": "2025-06-27",
-        "commit": "af813ee"
+        "commit": "333d9a4"
       }
     },
     {
       "name": "github.copilot.chat.codesearch.agent.enabled",
-      "file": "[Copilot Chat] package.json",
-      "line": 4254,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4238,
       "area": "github.copilot",
       "default": "true",
       "tags": [
         "advanced",
         "experimental"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-11-14",
-      "addedCommit": "7098ab5",
+      "addedCommit": "3898ba5",
       "addedBy": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com"
@@ -1426,23 +1426,23 @@
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       }
     },
     {
       "name": "github.copilot.chat.codesearch.enabled",
-      "file": "[Copilot Chat] package.json",
-      "line": 3201,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3182,
       "area": "github.copilot",
       "default": "false",
       "tags": [
         "preview"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-06-27",
-      "addedCommit": "af813ee",
+      "addedCommit": "333d9a4",
       "addedBy": {
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com"
@@ -1451,23 +1451,23 @@
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com",
         "date": "2025-06-27",
-        "commit": "af813ee"
+        "commit": "333d9a4"
       }
     },
     {
       "name": "github.copilot.chat.commitMessageGeneration.instructions",
-      "file": "[Copilot Chat] package.json",
-      "line": 3499,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3462,
       "area": "github.copilot",
       "default": "[]",
       "tags": [
         "experimental"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-06-27",
-      "addedCommit": "af813ee",
+      "addedCommit": "333d9a4",
       "addedBy": {
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com"
@@ -1476,24 +1476,24 @@
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com",
         "date": "2025-06-27",
-        "commit": "af813ee"
+        "commit": "333d9a4"
       }
     },
     {
       "name": "github.copilot.chat.completionsFetcher",
-      "file": "[Copilot Chat] package.json",
-      "line": 3908,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3871,
       "area": "github.copilot",
       "default": null,
       "tags": [
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-10-07",
-      "addedCommit": "5c1d517",
+      "addedCommit": "79ef9c8",
       "addedBy": {
         "name": "Christof Marti",
         "email": "chrmarti@microsoft.com"
@@ -1502,7 +1502,7 @@
         "name": "Christof Marti",
         "email": "chrmarti@microsoft.com",
         "date": "2025-10-07",
-        "commit": "5c1d517"
+        "commit": "79ef9c8"
       }
     },
     {
@@ -1533,18 +1533,18 @@
     },
     {
       "name": "github.copilot.chat.copilotDebugCommand.enabled",
-      "file": "[Copilot Chat] package.json",
-      "line": 3193,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3174,
       "area": "github.copilot",
       "default": "true",
       "tags": [
         "preview"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-06-27",
-      "addedCommit": "af813ee",
+      "addedCommit": "333d9a4",
       "addedBy": {
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com"
@@ -1553,23 +1553,23 @@
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com",
         "date": "2025-06-27",
-        "commit": "af813ee"
+        "commit": "333d9a4"
       }
     },
     {
       "name": "github.copilot.chat.copilotMemory.enabled",
-      "file": "[Copilot Chat] package.json",
-      "line": 3209,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3190,
       "area": "github.copilot",
       "default": "false",
       "tags": [
         "preview"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2026-01-28",
-      "addedCommit": "53cae4e",
+      "addedCommit": "cb59a60",
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
@@ -1578,24 +1578,24 @@
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com",
         "date": "2026-01-29",
-        "commit": "53cae4e"
+        "commit": "cb59a60"
       }
     },
     {
       "name": "github.copilot.chat.debug.promptOverrideFile",
-      "file": "[Copilot Chat] package.json",
-      "line": 4014,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3998,
       "area": "github.copilot",
       "default": "null",
       "tags": [
         "advanced",
         "experimental"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2026-03-17",
-      "addedCommit": "3ce643a",
+      "addedCommit": "2527bcd",
       "addedBy": {
         "name": "Ross Wollman",
         "email": "rwoll@users.noreply.github.com"
@@ -1604,24 +1604,50 @@
         "name": "Ross Wollman",
         "email": "rwoll@users.noreply.github.com",
         "date": "2026-03-17",
-        "commit": "3ce643a"
+        "commit": "2527bcd"
+      }
+    },
+    {
+      "name": "github.copilot.chat.debug.promptOverrideString",
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3986,
+      "area": "github.copilot",
+      "default": "null",
+      "tags": [
+        "advanced",
+        "experimental"
+      ],
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
+      "addedDate": "2026-04-07",
+      "addedCommit": "fba847a",
+      "addedBy": {
+        "name": "dileepyavan",
+        "email": "52841896+dileepyavan@users.noreply.github.com"
+      },
+      "owner": {
+        "name": "dileepyavan",
+        "email": "52841896+dileepyavan@users.noreply.github.com",
+        "date": "2026-04-07",
+        "commit": "fba847a"
       }
     },
     {
       "name": "github.copilot.chat.debug.requestLogger.maxEntries",
-      "file": "[Copilot Chat] package.json",
-      "line": 4225,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4209,
       "area": "github.copilot",
       "default": "100",
       "tags": [
         "advanced",
         "experimental"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-11-17",
-      "addedCommit": "ae638b2",
+      "addedCommit": "fedde4f",
       "addedBy": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com"
@@ -1630,24 +1656,24 @@
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-17",
-        "commit": "ae638b2"
+        "commit": "fedde4f"
       }
     },
     {
       "name": "github.copilot.chat.debugTerminalCommandPatterns",
-      "file": "[Copilot Chat] package.json",
-      "line": 4185,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4169,
       "area": "github.copilot",
       "default": "[]",
       "tags": [
         "advanced",
         "experimental"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-11-14",
-      "addedCommit": "7098ab5",
+      "addedCommit": "3898ba5",
       "addedBy": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com"
@@ -1656,24 +1682,24 @@
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       }
     },
     {
       "name": "github.copilot.chat.editRecording.enabled",
-      "file": "[Copilot Chat] package.json",
-      "line": 4206,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4190,
       "area": "github.copilot",
       "default": "false",
       "tags": [
         "advanced",
         "experimental"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-11-14",
-      "addedCommit": "7098ab5",
+      "addedCommit": "3898ba5",
       "addedBy": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com"
@@ -1682,13 +1708,13 @@
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-17",
-        "commit": "ae638b2"
+        "commit": "fedde4f"
       }
     },
     {
       "name": "github.copilot.chat.edits.batchReplaceStringDescriptions",
-      "file": "[Copilot Chat] package.json",
-      "line": 4036,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4020,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1696,11 +1722,11 @@
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2026-04-03",
-      "addedCommit": "f20c231",
+      "addedCommit": "933c4e6",
       "addedBy": {
         "name": "Connor Peet",
         "email": "connor@peet.io"
@@ -1709,13 +1735,13 @@
         "name": "Connor Peet",
         "email": "connor@peet.io",
         "date": "2026-04-03",
-        "commit": "f20c231"
+        "commit": "933c4e6"
       }
     },
     {
       "name": "github.copilot.chat.edits.gemini3MultiReplaceString",
-      "file": "[Copilot Chat] package.json",
-      "line": 4026,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4010,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1723,11 +1749,11 @@
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-11-24",
-      "addedCommit": "ab060a8",
+      "addedCommit": "fdf60b9",
       "addedBy": {
         "name": "Connor Peet",
         "email": "connor@peet.io"
@@ -1736,24 +1762,24 @@
         "name": "Connor Peet",
         "email": "connor@peet.io",
         "date": "2025-11-24",
-        "commit": "ab060a8"
+        "commit": "fdf60b9"
       }
     },
     {
       "name": "github.copilot.chat.enableUserPreferences",
-      "file": "[Copilot Chat] package.json",
-      "line": 4323,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4307,
       "area": "github.copilot",
       "default": "false",
       "tags": [
         "advanced",
         "experimental"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-06-27",
-      "addedCommit": "af813ee",
+      "addedCommit": "333d9a4",
       "addedBy": {
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com"
@@ -1762,24 +1788,25 @@
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       }
     },
     {
       "name": "github.copilot.chat.executionSubagent.enabled",
-      "file": "[Copilot Chat] package.json",
-      "line": 4332,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4316,
       "area": "github.copilot",
       "default": "false",
       "tags": [
         "advanced",
-        "experimental"
+        "experimental",
+        "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2026-03-19",
-      "addedCommit": "499ec7a",
+      "addedCommit": "0464f32",
       "addedBy": {
         "name": "Vikram Nitin",
         "email": "vikramnitin9@gmail.com"
@@ -1788,24 +1815,25 @@
         "name": "Vikram Nitin",
         "email": "vikramnitin9@gmail.com",
         "date": "2026-03-19",
-        "commit": "499ec7a"
+        "commit": "0464f32"
       }
     },
     {
       "name": "github.copilot.chat.executionSubagent.model",
-      "file": "[Copilot Chat] package.json",
-      "line": 4341,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4326,
       "area": "github.copilot",
       "default": "\"\"",
       "tags": [
         "advanced",
-        "experimental"
+        "experimental",
+        "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2026-03-19",
-      "addedCommit": "499ec7a",
+      "addedCommit": "0464f32",
       "addedBy": {
         "name": "Vikram Nitin",
         "email": "vikramnitin9@gmail.com"
@@ -1814,24 +1842,25 @@
         "name": "Vikram Nitin",
         "email": "vikramnitin9@gmail.com",
         "date": "2026-03-19",
-        "commit": "499ec7a"
+        "commit": "0464f32"
       }
     },
     {
       "name": "github.copilot.chat.executionSubagent.toolCallLimit",
-      "file": "[Copilot Chat] package.json",
-      "line": 4350,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4336,
       "area": "github.copilot",
-      "default": "5",
+      "default": "10",
       "tags": [
         "advanced",
-        "experimental"
+        "experimental",
+        "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2026-03-19",
-      "addedCommit": "499ec7a",
+      "addedCommit": "0464f32",
       "addedBy": {
         "name": "Vikram Nitin",
         "email": "vikramnitin9@gmail.com"
@@ -1840,23 +1869,49 @@
         "name": "Vikram Nitin",
         "email": "vikramnitin9@gmail.com",
         "date": "2026-03-19",
-        "commit": "499ec7a"
+        "commit": "0464f32"
+      }
+    },
+    {
+      "name": "github.copilot.chat.exploreAgent.enabled",
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3943,
+      "area": "github.copilot",
+      "default": "true",
+      "tags": [
+        "experimental",
+        "onExp"
+      ],
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
+      "addedDate": "2026-04-07",
+      "addedCommit": "7ab3939",
+      "addedBy": {
+        "name": "Bhavya U",
+        "email": "bhavyau@microsoft.com"
+      },
+      "owner": {
+        "name": "Bhavya U",
+        "email": "bhavyau@microsoft.com",
+        "date": "2026-04-07",
+        "commit": "7ab3939"
       }
     },
     {
       "name": "github.copilot.chat.exploreAgent.model",
-      "file": "[Copilot Chat] package.json",
-      "line": 3980,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3952,
       "area": "github.copilot",
       "default": "\"\"",
       "tags": [
         "experimental"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2026-02-12",
-      "addedCommit": "10cc8a0",
+      "addedCommit": "24a3494",
       "addedBy": {
         "name": "Harald Kirschner",
         "email": "hkirschner@microsoft.com"
@@ -1865,24 +1920,24 @@
         "name": "Harald Kirschner",
         "email": "hkirschner@microsoft.com",
         "date": "2026-02-12",
-        "commit": "10cc8a0"
+        "commit": "24a3494"
       }
     },
     {
       "name": "github.copilot.chat.feedback.onChange",
-      "file": "[Copilot Chat] package.json",
-      "line": 4125,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4109,
       "area": "github.copilot",
       "default": "false",
       "tags": [
         "advanced",
         "experimental"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-11-14",
-      "addedCommit": "7098ab5",
+      "addedCommit": "3898ba5",
       "addedBy": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com"
@@ -1891,24 +1946,24 @@
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       }
     },
     {
       "name": "github.copilot.chat.getSearchViewResultsSkill.enabled",
-      "file": "[Copilot Chat] package.json",
-      "line": 3278,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3241,
       "area": "github.copilot",
       "default": "false",
       "tags": [
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2026-02-23",
-      "addedCommit": "c784cb0",
+      "addedCommit": "65fdf85",
       "addedBy": {
         "name": "Alex Ross",
         "email": "38270282+alexr00@users.noreply.github.com"
@@ -1917,23 +1972,23 @@
         "name": "Alex Ross",
         "email": "38270282+alexr00@users.noreply.github.com",
         "date": "2026-02-23",
-        "commit": "c784cb0"
+        "commit": "65fdf85"
       }
     },
     {
       "name": "github.copilot.chat.githubMcpServer.channel",
-      "file": "[Copilot Chat] package.json",
-      "line": 3324,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3287,
       "area": "github.copilot",
       "default": "\"stable\"",
       "tags": [
         "experimental"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2026-04-02",
-      "addedCommit": "1761632",
+      "addedCommit": "9eb0453",
       "addedBy": {
         "name": "Harald Kirschner",
         "email": "hkirschner@microsoft.com"
@@ -1942,23 +1997,23 @@
         "name": "Harald Kirschner",
         "email": "hkirschner@microsoft.com",
         "date": "2026-04-03",
-        "commit": "1761632"
+        "commit": "9eb0453"
       }
     },
     {
       "name": "github.copilot.chat.githubMcpServer.enabled",
-      "file": "[Copilot Chat] package.json",
-      "line": 3287,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3250,
       "area": "github.copilot",
       "default": "false",
       "tags": [
         "experimental"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-11-20",
-      "addedCommit": "6cea1c0",
+      "addedCommit": "2db395a",
       "addedBy": {
         "name": "Tyler James Leonhardt",
         "email": "2644648+TylerLeonhardt@users.noreply.github.com"
@@ -1967,23 +2022,23 @@
         "name": "Tyler James Leonhardt",
         "email": "2644648+TylerLeonhardt@users.noreply.github.com",
         "date": "2025-11-20",
-        "commit": "6cea1c0"
+        "commit": "2db395a"
       }
     },
     {
       "name": "github.copilot.chat.githubMcpServer.lockdown",
-      "file": "[Copilot Chat] package.json",
-      "line": 3316,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3279,
       "area": "github.copilot",
       "default": "false",
       "tags": [
         "experimental"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-11-20",
-      "addedCommit": "6cea1c0",
+      "addedCommit": "2db395a",
       "addedBy": {
         "name": "Tyler James Leonhardt",
         "email": "2644648+TylerLeonhardt@users.noreply.github.com"
@@ -1992,23 +2047,23 @@
         "name": "Tyler James Leonhardt",
         "email": "2644648+TylerLeonhardt@users.noreply.github.com",
         "date": "2025-11-20",
-        "commit": "6cea1c0"
+        "commit": "2db395a"
       }
     },
     {
       "name": "github.copilot.chat.githubMcpServer.readonly",
-      "file": "[Copilot Chat] package.json",
-      "line": 3308,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3271,
       "area": "github.copilot",
       "default": "false",
       "tags": [
         "experimental"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-11-20",
-      "addedCommit": "6cea1c0",
+      "addedCommit": "2db395a",
       "addedBy": {
         "name": "Tyler James Leonhardt",
         "email": "2644648+TylerLeonhardt@users.noreply.github.com"
@@ -2017,23 +2072,23 @@
         "name": "Tyler James Leonhardt",
         "email": "2644648+TylerLeonhardt@users.noreply.github.com",
         "date": "2025-11-20",
-        "commit": "6cea1c0"
+        "commit": "2db395a"
       }
     },
     {
       "name": "github.copilot.chat.githubMcpServer.toolsets",
-      "file": "[Copilot Chat] package.json",
-      "line": 3295,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3258,
       "area": "github.copilot",
       "default": "[\"default\"]",
       "tags": [
         "experimental"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-11-20",
-      "addedCommit": "6cea1c0",
+      "addedCommit": "2db395a",
       "addedBy": {
         "name": "Tyler James Leonhardt",
         "email": "2644648+TylerLeonhardt@users.noreply.github.com"
@@ -2042,24 +2097,24 @@
         "name": "Tyler James Leonhardt",
         "email": "2644648+TylerLeonhardt@users.noreply.github.com",
         "date": "2025-11-20",
-        "commit": "6cea1c0"
+        "commit": "2db395a"
       }
     },
     {
       "name": "github.copilot.chat.gpt54ConcisePrompt.enabled",
-      "file": "[Copilot Chat] package.json",
-      "line": 3820,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3783,
       "area": "github.copilot",
       "default": "false",
       "tags": [
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2026-03-26",
-      "addedCommit": "a0c21f1",
+      "addedCommit": "b0a72ed",
       "addedBy": {
         "name": "dileepyavan",
         "email": "52841896+dileepyavan@users.noreply.github.com"
@@ -2068,24 +2123,24 @@
         "name": "dileepyavan",
         "email": "52841896+dileepyavan@users.noreply.github.com",
         "date": "2026-03-26",
-        "commit": "a0c21f1"
+        "commit": "b0a72ed"
       }
     },
     {
       "name": "github.copilot.chat.gpt54LargePrompt.enabled",
-      "file": "[Copilot Chat] package.json",
-      "line": 3829,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3792,
       "area": "github.copilot",
       "default": "false",
       "tags": [
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2026-03-26",
-      "addedCommit": "a0c21f1",
+      "addedCommit": "b0a72ed",
       "addedBy": {
         "name": "dileepyavan",
         "email": "52841896+dileepyavan@users.noreply.github.com"
@@ -2094,13 +2149,13 @@
         "name": "dileepyavan",
         "email": "52841896+dileepyavan@users.noreply.github.com",
         "date": "2026-03-26",
-        "commit": "a0c21f1"
+        "commit": "b0a72ed"
       }
     },
     {
       "name": "github.copilot.chat.gpt5AlternativePatch",
-      "file": "[Copilot Chat] package.json",
-      "line": 4429,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4416,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2108,11 +2163,11 @@
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-11-14",
-      "addedCommit": "7098ab5",
+      "addedCommit": "3898ba5",
       "addedBy": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com"
@@ -2121,24 +2176,24 @@
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       }
     },
     {
       "name": "github.copilot.chat.imageUpload.enabled",
-      "file": "[Copilot Chat] package.json",
-      "line": 3349,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3312,
       "area": "github.copilot",
       "default": "true",
       "tags": [
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-09-09",
-      "addedCommit": "2ddaf12",
+      "addedCommit": "75a7075",
       "addedBy": {
         "name": "Justin Chen",
         "email": "54879025+justschen@users.noreply.github.com"
@@ -2147,23 +2202,23 @@
         "name": "Justin Chen",
         "email": "54879025+justschen@users.noreply.github.com",
         "date": "2025-09-09",
-        "commit": "2ddaf12"
+        "commit": "75a7075"
       }
     },
     {
       "name": "github.copilot.chat.implementAgent.model",
-      "file": "[Copilot Chat] package.json",
-      "line": 3950,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3913,
       "area": "github.copilot",
       "default": "\"\"",
       "tags": [
         "experimental"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2026-01-25",
-      "addedCommit": "2051a86",
+      "addedCommit": "b5375ef",
       "addedBy": {
         "name": "Eleanor Boyd",
         "email": "26030610+eleanorjboyd@users.noreply.github.com"
@@ -2172,13 +2227,13 @@
         "name": "Eleanor Boyd",
         "email": "26030610+eleanorjboyd@users.noreply.github.com",
         "date": "2026-01-25",
-        "commit": "2051a86"
+        "commit": "b5375ef"
       }
     },
     {
       "name": "github.copilot.chat.inlineChat.selectionRatioThreshold",
-      "file": "[Copilot Chat] package.json",
-      "line": 4215,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4199,
       "area": "github.copilot",
       "default": "0",
       "tags": [
@@ -2186,11 +2241,11 @@
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-12-01",
-      "addedCommit": "df2b4d3",
+      "addedCommit": "844a8b8",
       "addedBy": {
         "name": "Johannes Rieken",
         "email": "johannes.rieken@gmail.com"
@@ -2199,13 +2254,13 @@
         "name": "Johannes Rieken",
         "email": "johannes.rieken@gmail.com",
         "date": "2025-12-01",
-        "commit": "df2b4d3"
+        "commit": "844a8b8"
       }
     },
     {
       "name": "github.copilot.chat.inlineEdits.chatSessionContextProvider.enabled",
-      "file": "[Copilot Chat] package.json",
-      "line": 4244,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4228,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2213,11 +2268,11 @@
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2026-01-22",
-      "addedCommit": "f7b1ec2",
+      "addedCommit": "2268d1f",
       "addedBy": {
         "name": "Benjamin Christopher Simmonds",
         "email": "44439583+benibenj@users.noreply.github.com"
@@ -2226,13 +2281,13 @@
         "name": "Benjamin Christopher Simmonds",
         "email": "44439583+benibenj@users.noreply.github.com",
         "date": "2026-01-21",
-        "commit": "f7b1ec2"
+        "commit": "2268d1f"
       }
     },
     {
       "name": "github.copilot.chat.inlineEdits.diagnosticsContextProvider.enabled",
-      "file": "[Copilot Chat] package.json",
-      "line": 4234,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4218,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2240,11 +2295,11 @@
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-11-17",
-      "addedCommit": "ae638b2",
+      "addedCommit": "fedde4f",
       "addedBy": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com"
@@ -2253,13 +2308,13 @@
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-17",
-        "commit": "ae638b2"
+        "commit": "fedde4f"
       }
     },
     {
       "name": "github.copilot.chat.inlineEdits.nextCursorPrediction.currentFileMaxTokens",
-      "file": "[Copilot Chat] package.json",
-      "line": 4461,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4448,
       "area": "github.copilot",
       "default": "3000",
       "tags": [
@@ -2267,11 +2322,11 @@
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-11-14",
-      "addedCommit": "7098ab5",
+      "addedCommit": "3898ba5",
       "addedBy": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com"
@@ -2280,13 +2335,13 @@
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       }
     },
     {
       "name": "github.copilot.chat.inlineEdits.nextCursorPrediction.displayLine",
-      "file": "[Copilot Chat] package.json",
-      "line": 4451,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4438,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -2294,11 +2349,11 @@
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-11-14",
-      "addedCommit": "7098ab5",
+      "addedCommit": "3898ba5",
       "addedBy": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com"
@@ -2307,13 +2362,13 @@
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       }
     },
     {
       "name": "github.copilot.chat.inlineEdits.renameSymbolSuggestions",
-      "file": "[Copilot Chat] package.json",
-      "line": 4471,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4458,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -2321,11 +2376,11 @@
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-11-24",
-      "addedCommit": "4513b44",
+      "addedCommit": "e2c99eb",
       "addedBy": {
         "name": "Benjamin Christopher Simmonds",
         "email": "44439583+benibenj@users.noreply.github.com"
@@ -2334,13 +2389,13 @@
         "name": "Benjamin Christopher Simmonds",
         "email": "44439583+benibenj@users.noreply.github.com",
         "date": "2025-11-24",
-        "commit": "4513b44"
+        "commit": "e2c99eb"
       }
     },
     {
       "name": "github.copilot.chat.inlineEdits.triggerOnEditorChangeAfterSeconds",
-      "file": "[Copilot Chat] package.json",
-      "line": 4439,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4426,
       "area": "github.copilot",
       "default": null,
       "tags": [
@@ -2348,11 +2403,11 @@
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-11-14",
-      "addedCommit": "7098ab5",
+      "addedCommit": "3898ba5",
       "addedBy": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com"
@@ -2361,13 +2416,13 @@
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       }
     },
     {
       "name": "github.copilot.chat.installExtensionSkill.enabled",
-      "file": "[Copilot Chat] package.json",
-      "line": 3994,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3966,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2375,11 +2430,11 @@
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2026-02-23",
-      "addedCommit": "42a2ed5",
+      "addedCommit": "c387e1e",
       "addedBy": {
         "name": "Alex Ross",
         "email": "38270282+alexr00@users.noreply.github.com"
@@ -2388,13 +2443,13 @@
         "name": "Alex Ross",
         "email": "38270282+alexr00@users.noreply.github.com",
         "date": "2026-02-23",
-        "commit": "42a2ed5"
+        "commit": "c387e1e"
       }
     },
     {
       "name": "github.copilot.chat.instantApply.shortContextLimit",
-      "file": "[Copilot Chat] package.json",
-      "line": 4313,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4297,
       "area": "github.copilot",
       "default": "8000",
       "tags": [
@@ -2402,11 +2457,11 @@
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-11-14",
-      "addedCommit": "7098ab5",
+      "addedCommit": "3898ba5",
       "addedBy": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com"
@@ -2415,13 +2470,13 @@
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       }
     },
     {
       "name": "github.copilot.chat.instantApply.shortContextModelName",
-      "file": "[Copilot Chat] package.json",
-      "line": 4303,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4287,
       "area": "github.copilot",
       "default": "\"gpt-4o-instant-apply-full-ft-v66-short\"",
       "tags": [
@@ -2429,11 +2484,11 @@
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-11-14",
-      "addedCommit": "7098ab5",
+      "addedCommit": "3898ba5",
       "addedBy": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com"
@@ -2442,24 +2497,24 @@
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       }
     },
     {
       "name": "github.copilot.chat.languageContext.fix.typescript.enabled",
-      "file": "[Copilot Chat] package.json",
-      "line": 3677,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3640,
       "area": "github.copilot",
       "default": "false",
       "tags": [
         "experimental",
         "onExP"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-06-27",
-      "addedCommit": "af813ee",
+      "addedCommit": "333d9a4",
       "addedBy": {
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com"
@@ -2468,24 +2523,24 @@
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com",
         "date": "2025-06-27",
-        "commit": "af813ee"
+        "commit": "333d9a4"
       }
     },
     {
       "name": "github.copilot.chat.languageContext.inline.typescript.enabled",
-      "file": "[Copilot Chat] package.json",
-      "line": 3687,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3650,
       "area": "github.copilot",
       "default": "false",
       "tags": [
         "experimental",
         "onExP"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-06-27",
-      "addedCommit": "af813ee",
+      "addedCommit": "333d9a4",
       "addedBy": {
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com"
@@ -2494,24 +2549,24 @@
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com",
         "date": "2025-06-27",
-        "commit": "af813ee"
+        "commit": "333d9a4"
       }
     },
     {
       "name": "github.copilot.chat.languageContext.typescript.cacheTimeout",
-      "file": "[Copilot Chat] package.json",
-      "line": 3667,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3630,
       "area": "github.copilot",
       "default": "500",
       "tags": [
         "experimental",
         "onExP"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-06-27",
-      "addedCommit": "af813ee",
+      "addedCommit": "333d9a4",
       "addedBy": {
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com"
@@ -2520,24 +2575,24 @@
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com",
         "date": "2025-06-27",
-        "commit": "af813ee"
+        "commit": "333d9a4"
       }
     },
     {
       "name": "github.copilot.chat.languageContext.typescript.enabled",
-      "file": "[Copilot Chat] package.json",
-      "line": 3631,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3594,
       "area": "github.copilot",
       "default": "true",
       "tags": [
         "experimental",
         "onExP"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-06-27",
-      "addedCommit": "af813ee",
+      "addedCommit": "333d9a4",
       "addedBy": {
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com"
@@ -2546,24 +2601,24 @@
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com",
         "date": "2025-06-27",
-        "commit": "af813ee"
+        "commit": "333d9a4"
       }
     },
     {
       "name": "github.copilot.chat.languageContext.typescript.includeDocumentation",
-      "file": "[Copilot Chat] package.json",
-      "line": 3657,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3620,
       "area": "github.copilot",
       "default": "false",
       "tags": [
         "experimental",
         "onExP"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-09-29",
-      "addedCommit": "6271f4e",
+      "addedCommit": "3c9a4c5",
       "addedBy": {
         "name": "Dirk Bäumer",
         "email": "dirkb@microsoft.com"
@@ -2572,24 +2627,24 @@
         "name": "Dirk Bäumer",
         "email": "dirkb@microsoft.com",
         "date": "2025-09-29",
-        "commit": "6271f4e"
+        "commit": "3c9a4c5"
       }
     },
     {
       "name": "github.copilot.chat.languageContext.typescript.items",
-      "file": "[Copilot Chat] package.json",
-      "line": 3641,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3604,
       "area": "github.copilot",
       "default": "\"double\"",
       "tags": [
         "experimental",
         "onExP"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-09-29",
-      "addedCommit": "582f523",
+      "addedCommit": "e9c0e6e",
       "addedBy": {
         "name": "Dirk Bäumer",
         "email": "dirkb@microsoft.com"
@@ -2598,24 +2653,24 @@
         "name": "Dirk Bäumer",
         "email": "dirkb@microsoft.com",
         "date": "2025-09-29",
-        "commit": "582f523"
+        "commit": "e9c0e6e"
       }
     },
     {
       "name": "github.copilot.chat.localWorkspaceRecording.enabled",
-      "file": "[Copilot Chat] package.json",
-      "line": 4197,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4181,
       "area": "github.copilot",
       "default": "false",
       "tags": [
         "advanced",
         "experimental"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-11-14",
-      "addedCommit": "7098ab5",
+      "addedCommit": "3898ba5",
       "addedBy": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com"
@@ -2624,24 +2679,24 @@
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-17",
-        "commit": "ae638b2"
+        "commit": "fedde4f"
       }
     },
     {
       "name": "github.copilot.chat.nesFetcher",
-      "file": "[Copilot Chat] package.json",
-      "line": 3923,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3886,
       "area": "github.copilot",
       "default": null,
       "tags": [
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-10-07",
-      "addedCommit": "5c1d517",
+      "addedCommit": "79ef9c8",
       "addedBy": {
         "name": "Christof Marti",
         "email": "chrmarti@microsoft.com"
@@ -2650,23 +2705,23 @@
         "name": "Christof Marti",
         "email": "chrmarti@microsoft.com",
         "date": "2025-10-07",
-        "commit": "5c1d517"
+        "commit": "79ef9c8"
       }
     },
     {
       "name": "github.copilot.chat.newWorkspace.useContext7",
-      "file": "[Copilot Chat] package.json",
-      "line": 3705,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3668,
       "area": "github.copilot",
       "default": "false",
       "tags": [
         "experimental"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-07-28",
-      "addedCommit": "f2c587b",
+      "addedCommit": "1d325fa",
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
@@ -2675,23 +2730,23 @@
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com",
         "date": "2025-07-28",
-        "commit": "f2c587b"
+        "commit": "1d325fa"
       }
     },
     {
       "name": "github.copilot.chat.newWorkspaceCreation.enabled",
-      "file": "[Copilot Chat] package.json",
-      "line": 3697,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3660,
       "area": "github.copilot",
       "default": "true",
       "tags": [
         "experimental"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-06-27",
-      "addedCommit": "af813ee",
+      "addedCommit": "333d9a4",
       "addedBy": {
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com"
@@ -2700,13 +2755,13 @@
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com",
         "date": "2025-06-27",
-        "commit": "af813ee"
+        "commit": "333d9a4"
       }
     },
     {
       "name": "github.copilot.chat.notebook.alternativeFormat",
-      "file": "[Copilot Chat] package.json",
-      "line": 4161,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4145,
       "area": "github.copilot",
       "default": "\"xml\"",
       "tags": [
@@ -2714,11 +2769,11 @@
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-11-14",
-      "addedCommit": "7098ab5",
+      "addedCommit": "3898ba5",
       "addedBy": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com"
@@ -2727,13 +2782,13 @@
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       }
     },
     {
       "name": "github.copilot.chat.notebook.alternativeNESFormat.enabled",
-      "file": "[Copilot Chat] package.json",
-      "line": 4175,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4159,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2741,11 +2796,11 @@
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-11-14",
-      "addedCommit": "7098ab5",
+      "addedCommit": "3898ba5",
       "addedBy": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com"
@@ -2754,24 +2809,24 @@
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       }
     },
     {
       "name": "github.copilot.chat.notebook.enhancedNextEditSuggestions.enabled",
-      "file": "[Copilot Chat] package.json",
-      "line": 3721,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3684,
       "area": "github.copilot",
       "default": "false",
       "tags": [
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-08-28",
-      "addedCommit": "8254f14",
+      "addedCommit": "b8c0c8f",
       "addedBy": {
         "name": "Don Jayamanne",
         "email": "don.jayamanne@outlook.com"
@@ -2780,23 +2835,23 @@
         "name": "Don Jayamanne",
         "email": "don.jayamanne@outlook.com",
         "date": "2025-08-28",
-        "commit": "8254f14"
+        "commit": "b8c0c8f"
       }
     },
     {
       "name": "github.copilot.chat.notebook.followCellExecution.enabled",
-      "file": "[Copilot Chat] package.json",
-      "line": 3713,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3676,
       "area": "github.copilot",
       "default": "false",
       "tags": [
         "experimental"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-06-27",
-      "addedCommit": "af813ee",
+      "addedCommit": "333d9a4",
       "addedBy": {
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com"
@@ -2805,24 +2860,24 @@
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com",
         "date": "2025-06-27",
-        "commit": "af813ee"
+        "commit": "333d9a4"
       }
     },
     {
       "name": "github.copilot.chat.notebook.summaryExperimentEnabled",
-      "file": "[Copilot Chat] package.json",
-      "line": 4143,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4127,
       "area": "github.copilot",
       "default": "false",
       "tags": [
         "advanced",
         "experimental"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-11-14",
-      "addedCommit": "7098ab5",
+      "addedCommit": "3898ba5",
       "addedBy": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com"
@@ -2831,24 +2886,24 @@
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       }
     },
     {
       "name": "github.copilot.chat.notebook.variableFilteringEnabled",
-      "file": "[Copilot Chat] package.json",
-      "line": 4152,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4136,
       "area": "github.copilot",
       "default": "false",
       "tags": [
         "advanced",
         "experimental"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-11-14",
-      "addedCommit": "7098ab5",
+      "addedCommit": "3898ba5",
       "addedBy": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com"
@@ -2857,24 +2912,24 @@
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       }
     },
     {
       "name": "github.copilot.chat.omitBaseAgentInstructions",
-      "file": "[Copilot Chat] package.json",
-      "line": 4400,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4387,
       "area": "github.copilot",
       "default": "false",
       "tags": [
         "advanced",
         "experimental"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-11-14",
-      "addedCommit": "7098ab5",
+      "addedCommit": "3898ba5",
       "addedBy": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com"
@@ -2883,23 +2938,23 @@
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       }
     },
     {
       "name": "github.copilot.chat.planAgent.additionalTools",
-      "file": "[Copilot Chat] package.json",
-      "line": 3938,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3901,
       "area": "github.copilot",
       "default": "[]",
       "tags": [
         "experimental"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2026-01-22",
-      "addedCommit": "f5f92d9",
+      "addedCommit": "6d1dc0c",
       "addedBy": {
         "name": "Harald Kirschner",
         "email": "hkirschner@microsoft.com"
@@ -2908,13 +2963,13 @@
         "name": "Harald Kirschner",
         "email": "hkirschner@microsoft.com",
         "date": "2026-01-23",
-        "commit": "f5f92d9"
+        "commit": "6d1dc0c"
       }
     },
     {
       "name": "github.copilot.chat.projectLabels.chat",
-      "file": "[Copilot Chat] package.json",
-      "line": 4056,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4040,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2922,11 +2977,11 @@
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-11-14",
-      "addedCommit": "7098ab5",
+      "addedCommit": "3898ba5",
       "addedBy": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com"
@@ -2935,13 +2990,13 @@
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       }
     },
     {
       "name": "github.copilot.chat.projectLabels.expanded",
-      "file": "[Copilot Chat] package.json",
-      "line": 4046,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4030,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2949,11 +3004,11 @@
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-11-14",
-      "addedCommit": "7098ab5",
+      "addedCommit": "3898ba5",
       "addedBy": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com"
@@ -2962,13 +3017,13 @@
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       }
     },
     {
       "name": "github.copilot.chat.projectLabels.inline",
-      "file": "[Copilot Chat] package.json",
-      "line": 4066,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4050,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2976,11 +3031,11 @@
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-11-14",
-      "addedCommit": "7098ab5",
+      "addedCommit": "3898ba5",
       "addedBy": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com"
@@ -2989,13 +3044,13 @@
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       }
     },
     {
       "name": "github.copilot.chat.projectSetupInfoSkill.enabled",
-      "file": "[Copilot Chat] package.json",
-      "line": 4004,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3976,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -3003,11 +3058,11 @@
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2026-02-23",
-      "addedCommit": "cfc40d6",
+      "addedCommit": "835a104",
       "addedBy": {
         "name": "Alex Ross",
         "email": "38270282+alexr00@users.noreply.github.com"
@@ -3016,13 +3071,13 @@
         "name": "Alex Ross",
         "email": "38270282+alexr00@users.noreply.github.com",
         "date": "2026-02-23",
-        "commit": "cfc40d6"
+        "commit": "835a104"
       }
     },
     {
       "name": "github.copilot.chat.promptFileContextProvider.enabled",
-      "file": "[Copilot Chat] package.json",
-      "line": 4409,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4396,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -3030,11 +3085,11 @@
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-11-14",
-      "addedCommit": "7098ab5",
+      "addedCommit": "3898ba5",
       "addedBy": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com"
@@ -3043,23 +3098,23 @@
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       }
     },
     {
       "name": "github.copilot.chat.pullRequestDescriptionGeneration.instructions",
-      "file": "[Copilot Chat] package.json",
-      "line": 3561,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3524,
       "area": "github.copilot",
       "default": "[]",
       "tags": [
         "experimental"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-06-27",
-      "addedCommit": "af813ee",
+      "addedCommit": "333d9a4",
       "addedBy": {
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com"
@@ -3068,24 +3123,24 @@
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com",
         "date": "2025-06-27",
-        "commit": "af813ee"
+        "commit": "333d9a4"
       }
     },
     {
       "name": "github.copilot.chat.responsesApi.promptCacheKey.enabled",
-      "file": "[Copilot Chat] package.json",
-      "line": 3802,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3765,
       "area": "github.copilot",
       "default": "false",
       "tags": [
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2026-03-24",
-      "addedCommit": "7e43160",
+      "addedCommit": "7cfeafb",
       "addedBy": {
         "name": "Giuseppe Cianci",
         "email": "39117631+Giuspepe@users.noreply.github.com"
@@ -3094,24 +3149,24 @@
         "name": "Giuseppe Cianci",
         "email": "39117631+Giuspepe@users.noreply.github.com",
         "date": "2026-03-24",
-        "commit": "7e43160"
+        "commit": "7cfeafb"
       }
     },
     {
       "name": "github.copilot.chat.responsesApiContextManagement.enabled",
-      "file": "[Copilot Chat] package.json",
-      "line": 3793,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3756,
       "area": "github.copilot",
       "default": "false",
       "tags": [
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2026-02-15",
-      "addedCommit": "971cf31",
+      "addedCommit": "9b93393",
       "addedBy": {
         "name": "dileepyavan",
         "email": "52841896+dileepyavan@users.noreply.github.com"
@@ -3120,24 +3175,24 @@
         "name": "dileepyavan",
         "email": "52841896+dileepyavan@users.noreply.github.com",
         "date": "2026-02-16",
-        "commit": "971cf31"
+        "commit": "9b93393"
       }
     },
     {
       "name": "github.copilot.chat.responsesApiReasoningSummary",
-      "file": "[Copilot Chat] package.json",
-      "line": 3780,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3743,
       "area": "github.copilot",
       "default": "\"detailed\"",
       "tags": [
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-09-12",
-      "addedCommit": "e5d025e",
+      "addedCommit": "be66370",
       "addedBy": {
         "name": "Rob Lourens",
         "email": "roblourens@gmail.com"
@@ -3146,24 +3201,24 @@
         "name": "Rob Lourens",
         "email": "roblourens@gmail.com",
         "date": "2025-09-12",
-        "commit": "e5d025e"
+        "commit": "be66370"
       }
     },
     {
       "name": "github.copilot.chat.review.intent",
-      "file": "[Copilot Chat] package.json",
-      "line": 4134,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4118,
       "area": "github.copilot",
       "default": "false",
       "tags": [
         "advanced",
         "experimental"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-11-14",
-      "addedCommit": "7098ab5",
+      "addedCommit": "3898ba5",
       "addedBy": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com"
@@ -3172,13 +3227,13 @@
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       }
     },
     {
       "name": "github.copilot.chat.searchSubagent.enabled",
-      "file": "[Copilot Chat] package.json",
-      "line": 4592,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4595,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -3186,11 +3241,11 @@
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2026-01-14",
-      "addedCommit": "f50a99e",
+      "addedCommit": "0af20a7",
       "addedBy": {
         "name": "Anisha Agarwal",
         "email": "anisagarwal@microsoft.com"
@@ -3199,13 +3254,13 @@
         "name": "Anisha Agarwal",
         "email": "anisagarwal@microsoft.com",
         "date": "2026-01-15",
-        "commit": "f50a99e"
+        "commit": "0af20a7"
       }
     },
     {
       "name": "github.copilot.chat.searchSubagent.model",
-      "file": "[Copilot Chat] package.json",
-      "line": 4610,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4613,
       "area": "github.copilot",
       "default": "\"\"",
       "tags": [
@@ -3213,11 +3268,11 @@
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2026-01-29",
-      "addedCommit": "3e5f9a1",
+      "addedCommit": "3e10be1",
       "addedBy": {
         "name": "Anisha Agarwal",
         "email": "anisagarwal@microsoft.com"
@@ -3226,13 +3281,13 @@
         "name": "Anisha Agarwal",
         "email": "anisagarwal@microsoft.com",
         "date": "2026-01-29",
-        "commit": "3e5f9a1"
+        "commit": "3e10be1"
       }
     },
     {
       "name": "github.copilot.chat.searchSubagent.toolCallLimit",
-      "file": "[Copilot Chat] package.json",
-      "line": 4620,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4623,
       "area": "github.copilot",
       "default": "4",
       "tags": [
@@ -3240,11 +3295,11 @@
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2026-01-29",
-      "addedCommit": "3e5f9a1",
+      "addedCommit": "3e10be1",
       "addedBy": {
         "name": "Anisha Agarwal",
         "email": "anisagarwal@microsoft.com"
@@ -3253,23 +3308,23 @@
         "name": "Anisha Agarwal",
         "email": "anisagarwal@microsoft.com",
         "date": "2026-01-29",
-        "commit": "3e5f9a1"
+        "commit": "3e10be1"
       }
     },
     {
       "name": "github.copilot.chat.setupTests.enabled",
-      "file": "[Copilot Chat] package.json",
-      "line": 3623,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3586,
       "area": "github.copilot",
       "default": "true",
       "tags": [
         "experimental"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-06-27",
-      "addedCommit": "af813ee",
+      "addedCommit": "333d9a4",
       "addedBy": {
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com"
@@ -3278,23 +3333,23 @@
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com",
         "date": "2025-06-27",
-        "commit": "af813ee"
+        "commit": "333d9a4"
       }
     },
     {
       "name": "github.copilot.chat.summarizeAgentConversationHistory.enabled",
-      "file": "[Copilot Chat] package.json",
-      "line": 3730,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3693,
       "area": "github.copilot",
       "default": "true",
       "tags": [
         "experimental"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-06-27",
-      "addedCommit": "af813ee",
+      "addedCommit": "333d9a4",
       "addedBy": {
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com"
@@ -3303,24 +3358,24 @@
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com",
         "date": "2025-06-27",
-        "commit": "af813ee"
+        "commit": "333d9a4"
       }
     },
     {
       "name": "github.copilot.chat.summarizeAgentConversationHistoryThreshold",
-      "file": "[Copilot Chat] package.json",
-      "line": 4359,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4346,
       "area": "github.copilot",
       "default": null,
       "tags": [
         "advanced",
         "experimental"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-11-14",
-      "addedCommit": "7098ab5",
+      "addedCommit": "3898ba5",
       "addedBy": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com"
@@ -3329,24 +3384,24 @@
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       }
     },
     {
       "name": "github.copilot.chat.switchAgent.enabled",
-      "file": "[Copilot Chat] package.json",
-      "line": 3340,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3303,
       "area": "github.copilot",
       "default": "false",
       "tags": [
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2026-01-29",
-      "addedCommit": "57850ec",
+      "addedCommit": "4ccd265",
       "addedBy": {
         "name": "SteVen Batten",
         "email": "steven.m.batten@outlook.com"
@@ -3355,23 +3410,23 @@
         "name": "SteVen Batten",
         "email": "steven.m.batten@outlook.com",
         "date": "2026-01-30",
-        "commit": "57850ec"
+        "commit": "4ccd265"
       }
     },
     {
       "name": "github.copilot.chat.testGeneration.instructions",
-      "file": "[Copilot Chat] package.json",
-      "line": 3430,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3393,
       "area": "github.copilot",
       "default": "[]",
       "tags": [
         "experimental"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-06-27",
-      "addedCommit": "af813ee",
+      "addedCommit": "333d9a4",
       "addedBy": {
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com"
@@ -3380,13 +3435,13 @@
         "name": "kieferrm",
         "email": "4674940+kieferrm@users.noreply.github.com",
         "date": "2025-06-27",
-        "commit": "af813ee"
+        "commit": "333d9a4"
       }
     },
     {
       "name": "github.copilot.chat.tools.defaultToolsGrouped",
-      "file": "[Copilot Chat] package.json",
-      "line": 4419,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4406,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -3394,11 +3449,11 @@
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-11-14",
-      "addedCommit": "7098ab5",
+      "addedCommit": "3898ba5",
       "addedBy": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com"
@@ -3407,23 +3462,23 @@
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       }
     },
     {
       "name": "github.copilot.chat.tools.memory.enabled",
-      "file": "[Copilot Chat] package.json",
-      "line": 3217,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3198,
       "area": "github.copilot",
       "default": "true",
       "tags": [
         "preview"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-10-30",
-      "addedCommit": "3c7bf6c",
+      "addedCommit": "e639b4f",
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
@@ -3432,24 +3487,24 @@
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com",
         "date": "2026-02-08",
-        "commit": "bd62c33"
+        "commit": "b596994"
       }
     },
     {
       "name": "github.copilot.chat.tools.viewImage.enabled",
-      "file": "[Copilot Chat] package.json",
-      "line": 3225,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3206,
       "area": "github.copilot",
       "default": "true",
       "tags": [
         "preview",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2026-03-13",
-      "addedCommit": "04a5994",
+      "addedCommit": "9d3bb4e",
       "addedBy": {
         "name": "Rob Lourens",
         "email": "roblourens@gmail.com"
@@ -3458,24 +3513,24 @@
         "name": "Rob Lourens",
         "email": "roblourens@gmail.com",
         "date": "2026-03-14",
-        "commit": "04a5994"
+        "commit": "9d3bb4e"
       }
     },
     {
       "name": "github.copilot.chat.updated53CodexPrompt.enabled",
-      "file": "[Copilot Chat] package.json",
-      "line": 3811,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3774,
       "area": "github.copilot",
       "default": "true",
       "tags": [
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2026-02-17",
-      "addedCommit": "5107791",
+      "addedCommit": "d0b9ef2",
       "addedBy": {
         "name": "dileepyavan",
         "email": "52841896+dileepyavan@users.noreply.github.com"
@@ -3484,24 +3539,24 @@
         "name": "dileepyavan",
         "email": "52841896+dileepyavan@users.noreply.github.com",
         "date": "2026-02-17",
-        "commit": "5107791"
+        "commit": "d0b9ef2"
       }
     },
     {
       "name": "github.copilot.chat.useResponsesApiTruncation",
-      "file": "[Copilot Chat] package.json",
-      "line": 4391,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4378,
       "area": "github.copilot",
       "default": "false",
       "tags": [
         "advanced",
         "experimental"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-11-14",
-      "addedCommit": "7098ab5",
+      "addedCommit": "3898ba5",
       "addedBy": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com"
@@ -3510,23 +3565,23 @@
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       }
     },
     {
       "name": "github.copilot.chat.virtualTools.threshold",
-      "file": "[Copilot Chat] package.json",
-      "line": 3738,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3701,
       "area": "github.copilot",
       "default": "128",
       "tags": [
         "experimental"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-07-29",
-      "addedCommit": "3576d74",
+      "addedCommit": "f841f8d",
       "addedBy": {
         "name": "Connor Peet",
         "email": "connor@peet.io"
@@ -3535,13 +3590,13 @@
         "name": "Connor Peet",
         "email": "connor@peet.io",
         "date": "2025-07-30",
-        "commit": "3576d74"
+        "commit": "f841f8d"
       }
     },
     {
       "name": "github.copilot.chat.workspace.enableCodeSearch",
-      "file": "[Copilot Chat] package.json",
-      "line": 4086,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4070,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -3549,11 +3604,11 @@
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-11-14",
-      "addedCommit": "7098ab5",
+      "addedCommit": "3898ba5",
       "addedBy": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com"
@@ -3562,13 +3617,13 @@
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       }
     },
     {
       "name": "github.copilot.chat.workspace.maxDiffSizeBeforeUsingExternalIngest",
-      "file": "[Copilot Chat] package.json",
-      "line": 4096,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4080,
       "area": "github.copilot",
       "default": "100",
       "tags": [
@@ -3576,11 +3631,11 @@
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2026-03-26",
-      "addedCommit": "44c1fc2",
+      "addedCommit": "26c365f",
       "addedBy": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com"
@@ -3589,13 +3644,13 @@
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
         "date": "2026-03-26",
-        "commit": "44c1fc2"
+        "commit": "26c365f"
       }
     },
     {
       "name": "github.copilot.chat.workspace.maxLocalIndexSize",
-      "file": "[Copilot Chat] package.json",
-      "line": 4076,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4060,
       "area": "github.copilot",
       "default": "100000",
       "tags": [
@@ -3603,11 +3658,11 @@
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-11-14",
-      "addedCommit": "7098ab5",
+      "addedCommit": "3898ba5",
       "addedBy": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com"
@@ -3616,13 +3671,13 @@
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       }
     },
     {
       "name": "github.copilot.chat.workspace.preferredEmbeddingsModel",
-      "file": "[Copilot Chat] package.json",
-      "line": 4106,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4090,
       "area": "github.copilot",
       "default": "\"\"",
       "tags": [
@@ -3630,11 +3685,11 @@
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-11-14",
-      "addedCommit": "7098ab5",
+      "addedCommit": "3898ba5",
       "addedBy": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com"
@@ -3643,24 +3698,24 @@
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       }
     },
     {
       "name": "github.copilot.chat.workspace.prototypeAdoCodeSearchEndpointOverride",
-      "file": "[Copilot Chat] package.json",
-      "line": 4116,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4100,
       "area": "github.copilot",
       "default": "\"\"",
       "tags": [
         "advanced",
         "experimental"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-11-14",
-      "addedCommit": "7098ab5",
+      "addedCommit": "3898ba5",
       "addedBy": {
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com"
@@ -3669,24 +3724,24 @@
         "name": "Sandeep Somavarapu",
         "email": "sasomava@microsoft.com",
         "date": "2025-11-15",
-        "commit": "5e459a3"
+        "commit": "a943613"
       }
     },
     {
       "name": "github.copilot.nextEditSuggestions.eagerness",
-      "file": "[Copilot Chat] package.json",
-      "line": 4491,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4478,
       "area": "github.copilot",
       "default": "\"auto\"",
       "tags": [
         "advanced",
         "experimental"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2026-03-02",
-      "addedCommit": "ad676d1",
+      "addedCommit": "1c1147b",
       "addedBy": {
         "name": "Benjamin Christopher Simmonds",
         "email": "44439583+benibenj@users.noreply.github.com"
@@ -3695,13 +3750,13 @@
         "name": "Benjamin Christopher Simmonds",
         "email": "44439583+benibenj@users.noreply.github.com",
         "date": "2026-03-02",
-        "commit": "ad676d1"
+        "commit": "1c1147b"
       }
     },
     {
       "name": "github.copilot.nextEditSuggestions.preferredModel",
-      "file": "[Copilot Chat] package.json",
-      "line": 4481,
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4468,
       "area": "github.copilot",
       "default": "\"none\"",
       "tags": [
@@ -3709,11 +3764,11 @@
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode-copilot-chat",
-      "repoFile": "package.json",
-      "repoName": "Copilot Chat",
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
       "addedDate": "2025-12-02",
-      "addedCommit": "5dde749",
+      "addedCommit": "3c78ed8",
       "addedBy": {
         "name": "Ulugbek Abdullaev",
         "email": "ulugbekna@gmail.com"
@@ -3722,7 +3777,7 @@
         "name": "Ulugbek Abdullaev",
         "email": "ulugbekna@gmail.com",
         "date": "2025-12-02",
-        "commit": "5dde749"
+        "commit": "3c78ed8"
       }
     },
     {
@@ -3951,9 +4006,34 @@
       }
     },
     {
+      "name": "telemetry.performance.inputLatencySamplingProbability",
+      "file": "[VS Code] src/vs/workbench/contrib/performance/browser/performance.contribution.ts",
+      "line": 150,
+      "area": "telemetry.performance",
+      "default": "0",
+      "tags": [
+        "experimental"
+      ],
+      "repoPath": "./vscode",
+      "repoFile": "src/vs/workbench/contrib/performance/browser/performance.contribution.ts",
+      "repoName": "VS Code",
+      "addedDate": "2026-04-09",
+      "addedCommit": "203f80a",
+      "addedBy": {
+        "name": "Henning Dieterichs",
+        "email": "hdieterichs@microsoft.com"
+      },
+      "owner": {
+        "name": "Henning Dieterichs",
+        "email": "hdieterichs@microsoft.com",
+        "date": "2026-04-09",
+        "commit": "203f80a"
+      }
+    },
+    {
       "name": "workbench.browser.enableChatTools",
       "file": "[VS Code] src/vs/workbench/contrib/browserView/electron-browser/features/browserEditorChatFeatures.ts",
-      "line": 468,
+      "line": 523,
       "area": "workbench.browser",
       "default": "false",
       "tags": [
@@ -4169,6 +4249,31 @@
         "email": "benjamin.pasero@gmail.com",
         "date": "2026-01-25",
         "commit": "390f10d"
+      }
+    },
+    {
+      "name": "workbench.welcomePage.experimentalOnboarding",
+      "file": "[VS Code] src/vs/workbench/contrib/welcomeGettingStarted/browser/gettingStarted.contribution.ts",
+      "line": 341,
+      "area": "workbench.welcomePage",
+      "default": "true",
+      "tags": [
+        "experimental"
+      ],
+      "repoPath": "./vscode",
+      "repoFile": "src/vs/workbench/contrib/welcomeGettingStarted/browser/gettingStarted.contribution.ts",
+      "repoName": "VS Code",
+      "addedDate": "2026-04-10",
+      "addedCommit": "01667d8",
+      "addedBy": {
+        "name": "Elijah King",
+        "email": "elijahwilliamking@icloud.com"
+      },
+      "owner": {
+        "name": "Elijah King",
+        "email": "elijahwilliamking@icloud.com",
+        "date": "2026-04-10",
+        "commit": "01667d8"
       }
     }
   ]
