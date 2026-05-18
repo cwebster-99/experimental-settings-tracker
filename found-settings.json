@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-05-11T12:10:00.602Z",
-  "count": 178,
+  "timestamp": "2026-05-18T12:28:27.158Z",
+  "count": 182,
   "settings": [
     {
       "name": "application.experimental.rendererProfiling",
@@ -30,7 +30,7 @@
     {
       "name": "chat.agent.thinking.collapsedTools",
       "file": "[VS Code] src/vs/workbench/contrib/chat/browser/chat.contribution.ts",
-      "line": 1490,
+      "line": 1552,
       "area": "chat.agent",
       "default": "'always'",
       "tags": [
@@ -54,8 +54,8 @@
     },
     {
       "name": "chat.agentHost.forwardSSHAgent",
-      "file": "[VS Code] src/vs/sessions/contrib/remoteAgentHost/browser/remoteAgentHost.contribution.ts",
-      "line": 775,
+      "file": "[VS Code] src/vs/sessions/contrib/providers/remoteAgentHost/browser/remoteAgentHost.contribution.ts",
+      "line": 846,
       "area": "chat.agentHost",
       "default": "false",
       "tags": [
@@ -63,13 +63,13 @@
         "advanced"
       ],
       "repoPath": "./vscode",
-      "repoFile": "src/vs/sessions/contrib/remoteAgentHost/browser/remoteAgentHost.contribution.ts",
+      "repoFile": "src/vs/sessions/contrib/providers/remoteAgentHost/browser/remoteAgentHost.contribution.ts",
       "repoName": "VS Code",
-      "addedDate": "2026-04-22",
-      "addedCommit": "515c4fb",
+      "addedDate": "2026-05-13",
+      "addedCommit": "a3d955d",
       "addedBy": {
-        "name": "Josh Spicer",
-        "email": "23246594+joshspicer@users.noreply.github.com"
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com"
       },
       "owner": {
         "name": "Josh Spicer",
@@ -81,7 +81,7 @@
     {
       "name": "chat.allowAnonymousAccess",
       "file": "[VS Code] src/vs/workbench/contrib/chat/browser/chat.contribution.ts",
-      "line": 1599,
+      "line": 1650,
       "area": "chat.allowAnonymousAccess",
       "default": "false",
       "tags": [
@@ -106,7 +106,7 @@
     {
       "name": "chat.editing.explainChanges.enabled",
       "file": "[VS Code] src/vs/workbench/contrib/chat/browser/chat.contribution.ts",
-      "line": 331,
+      "line": 334,
       "area": "chat.editing",
       "default": "false",
       "tags": [
@@ -131,7 +131,7 @@
     {
       "name": "chat.experimentalSessionsWindowOverride",
       "file": "[VS Code] src/vs/workbench/contrib/chat/browser/chat.contribution.ts",
-      "line": 215,
+      "line": 218,
       "area": "chat.experimentalSessionsWindowOverride",
       "default": "false",
       "tags": [
@@ -156,7 +156,7 @@
     {
       "name": "chat.extensionUnification.enabled",
       "file": "[VS Code] src/vs/workbench/contrib/chat/browser/chat.contribution.ts",
-      "line": 1628,
+      "line": 1679,
       "area": "chat.extensionUnification",
       "default": "true",
       "tags": [
@@ -181,7 +181,7 @@
     {
       "name": "chat.implicitContext.enabled",
       "file": "[VS Code] src/vs/workbench/contrib/chat/browser/chat.contribution.ts",
-      "line": 284,
+      "line": 287,
       "area": "chat.implicitContext",
       "default": "{",
       "tags": [
@@ -206,7 +206,7 @@
     {
       "name": "chat.sendElementsToChat.attachImages",
       "file": "[VS Code] src/vs/workbench/contrib/chat/browser/chat.contribution.ts",
-      "line": 592,
+      "line": 589,
       "area": "chat.sendElementsToChat",
       "default": "true",
       "tags": [
@@ -230,8 +230,8 @@
     },
     {
       "name": "chat.sshRemoteAgentHostCommand",
-      "file": "[VS Code] src/vs/sessions/contrib/remoteAgentHost/browser/remoteAgentHost.contribution.ts",
-      "line": 768,
+      "file": "[VS Code] src/vs/sessions/contrib/providers/remoteAgentHost/browser/remoteAgentHost.contribution.ts",
+      "line": 839,
       "area": "chat.sshRemoteAgentHostCommand",
       "default": "''",
       "tags": [
@@ -239,69 +239,19 @@
         "advanced"
       ],
       "repoPath": "./vscode",
-      "repoFile": "src/vs/sessions/contrib/remoteAgentHost/browser/remoteAgentHost.contribution.ts",
+      "repoFile": "src/vs/sessions/contrib/providers/remoteAgentHost/browser/remoteAgentHost.contribution.ts",
       "repoName": "VS Code",
-      "addedDate": "2026-03-31",
-      "addedCommit": "e6e776a",
+      "addedDate": "2026-05-13",
+      "addedCommit": "a3d955d",
       "addedBy": {
-        "name": "Rob Lourens",
-        "email": "roblourens@gmail.com"
+        "name": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com"
       },
       "owner": {
         "name": "Rob Lourens",
         "email": "roblourens@gmail.com",
         "date": "2026-04-01",
         "commit": "e6e776a"
-      }
-    },
-    {
-      "name": "chat.tools.renameTool.enabled",
-      "file": "[VS Code] src/vs/workbench/contrib/chat/browser/chat.contribution.ts",
-      "line": 1532,
-      "area": "chat.tools",
-      "default": "true",
-      "tags": [
-        "preview"
-      ],
-      "repoPath": "./vscode",
-      "repoFile": "src/vs/workbench/contrib/chat/browser/chat.contribution.ts",
-      "repoName": "VS Code",
-      "addedDate": "2026-02-17",
-      "addedCommit": "99f7779",
-      "addedBy": {
-        "name": "Johannes Rieken",
-        "email": "johannes.rieken@gmail.com"
-      },
-      "owner": {
-        "name": "Johannes Rieken",
-        "email": "johannes.rieken@gmail.com",
-        "date": "2026-02-17",
-        "commit": "99f7779"
-      }
-    },
-    {
-      "name": "chat.tools.usagesTool.enabled",
-      "file": "[VS Code] src/vs/workbench/contrib/chat/browser/chat.contribution.ts",
-      "line": 1523,
-      "area": "chat.tools",
-      "default": "true",
-      "tags": [
-        "preview"
-      ],
-      "repoPath": "./vscode",
-      "repoFile": "src/vs/workbench/contrib/chat/browser/chat.contribution.ts",
-      "repoName": "VS Code",
-      "addedDate": "2026-02-17",
-      "addedCommit": "99f7779",
-      "addedBy": {
-        "name": "Johannes Rieken",
-        "email": "johannes.rieken@gmail.com"
-      },
-      "owner": {
-        "name": "Johannes Rieken",
-        "email": "johannes.rieken@gmail.com",
-        "date": "2026-02-17",
-        "commit": "99f7779"
       }
     },
     {
@@ -608,7 +558,7 @@
     {
       "name": "extensions.allowOpenInModalEditor",
       "file": "[VS Code] src/vs/workbench/contrib/extensions/browser/extensions.contribution.ts",
-      "line": 289,
+      "line": 288,
       "area": "extensions.allowOpenInModalEditor",
       "default": "false",
       "tags": [
@@ -633,7 +583,7 @@
     {
       "name": "git.optimisticUpdate",
       "file": "[VS Code] extensions/git/package.json",
-      "line": 4038,
+      "line": 4042,
       "area": "git.optimisticUpdate",
       "default": "true",
       "tags": [
@@ -658,7 +608,7 @@
     {
       "name": "git.worktreeIncludeFiles",
       "file": "[VS Code] extensions/git/package.json",
-      "line": 3731,
+      "line": 3735,
       "area": "git.worktreeIncludeFiles",
       "default": "[]",
       "tags": [
@@ -683,7 +633,7 @@
     {
       "name": "github.copilot.chat.agent.backgroundTodoAgent.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4413,
+      "line": 4582,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -710,7 +660,7 @@
     {
       "name": "github.copilot.chat.agent.largeToolResultsToDisk.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4423,
+      "line": 4592,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -737,7 +687,7 @@
     {
       "name": "github.copilot.chat.agent.largeToolResultsToDisk.thresholdBytes",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4433,
+      "line": 4602,
       "area": "github.copilot",
       "default": "8192",
       "tags": [
@@ -764,7 +714,7 @@
     {
       "name": "github.copilot.chat.agent.omitFileAttachmentContents",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4404,
+      "line": 4573,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -790,7 +740,7 @@
     {
       "name": "github.copilot.chat.agent.temperature",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4393,
+      "line": 4562,
       "area": "github.copilot",
       "default": null,
       "tags": [
@@ -816,7 +766,7 @@
     {
       "name": "github.copilot.chat.agentDebugLog.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4892,
+      "line": 5061,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -842,7 +792,7 @@
     {
       "name": "github.copilot.chat.agentDebugLog.fileLogging.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4902,
+      "line": 5071,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -869,7 +819,7 @@
     {
       "name": "github.copilot.chat.agentDebugLog.fileLogging.flushIntervalMs",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4912,
+      "line": 5081,
       "area": "github.copilot",
       "default": "4000",
       "tags": [
@@ -895,7 +845,7 @@
     {
       "name": "github.copilot.chat.agentDebugLog.fileLogging.maxRetainedSessionLogs",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4922,
+      "line": 5091,
       "area": "github.copilot",
       "default": "50",
       "tags": [
@@ -922,7 +872,7 @@
     {
       "name": "github.copilot.chat.agentDebugLog.fileLogging.maxSessionLogSizeMB",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4933,
+      "line": 5102,
       "area": "github.copilot",
       "default": "100",
       "tags": [
@@ -976,7 +926,7 @@
     {
       "name": "github.copilot.chat.agentHistorySummarizationMode",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4542,
+      "line": 4711,
       "area": "github.copilot",
       "default": null,
       "tags": [
@@ -1002,7 +952,7 @@
     {
       "name": "github.copilot.chat.alternateGeminiModelFPrompt.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3790,
+      "line": 3938,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1028,7 +978,7 @@
     {
       "name": "github.copilot.chat.alternateGptPrompt.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3782,
+      "line": 3930,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1053,7 +1003,7 @@
     {
       "name": "github.copilot.chat.anthropic.contextEditing.mode",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3799,
+      "line": 3947,
       "area": "github.copilot",
       "default": "\"off\"",
       "tags": [
@@ -1077,9 +1027,63 @@
       }
     },
     {
+      "name": "github.copilot.chat.anthropic.promptCaching.extendedTtl",
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4244,
+      "area": "github.copilot",
+      "default": "false",
+      "tags": [
+        "advanced",
+        "experimental",
+        "onExp"
+      ],
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
+      "addedDate": "2026-03-19",
+      "addedCommit": "cfe5f9b",
+      "addedBy": {
+        "name": "Bhavya U",
+        "email": "bhavyau@microsoft.com"
+      },
+      "owner": {
+        "name": "Bhavya U",
+        "email": "bhavyau@microsoft.com",
+        "date": "2026-05-13",
+        "commit": "c305abc"
+      }
+    },
+    {
+      "name": "github.copilot.chat.anthropic.promptCaching.extendedTtlMessages",
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4254,
+      "area": "github.copilot",
+      "default": "false",
+      "tags": [
+        "advanced",
+        "experimental",
+        "onExp"
+      ],
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
+      "addedDate": "2026-05-15",
+      "addedCommit": "0bd2387",
+      "addedBy": {
+        "name": "Bhavya U",
+        "email": "bhavyau@microsoft.com"
+      },
+      "owner": {
+        "name": "Bhavya U",
+        "email": "bhavyau@microsoft.com",
+        "date": "2026-05-15",
+        "commit": "0bd2387"
+      }
+    },
+    {
       "name": "github.copilot.chat.anthropic.tools.websearch.allowedDomains",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3927,
+      "line": 4066,
       "area": "github.copilot",
       "default": "[]",
       "tags": [
@@ -1104,7 +1108,7 @@
     {
       "name": "github.copilot.chat.anthropic.tools.websearch.blockedDomains",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3938,
+      "line": 4077,
       "area": "github.copilot",
       "default": "[]",
       "tags": [
@@ -1129,7 +1133,7 @@
     {
       "name": "github.copilot.chat.anthropic.tools.websearch.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3908,
+      "line": 4047,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1155,7 +1159,7 @@
     {
       "name": "github.copilot.chat.anthropic.tools.websearch.maxUses",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3917,
+      "line": 4056,
       "area": "github.copilot",
       "default": "5",
       "tags": [
@@ -1180,7 +1184,7 @@
     {
       "name": "github.copilot.chat.anthropic.tools.websearch.userLocation",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3949,
+      "line": 4088,
       "area": "github.copilot",
       "default": "null",
       "tags": [
@@ -1256,7 +1260,7 @@
     {
       "name": "github.copilot.chat.askAgent.additionalTools",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4029,
+      "line": 4168,
       "area": "github.copilot",
       "default": "[]",
       "tags": [
@@ -1281,7 +1285,7 @@
     {
       "name": "github.copilot.chat.askAgent.model",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4041,
+      "line": 4180,
       "area": "github.copilot",
       "default": "\"\"",
       "tags": [
@@ -1332,7 +1336,7 @@
     {
       "name": "github.copilot.chat.claude47OpusPrompt.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3863,
+      "line": 4002,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1356,9 +1360,35 @@
       }
     },
     {
+      "name": "github.copilot.chat.claudeAgent.allowAutoPermissions",
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3424,
+      "area": "github.copilot",
+      "default": "false",
+      "tags": [
+        "preview",
+        "onExp"
+      ],
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
+      "addedDate": "2026-05-13",
+      "addedCommit": "c5d2bfd",
+      "addedBy": {
+        "name": "Tyler James Leonhardt",
+        "email": "2644648+TylerLeonhardt@users.noreply.github.com"
+      },
+      "owner": {
+        "name": "Tyler James Leonhardt",
+        "email": "2644648+TylerLeonhardt@users.noreply.github.com",
+        "date": "2026-05-13",
+        "commit": "c5d2bfd"
+      }
+    },
+    {
       "name": "github.copilot.chat.cli.autoCommit.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4785,
+      "line": 4954,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -1384,7 +1414,7 @@
     {
       "name": "github.copilot.chat.cli.mcp.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4681,
+      "line": 4850,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -1410,7 +1440,7 @@
     {
       "name": "github.copilot.chat.codeGeneration.instructions",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3389,
+      "line": 3537,
       "area": "github.copilot",
       "default": "[]",
       "tags": [
@@ -1435,7 +1465,7 @@
     {
       "name": "github.copilot.chat.codesearch.agent.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4384,
+      "line": 4553,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -1461,7 +1491,7 @@
     {
       "name": "github.copilot.chat.codesearch.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3277,
+      "line": 3441,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1486,7 +1516,7 @@
     {
       "name": "github.copilot.chat.commitMessageGeneration.instructions",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3530,
+      "line": 3678,
       "area": "github.copilot",
       "default": "[]",
       "tags": [
@@ -1511,7 +1541,7 @@
     {
       "name": "github.copilot.chat.completionsFetcher",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3978,
+      "line": 4117,
       "area": "github.copilot",
       "default": null,
       "tags": [
@@ -1563,7 +1593,7 @@
     {
       "name": "github.copilot.chat.copilotDebugCommand.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3269,
+      "line": 3433,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -1587,33 +1617,33 @@
     },
     {
       "name": "github.copilot.chat.copilotMemory.enabled",
-      "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3285,
+      "file": "[Copilot Chat] package.json",
+      "line": 3209,
       "area": "github.copilot",
       "default": "false",
       "tags": [
         "preview"
       ],
-      "repoPath": "./vscode",
-      "repoFile": "extensions/copilot/package.json",
-      "repoName": "VS Code",
+      "repoPath": "./vscode-copilot-chat",
+      "repoFile": "package.json",
+      "repoName": "Copilot Chat",
       "addedDate": "2026-01-28",
-      "addedCommit": "cb59a60",
+      "addedCommit": "53cae4e",
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
       },
       "owner": {
-        "name": "Matt Bierner",
-        "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "name": "Bhavya U",
+        "email": "bhavyau@microsoft.com",
+        "date": "2026-01-29",
+        "commit": "53cae4e"
       }
     },
     {
       "name": "github.copilot.chat.debug.promptOverrideFile",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4137,
+      "line": 4306,
       "area": "github.copilot",
       "default": "null",
       "tags": [
@@ -1639,7 +1669,7 @@
     {
       "name": "github.copilot.chat.debug.promptOverrideString",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4125,
+      "line": 4294,
       "area": "github.copilot",
       "default": "null",
       "tags": [
@@ -1665,7 +1695,7 @@
     {
       "name": "github.copilot.chat.debug.requestLogger.maxEntries",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4355,
+      "line": 4524,
       "area": "github.copilot",
       "default": "100",
       "tags": [
@@ -1691,7 +1721,7 @@
     {
       "name": "github.copilot.chat.debugTerminalCommandPatterns",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4298,
+      "line": 4467,
       "area": "github.copilot",
       "default": "[]",
       "tags": [
@@ -1717,7 +1747,7 @@
     {
       "name": "github.copilot.chat.editRecording.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4319,
+      "line": 4488,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1743,7 +1773,7 @@
     {
       "name": "github.copilot.chat.edits.batchReplaceStringDescriptions",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4159,
+      "line": 4328,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1770,7 +1800,7 @@
     {
       "name": "github.copilot.chat.edits.gemini3MultiReplaceString",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4149,
+      "line": 4318,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1797,7 +1827,7 @@
     {
       "name": "github.copilot.chat.enableUserPreferences",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4463,
+      "line": 4632,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1823,7 +1853,7 @@
     {
       "name": "github.copilot.chat.executionSubagent.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4491,
+      "line": 4660,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1850,7 +1880,7 @@
     {
       "name": "github.copilot.chat.executionSubagent.model",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4501,
+      "line": 4670,
       "area": "github.copilot",
       "default": "\"\"",
       "tags": [
@@ -1877,7 +1907,7 @@
     {
       "name": "github.copilot.chat.executionSubagent.toolCallLimit",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4521,
+      "line": 4690,
       "area": "github.copilot",
       "default": "10",
       "tags": [
@@ -1904,7 +1934,7 @@
     {
       "name": "github.copilot.chat.executionSubagent.useAgenticProxy",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4511,
+      "line": 4680,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1931,7 +1961,7 @@
     {
       "name": "github.copilot.chat.exploreAgent.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4050,
+      "line": 4189,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -1957,7 +1987,7 @@
     {
       "name": "github.copilot.chat.exploreAgent.model",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4059,
+      "line": 4198,
       "area": "github.copilot",
       "default": "\"\"",
       "tags": [
@@ -1982,7 +2012,7 @@
     {
       "name": "github.copilot.chat.feedback.onChange",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4238,
+      "line": 4407,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2006,9 +2036,36 @@
       }
     },
     {
+      "name": "github.copilot.chat.freezeCustomizationsIndex",
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4264,
+      "area": "github.copilot",
+      "default": "true",
+      "tags": [
+        "advanced",
+        "experimental",
+        "onExp"
+      ],
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
+      "addedDate": "2026-05-13",
+      "addedCommit": "f91303f",
+      "addedBy": {
+        "name": "Bhavya U",
+        "email": "bhavyau@microsoft.com"
+      },
+      "owner": {
+        "name": "Bhavya U",
+        "email": "bhavyau@microsoft.com",
+        "date": "2026-05-13",
+        "commit": "f91303f"
+      }
+    },
+    {
       "name": "github.copilot.chat.getChangedFilesTool.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4481,
+      "line": 4650,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2061,7 +2118,7 @@
     {
       "name": "github.copilot.chat.githubMcpServer.channel",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3355,
+      "line": 3503,
       "area": "github.copilot",
       "default": "\"stable\"",
       "tags": [
@@ -2086,7 +2143,7 @@
     {
       "name": "github.copilot.chat.githubMcpServer.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3315,
+      "line": 3463,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2111,7 +2168,7 @@
     {
       "name": "github.copilot.chat.githubMcpServer.lockdown",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3347,
+      "line": 3495,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2136,7 +2193,7 @@
     {
       "name": "github.copilot.chat.githubMcpServer.readonly",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3339,
+      "line": 3487,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2161,7 +2218,7 @@
     {
       "name": "github.copilot.chat.githubMcpServer.toolsets",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3326,
+      "line": 3474,
       "area": "github.copilot",
       "default": "[\"default\"]",
       "tags": [
@@ -2185,34 +2242,60 @@
     },
     {
       "name": "github.copilot.chat.gpt54ConcisePrompt.enabled",
-      "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3872,
+      "file": "[Copilot Chat] package.json",
+      "line": 3820,
       "area": "github.copilot",
       "default": "false",
       "tags": [
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode",
-      "repoFile": "extensions/copilot/package.json",
-      "repoName": "VS Code",
+      "repoPath": "./vscode-copilot-chat",
+      "repoFile": "package.json",
+      "repoName": "Copilot Chat",
       "addedDate": "2026-03-26",
-      "addedCommit": "b0a72ed",
+      "addedCommit": "a0c21f1",
       "addedBy": {
         "name": "dileepyavan",
         "email": "52841896+dileepyavan@users.noreply.github.com"
       },
       "owner": {
-        "name": "Matt Bierner",
-        "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "name": "dileepyavan",
+        "email": "52841896+dileepyavan@users.noreply.github.com",
+        "date": "2026-03-26",
+        "commit": "a0c21f1"
       }
     },
     {
       "name": "github.copilot.chat.gpt54LargePrompt.enabled",
+      "file": "[Copilot Chat] package.json",
+      "line": 3829,
+      "area": "github.copilot",
+      "default": "false",
+      "tags": [
+        "experimental",
+        "onExp"
+      ],
+      "repoPath": "./vscode-copilot-chat",
+      "repoFile": "package.json",
+      "repoName": "Copilot Chat",
+      "addedDate": "2026-03-26",
+      "addedCommit": "a0c21f1",
+      "addedBy": {
+        "name": "dileepyavan",
+        "email": "52841896+dileepyavan@users.noreply.github.com"
+      },
+      "owner": {
+        "name": "dileepyavan",
+        "email": "52841896+dileepyavan@users.noreply.github.com",
+        "date": "2026-03-26",
+        "commit": "a0c21f1"
+      }
+    },
+    {
+      "name": "github.copilot.chat.gpt55EconomicalSearchAndEdit.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3881,
+      "line": 4029,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2222,23 +2305,23 @@
       "repoPath": "./vscode",
       "repoFile": "extensions/copilot/package.json",
       "repoName": "VS Code",
-      "addedDate": "2026-03-26",
-      "addedCommit": "b0a72ed",
+      "addedDate": "2026-05-11",
+      "addedCommit": "56d7412",
       "addedBy": {
         "name": "dileepyavan",
         "email": "52841896+dileepyavan@users.noreply.github.com"
       },
       "owner": {
-        "name": "Matt Bierner",
-        "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "name": "dileepyavan",
+        "email": "52841896+dileepyavan@users.noreply.github.com",
+        "date": "2026-05-11",
+        "commit": "56d7412"
       }
     },
     {
       "name": "github.copilot.chat.gpt55GetChangedFilesTool.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3890,
+      "line": 4011,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -2262,9 +2345,35 @@
       }
     },
     {
+      "name": "github.copilot.chat.gpt55LargePromptSections.enabled",
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 4038,
+      "area": "github.copilot",
+      "default": "false",
+      "tags": [
+        "experimental",
+        "onExp"
+      ],
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
+      "addedDate": "2026-05-11",
+      "addedCommit": "56d7412",
+      "addedBy": {
+        "name": "dileepyavan",
+        "email": "52841896+dileepyavan@users.noreply.github.com"
+      },
+      "owner": {
+        "name": "dileepyavan",
+        "email": "52841896+dileepyavan@users.noreply.github.com",
+        "date": "2026-05-11",
+        "commit": "56d7412"
+      }
+    },
+    {
       "name": "github.copilot.chat.gpt55ReadFileTool.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3899,
+      "line": 4020,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -2290,7 +2399,7 @@
     {
       "name": "github.copilot.chat.gpt5AlternativePatch",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4591,
+      "line": 4760,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2317,7 +2426,7 @@
     {
       "name": "github.copilot.chat.imageUpload.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3380,
+      "line": 3528,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -2343,7 +2452,7 @@
     {
       "name": "github.copilot.chat.implementAgent.model",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4020,
+      "line": 4159,
       "area": "github.copilot",
       "default": "\"\"",
       "tags": [
@@ -2368,7 +2477,7 @@
     {
       "name": "github.copilot.chat.inlineChat.enableThinking",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4345,
+      "line": 4514,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2395,7 +2504,7 @@
     {
       "name": "github.copilot.chat.inlineChat.reasoningEffort",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4328,
+      "line": 4497,
       "area": "github.copilot",
       "default": "\"low\"",
       "tags": [
@@ -2449,7 +2558,7 @@
     {
       "name": "github.copilot.chat.inlineEdits.chatSessionContextProvider.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4374,
+      "line": 4543,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2476,7 +2585,7 @@
     {
       "name": "github.copilot.chat.inlineEdits.diagnosticsContextProvider.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4364,
+      "line": 4533,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2503,7 +2612,7 @@
     {
       "name": "github.copilot.chat.inlineEdits.nextCursorPrediction.currentFileMaxTokens",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4624,
+      "line": 4793,
       "area": "github.copilot",
       "default": "3000",
       "tags": [
@@ -2530,7 +2639,7 @@
     {
       "name": "github.copilot.chat.inlineEdits.nextCursorPrediction.displayLine",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4614,
+      "line": 4783,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -2557,7 +2666,7 @@
     {
       "name": "github.copilot.chat.inlineEdits.renameSymbolSuggestions",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4634,
+      "line": 4803,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -2584,7 +2693,7 @@
     {
       "name": "github.copilot.chat.inlineEdits.triggerOnEditorChangeAfterSeconds",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4601,
+      "line": 4770,
       "area": "github.copilot",
       "default": "10",
       "tags": [
@@ -2611,7 +2720,7 @@
     {
       "name": "github.copilot.chat.inlineEdits.xtabProvider.modelConfiguration",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4082,
+      "line": 4221,
       "area": "github.copilot",
       "default": "null",
       "tags": [
@@ -2637,7 +2746,7 @@
     {
       "name": "github.copilot.chat.installExtensionSkill.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4105,
+      "line": 4274,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2664,7 +2773,7 @@
     {
       "name": "github.copilot.chat.instantApply.shortContextLimit",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4453,
+      "line": 4622,
       "area": "github.copilot",
       "default": "8000",
       "tags": [
@@ -2691,7 +2800,7 @@
     {
       "name": "github.copilot.chat.instantApply.shortContextModelName",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4443,
+      "line": 4612,
       "area": "github.copilot",
       "default": "\"gpt-4o-instant-apply-full-ft-v66-short\"",
       "tags": [
@@ -2718,7 +2827,7 @@
     {
       "name": "github.copilot.chat.languageContext.fix.typescript.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3711,
+      "line": 3859,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2744,7 +2853,7 @@
     {
       "name": "github.copilot.chat.languageContext.inline.typescript.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3721,
+      "line": 3869,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2770,7 +2879,7 @@
     {
       "name": "github.copilot.chat.languageContext.typescript.cacheTimeout",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3701,
+      "line": 3849,
       "area": "github.copilot",
       "default": "500",
       "tags": [
@@ -2796,7 +2905,7 @@
     {
       "name": "github.copilot.chat.languageContext.typescript.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3662,
+      "line": 3810,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -2822,7 +2931,7 @@
     {
       "name": "github.copilot.chat.languageContext.typescript.includeDocumentation",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3691,
+      "line": 3839,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2848,7 +2957,7 @@
     {
       "name": "github.copilot.chat.languageContext.typescript.items",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3675,
+      "line": 3823,
       "area": "github.copilot",
       "default": "\"double\"",
       "tags": [
@@ -2874,7 +2983,7 @@
     {
       "name": "github.copilot.chat.localIndex.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4068,
+      "line": 4207,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2900,7 +3009,7 @@
     {
       "name": "github.copilot.chat.localWorkspaceRecording.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4310,
+      "line": 4479,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2926,7 +3035,7 @@
     {
       "name": "github.copilot.chat.nesFetcher",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3993,
+      "line": 4132,
       "area": "github.copilot",
       "default": null,
       "tags": [
@@ -2952,7 +3061,7 @@
     {
       "name": "github.copilot.chat.newWorkspace.useContext7",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3739,
+      "line": 3887,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2977,7 +3086,7 @@
     {
       "name": "github.copilot.chat.newWorkspaceCreation.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3731,
+      "line": 3879,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -3002,7 +3111,7 @@
     {
       "name": "github.copilot.chat.notebook.alternativeFormat",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4274,
+      "line": 4443,
       "area": "github.copilot",
       "default": "\"xml\"",
       "tags": [
@@ -3029,7 +3138,7 @@
     {
       "name": "github.copilot.chat.notebook.alternativeNESFormat.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4288,
+      "line": 4457,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -3056,7 +3165,7 @@
     {
       "name": "github.copilot.chat.notebook.enhancedNextEditSuggestions.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3755,
+      "line": 3903,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -3082,7 +3191,7 @@
     {
       "name": "github.copilot.chat.notebook.followCellExecution.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3747,
+      "line": 3895,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -3107,7 +3216,7 @@
     {
       "name": "github.copilot.chat.notebook.summaryExperimentEnabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4256,
+      "line": 4425,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -3133,7 +3242,7 @@
     {
       "name": "github.copilot.chat.notebook.variableFilteringEnabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4265,
+      "line": 4434,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -3159,7 +3268,7 @@
     {
       "name": "github.copilot.chat.omitBaseAgentInstructions",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4562,
+      "line": 4731,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -3185,7 +3294,7 @@
     {
       "name": "github.copilot.chat.planAgent.additionalTools",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4008,
+      "line": 4147,
       "area": "github.copilot",
       "default": "[]",
       "tags": [
@@ -3210,7 +3319,7 @@
     {
       "name": "github.copilot.chat.projectLabels.chat",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4179,
+      "line": 4348,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -3237,7 +3346,7 @@
     {
       "name": "github.copilot.chat.projectLabels.expanded",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4169,
+      "line": 4338,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -3264,7 +3373,7 @@
     {
       "name": "github.copilot.chat.projectLabels.inline",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4189,
+      "line": 4358,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -3291,7 +3400,7 @@
     {
       "name": "github.copilot.chat.projectSetupInfoSkill.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4115,
+      "line": 4284,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -3318,7 +3427,7 @@
     {
       "name": "github.copilot.chat.promptFileContextProvider.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4571,
+      "line": 4740,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -3345,7 +3454,7 @@
     {
       "name": "github.copilot.chat.pullRequestDescriptionGeneration.instructions",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3592,
+      "line": 3740,
       "area": "github.copilot",
       "default": "[]",
       "tags": [
@@ -3370,7 +3479,7 @@
     {
       "name": "github.copilot.chat.responsesApi.promptCacheKey.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3836,
+      "line": 3984,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -3394,35 +3503,9 @@
       }
     },
     {
-      "name": "github.copilot.chat.responsesApi.toolSearchTool.enabled",
-      "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3845,
-      "area": "github.copilot",
-      "default": "false",
-      "tags": [
-        "experimental",
-        "onExp"
-      ],
-      "repoPath": "./vscode",
-      "repoFile": "extensions/copilot/package.json",
-      "repoName": "VS Code",
-      "addedDate": "2026-04-22",
-      "addedCommit": "a14d030",
-      "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
-      },
-      "owner": {
-        "name": "Matt Bierner",
-        "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
-      }
-    },
-    {
       "name": "github.copilot.chat.responsesApiContextManagement.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3827,
+      "line": 3975,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -3448,7 +3531,7 @@
     {
       "name": "github.copilot.chat.responsesApiReasoningSummary",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3814,
+      "line": 3962,
       "area": "github.copilot",
       "default": "\"detailed\"",
       "tags": [
@@ -3474,7 +3557,7 @@
     {
       "name": "github.copilot.chat.review.intent",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4247,
+      "line": 4416,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -3500,7 +3583,7 @@
     {
       "name": "github.copilot.chat.searchSubagent.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4844,
+      "line": 5013,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -3527,7 +3610,7 @@
     {
       "name": "github.copilot.chat.searchSubagent.model",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4862,
+      "line": 5031,
       "area": "github.copilot",
       "default": "\"\"",
       "tags": [
@@ -3554,7 +3637,7 @@
     {
       "name": "github.copilot.chat.searchSubagent.thoroughnessEnabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4882,
+      "line": 5051,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -3581,7 +3664,7 @@
     {
       "name": "github.copilot.chat.searchSubagent.toolCallLimit",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4872,
+      "line": 5041,
       "area": "github.copilot",
       "default": "4",
       "tags": [
@@ -3608,7 +3691,7 @@
     {
       "name": "github.copilot.chat.setupTests.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3654,
+      "line": 3802,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -3633,7 +3716,7 @@
     {
       "name": "github.copilot.chat.skillTool.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4472,
+      "line": 4641,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -3659,7 +3742,7 @@
     {
       "name": "github.copilot.chat.summarizeAgentConversationHistory.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3764,
+      "line": 3912,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -3684,7 +3767,7 @@
     {
       "name": "github.copilot.chat.summarizeAgentConversationHistoryThreshold",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4531,
+      "line": 4700,
       "area": "github.copilot",
       "default": null,
       "tags": [
@@ -3710,7 +3793,7 @@
     {
       "name": "github.copilot.chat.switchAgent.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3371,
+      "line": 3519,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -3736,7 +3819,7 @@
     {
       "name": "github.copilot.chat.testGeneration.instructions",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3461,
+      "line": 3609,
       "area": "github.copilot",
       "default": "[]",
       "tags": [
@@ -3761,7 +3844,7 @@
     {
       "name": "github.copilot.chat.tools.defaultToolsGrouped",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4581,
+      "line": 4750,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -3787,33 +3870,33 @@
     },
     {
       "name": "github.copilot.chat.tools.memory.enabled",
-      "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3293,
+      "file": "[Copilot Chat] package.json",
+      "line": 3217,
       "area": "github.copilot",
       "default": "true",
       "tags": [
         "preview"
       ],
-      "repoPath": "./vscode",
-      "repoFile": "extensions/copilot/package.json",
-      "repoName": "VS Code",
+      "repoPath": "./vscode-copilot-chat",
+      "repoFile": "package.json",
+      "repoName": "Copilot Chat",
       "addedDate": "2025-10-30",
-      "addedCommit": "e639b4f",
+      "addedCommit": "3c7bf6c",
       "addedBy": {
         "name": "Bhavya U",
         "email": "bhavyau@microsoft.com"
       },
       "owner": {
-        "name": "Matt Bierner",
-        "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "name": "Bhavya U",
+        "email": "bhavyau@microsoft.com",
+        "date": "2026-02-08",
+        "commit": "bd62c33"
       }
     },
     {
       "name": "github.copilot.chat.tools.viewImage.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3301,
+      "line": 3449,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -3839,7 +3922,7 @@
     {
       "name": "github.copilot.chat.updated53CodexPrompt.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3854,
+      "line": 3993,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -3865,7 +3948,7 @@
     {
       "name": "github.copilot.chat.useResponsesApiTruncation",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4553,
+      "line": 4722,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -3891,7 +3974,7 @@
     {
       "name": "github.copilot.chat.virtualTools.threshold",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3772,
+      "line": 3920,
       "area": "github.copilot",
       "default": "128",
       "tags": [
@@ -3916,7 +3999,7 @@
     {
       "name": "github.copilot.chat.workspace.enableCodeSearch",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4209,
+      "line": 4378,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -3970,7 +4053,7 @@
     {
       "name": "github.copilot.chat.workspace.maxLocalIndexSize",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4199,
+      "line": 4368,
       "area": "github.copilot",
       "default": "100000",
       "tags": [
@@ -3997,7 +4080,7 @@
     {
       "name": "github.copilot.chat.workspace.preferredEmbeddingsModel",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4219,
+      "line": 4388,
       "area": "github.copilot",
       "default": "\"\"",
       "tags": [
@@ -4024,7 +4107,7 @@
     {
       "name": "github.copilot.chat.workspace.prototypeAdoCodeSearchEndpointOverride",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4229,
+      "line": 4398,
       "area": "github.copilot",
       "default": "\"\"",
       "tags": [
@@ -4050,7 +4133,7 @@
     {
       "name": "github.copilot.nextEditSuggestions.eagerness",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4654,
+      "line": 4823,
       "area": "github.copilot",
       "default": "\"auto\"",
       "tags": [
@@ -4076,7 +4159,7 @@
     {
       "name": "github.copilot.nextEditSuggestions.preferredModel",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4644,
+      "line": 4813,
       "area": "github.copilot",
       "default": "\"none\"",
       "tags": [
@@ -4276,9 +4359,34 @@
       }
     },
     {
+      "name": "search.experimental.useIgnoreFilesInFindFiles",
+      "file": "[VS Code] src/vs/workbench/contrib/search/browser/search.contribution.ts",
+      "line": 317,
+      "area": "search.experimental",
+      "default": "false",
+      "tags": [
+        "experimental"
+      ],
+      "repoPath": "./vscode",
+      "repoFile": "src/vs/workbench/contrib/search/browser/search.contribution.ts",
+      "repoName": "VS Code",
+      "addedDate": "2026-05-13",
+      "addedCommit": "b02737d",
+      "addedBy": {
+        "name": "Osvaldo Ortega",
+        "email": "48293249+osortega@users.noreply.github.com"
+      },
+      "owner": {
+        "name": "Osvaldo Ortega",
+        "email": "48293249+osortega@users.noreply.github.com",
+        "date": "2026-05-14",
+        "commit": "b02737d"
+      }
+    },
+    {
       "name": "search.searchView.keywordSuggestions",
       "file": "[VS Code] src/vs/workbench/contrib/search/browser/search.contribution.ts",
-      "line": 342,
+      "line": 335,
       "area": "search.searchView",
       "default": "false",
       "tags": [
@@ -4303,7 +4411,7 @@
     {
       "name": "search.searchView.semanticSearchBehavior",
       "file": "[VS Code] src/vs/workbench/contrib/search/browser/search.contribution.ts",
-      "line": 330,
+      "line": 323,
       "area": "search.searchView",
       "default": "<computed>",
       "tags": [
