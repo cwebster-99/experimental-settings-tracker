@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-18T12:28:27.158Z",
+  "timestamp": "2026-05-25T12:28:45.105Z",
   "count": 182,
   "settings": [
     {
@@ -29,33 +29,33 @@
     },
     {
       "name": "chat.agent.thinking.collapsedTools",
-      "file": "[VS Code] src/vs/workbench/contrib/chat/browser/chat.contribution.ts",
-      "line": 1552,
+      "file": "[VS Code] src/vs/workbench/contrib/chat/browser/chat.shared.contribution.ts",
+      "line": 1542,
       "area": "chat.agent",
       "default": "'always'",
       "tags": [
         "experimental"
       ],
       "repoPath": "./vscode",
-      "repoFile": "src/vs/workbench/contrib/chat/browser/chat.contribution.ts",
+      "repoFile": "src/vs/workbench/contrib/chat/browser/chat.shared.contribution.ts",
       "repoName": "VS Code",
-      "addedDate": "2025-10-26",
-      "addedCommit": "bcb34d6",
+      "addedDate": "2026-05-19",
+      "addedCommit": "b34312d",
       "addedBy": {
-        "name": "Justin Chen",
-        "email": "54879025+justschen@users.noreply.github.com"
+        "name": "vs-code-engineering[bot]",
+        "email": "122617954+vs-code-engineering[bot]@users.noreply.github.com"
       },
       "owner": {
-        "name": "Justin Chen",
-        "email": "54879025+justschen@users.noreply.github.com",
-        "date": "2025-10-26",
-        "commit": "bcb34d6"
+        "name": "vs-code-engineering[bot]",
+        "email": "122617954+vs-code-engineering[bot]@users.noreply.github.com",
+        "date": "2026-05-19",
+        "commit": "b34312d"
       }
     },
     {
       "name": "chat.agentHost.forwardSSHAgent",
       "file": "[VS Code] src/vs/sessions/contrib/providers/remoteAgentHost/browser/remoteAgentHost.contribution.ts",
-      "line": 846,
+      "line": 904,
       "area": "chat.agentHost",
       "default": "false",
       "tags": [
@@ -80,158 +80,158 @@
     },
     {
       "name": "chat.allowAnonymousAccess",
-      "file": "[VS Code] src/vs/workbench/contrib/chat/browser/chat.contribution.ts",
-      "line": 1650,
+      "file": "[VS Code] src/vs/workbench/contrib/chat/browser/chat.shared.contribution.ts",
+      "line": 1640,
       "area": "chat.allowAnonymousAccess",
       "default": "false",
       "tags": [
         "experimental"
       ],
       "repoPath": "./vscode",
-      "repoFile": "src/vs/workbench/contrib/chat/browser/chat.contribution.ts",
+      "repoFile": "src/vs/workbench/contrib/chat/browser/chat.shared.contribution.ts",
       "repoName": "VS Code",
-      "addedDate": "2025-09-09",
-      "addedCommit": "8a48ecc",
+      "addedDate": "2026-05-19",
+      "addedCommit": "b34312d",
       "addedBy": {
-        "name": "Benjamin Pasero",
-        "email": "benjamin.pasero@gmail.com"
+        "name": "vs-code-engineering[bot]",
+        "email": "122617954+vs-code-engineering[bot]@users.noreply.github.com"
       },
       "owner": {
-        "name": "Benjamin Pasero",
-        "email": "benjamin.pasero@gmail.com",
-        "date": "2025-09-09",
-        "commit": "8a48ecc"
+        "name": "vs-code-engineering[bot]",
+        "email": "122617954+vs-code-engineering[bot]@users.noreply.github.com",
+        "date": "2026-05-19",
+        "commit": "b34312d"
       }
     },
     {
       "name": "chat.editing.explainChanges.enabled",
-      "file": "[VS Code] src/vs/workbench/contrib/chat/browser/chat.contribution.ts",
-      "line": 334,
+      "file": "[VS Code] src/vs/workbench/contrib/chat/browser/chat.shared.contribution.ts",
+      "line": 333,
       "area": "chat.editing",
       "default": "false",
       "tags": [
         "experimental"
       ],
       "repoPath": "./vscode",
-      "repoFile": "src/vs/workbench/contrib/chat/browser/chat.contribution.ts",
+      "repoFile": "src/vs/workbench/contrib/chat/browser/chat.shared.contribution.ts",
       "repoName": "VS Code",
-      "addedDate": "2026-01-22",
-      "addedCommit": "6ed950d",
+      "addedDate": "2026-05-19",
+      "addedCommit": "b34312d",
       "addedBy": {
-        "name": "Christof Marti",
-        "email": "chrmarti@microsoft.com"
+        "name": "vs-code-engineering[bot]",
+        "email": "122617954+vs-code-engineering[bot]@users.noreply.github.com"
       },
       "owner": {
-        "name": "Christof Marti",
-        "email": "chrmarti@microsoft.com",
-        "date": "2026-01-22",
-        "commit": "6ed950d"
+        "name": "vs-code-engineering[bot]",
+        "email": "122617954+vs-code-engineering[bot]@users.noreply.github.com",
+        "date": "2026-05-19",
+        "commit": "b34312d"
       }
     },
     {
       "name": "chat.experimentalSessionsWindowOverride",
-      "file": "[VS Code] src/vs/workbench/contrib/chat/browser/chat.contribution.ts",
-      "line": 218,
+      "file": "[VS Code] src/vs/workbench/contrib/chat/browser/chat.shared.contribution.ts",
+      "line": 217,
       "area": "chat.experimentalSessionsWindowOverride",
       "default": "false",
       "tags": [
         "experimental"
       ],
       "repoPath": "./vscode",
-      "repoFile": "src/vs/workbench/contrib/chat/browser/chat.contribution.ts",
+      "repoFile": "src/vs/workbench/contrib/chat/browser/chat.shared.contribution.ts",
       "repoName": "VS Code",
-      "addedDate": "2026-03-02",
-      "addedCommit": "17e9389",
+      "addedDate": "2026-05-19",
+      "addedCommit": "b34312d",
       "addedBy": {
-        "name": "Josh Spicer",
-        "email": "23246594+joshspicer@users.noreply.github.com"
+        "name": "vs-code-engineering[bot]",
+        "email": "122617954+vs-code-engineering[bot]@users.noreply.github.com"
       },
       "owner": {
-        "name": "Josh Spicer",
-        "email": "23246594+joshspicer@users.noreply.github.com",
-        "date": "2026-03-03",
-        "commit": "17e9389"
+        "name": "vs-code-engineering[bot]",
+        "email": "122617954+vs-code-engineering[bot]@users.noreply.github.com",
+        "date": "2026-05-19",
+        "commit": "b34312d"
       }
     },
     {
       "name": "chat.extensionUnification.enabled",
-      "file": "[VS Code] src/vs/workbench/contrib/chat/browser/chat.contribution.ts",
-      "line": 1679,
+      "file": "[VS Code] src/vs/workbench/contrib/chat/browser/chat.shared.contribution.ts",
+      "line": 1670,
       "area": "chat.extensionUnification",
       "default": "true",
       "tags": [
         "experimental"
       ],
       "repoPath": "./vscode",
-      "repoFile": "src/vs/workbench/contrib/chat/browser/chat.contribution.ts",
+      "repoFile": "src/vs/workbench/contrib/chat/browser/chat.shared.contribution.ts",
       "repoName": "VS Code",
-      "addedDate": "2025-10-30",
-      "addedCommit": "f999025",
+      "addedDate": "2026-05-19",
+      "addedCommit": "b34312d",
       "addedBy": {
-        "name": "Benjamin Christopher Simmonds",
-        "email": "44439583+benibenj@users.noreply.github.com"
+        "name": "vs-code-engineering[bot]",
+        "email": "122617954+vs-code-engineering[bot]@users.noreply.github.com"
       },
       "owner": {
-        "name": "Benjamin Christopher Simmonds",
-        "email": "44439583+benibenj@users.noreply.github.com",
-        "date": "2025-10-30",
-        "commit": "f999025"
+        "name": "vs-code-engineering[bot]",
+        "email": "122617954+vs-code-engineering[bot]@users.noreply.github.com",
+        "date": "2026-05-19",
+        "commit": "b34312d"
       }
     },
     {
       "name": "chat.implicitContext.enabled",
-      "file": "[VS Code] src/vs/workbench/contrib/chat/browser/chat.contribution.ts",
-      "line": 287,
+      "file": "[VS Code] src/vs/workbench/contrib/chat/browser/chat.shared.contribution.ts",
+      "line": 286,
       "area": "chat.implicitContext",
       "default": "{",
       "tags": [
         "experimental"
       ],
       "repoPath": "./vscode",
-      "repoFile": "src/vs/workbench/contrib/chat/browser/chat.contribution.ts",
+      "repoFile": "src/vs/workbench/contrib/chat/browser/chat.shared.contribution.ts",
       "repoName": "VS Code",
-      "addedDate": "2025-02-24",
-      "addedCommit": "a0055ca",
+      "addedDate": "2026-05-19",
+      "addedCommit": "b34312d",
       "addedBy": {
-        "name": "Joyce Er",
-        "email": "30305945+joyceerhl@users.noreply.github.com"
+        "name": "vs-code-engineering[bot]",
+        "email": "122617954+vs-code-engineering[bot]@users.noreply.github.com"
       },
       "owner": {
-        "name": "Joyce Er",
-        "email": "30305945+joyceerhl@users.noreply.github.com",
-        "date": "2025-02-24",
-        "commit": "a0055ca"
+        "name": "vs-code-engineering[bot]",
+        "email": "122617954+vs-code-engineering[bot]@users.noreply.github.com",
+        "date": "2026-05-19",
+        "commit": "b34312d"
       }
     },
     {
       "name": "chat.sendElementsToChat.attachImages",
-      "file": "[VS Code] src/vs/workbench/contrib/chat/browser/chat.contribution.ts",
-      "line": 589,
+      "file": "[VS Code] src/vs/workbench/contrib/chat/browser/chat.shared.contribution.ts",
+      "line": 590,
       "area": "chat.sendElementsToChat",
       "default": "true",
       "tags": [
         "experimental"
       ],
       "repoPath": "./vscode",
-      "repoFile": "src/vs/workbench/contrib/chat/browser/chat.contribution.ts",
+      "repoFile": "src/vs/workbench/contrib/chat/browser/chat.shared.contribution.ts",
       "repoName": "VS Code",
-      "addedDate": "2025-04-27",
-      "addedCommit": "e537209",
+      "addedDate": "2026-05-19",
+      "addedCommit": "b34312d",
       "addedBy": {
-        "name": "Justin Chen",
-        "email": "54879025+justschen@users.noreply.github.com"
+        "name": "vs-code-engineering[bot]",
+        "email": "122617954+vs-code-engineering[bot]@users.noreply.github.com"
       },
       "owner": {
-        "name": "Justin Chen",
-        "email": "54879025+justschen@users.noreply.github.com",
-        "date": "2025-04-28",
-        "commit": "e537209"
+        "name": "vs-code-engineering[bot]",
+        "email": "122617954+vs-code-engineering[bot]@users.noreply.github.com",
+        "date": "2026-05-19",
+        "commit": "b34312d"
       }
     },
     {
       "name": "chat.sshRemoteAgentHostCommand",
       "file": "[VS Code] src/vs/sessions/contrib/providers/remoteAgentHost/browser/remoteAgentHost.contribution.ts",
-      "line": 839,
+      "line": 897,
       "area": "chat.sshRemoteAgentHostCommand",
       "default": "''",
       "tags": [
@@ -633,7 +633,7 @@
     {
       "name": "github.copilot.chat.agent.backgroundTodoAgent.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4582,
+      "line": 4595,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -651,16 +651,16 @@
         "email": "vritoku@gmail.com"
       },
       "owner": {
-        "name": "vritant24",
-        "email": "vritoku@gmail.com",
-        "date": "2026-05-03",
-        "commit": "29d11b9"
+        "name": "Matt Bierner",
+        "email": "12821956+mjbvz@users.noreply.github.com",
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.agent.largeToolResultsToDisk.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4592,
+      "line": 4605,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -680,14 +680,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.agent.largeToolResultsToDisk.thresholdBytes",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4602,
+      "line": 4615,
       "area": "github.copilot",
       "default": "8192",
       "tags": [
@@ -707,14 +707,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.agent.omitFileAttachmentContents",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4573,
+      "line": 4586,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -733,14 +733,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.agent.temperature",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4562,
+      "line": 4575,
       "area": "github.copilot",
       "default": null,
       "tags": [
@@ -759,14 +759,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.agentDebugLog.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 5061,
+      "line": 5074,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -785,14 +785,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.agentDebugLog.fileLogging.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 5071,
+      "line": 5084,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -812,14 +812,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.agentDebugLog.fileLogging.flushIntervalMs",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 5081,
+      "line": 5094,
       "area": "github.copilot",
       "default": "4000",
       "tags": [
@@ -838,14 +838,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.agentDebugLog.fileLogging.maxRetainedSessionLogs",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 5091,
+      "line": 5104,
       "area": "github.copilot",
       "default": "50",
       "tags": [
@@ -865,14 +865,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.agentDebugLog.fileLogging.maxSessionLogSizeMB",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 5102,
+      "line": 5115,
       "area": "github.copilot",
       "default": "100",
       "tags": [
@@ -892,8 +892,8 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
@@ -926,7 +926,7 @@
     {
       "name": "github.copilot.chat.agentHistorySummarizationMode",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4711,
+      "line": 4724,
       "area": "github.copilot",
       "default": null,
       "tags": [
@@ -945,14 +945,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.alternateGeminiModelFPrompt.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3938,
+      "line": 3953,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -971,14 +971,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.alternateGptPrompt.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3930,
+      "line": 3945,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -996,14 +996,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.anthropic.contextEditing.mode",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3947,
+      "line": 3962,
       "area": "github.copilot",
       "default": "\"off\"",
       "tags": [
@@ -1022,14 +1022,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.anthropic.promptCaching.extendedTtl",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4244,
+      "line": 4259,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1047,16 +1047,16 @@
         "email": "bhavyau@microsoft.com"
       },
       "owner": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com",
-        "date": "2026-05-13",
-        "commit": "c305abc"
+        "name": "Matt Bierner",
+        "email": "12821956+mjbvz@users.noreply.github.com",
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.anthropic.promptCaching.extendedTtlMessages",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4254,
+      "line": 4269,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1074,16 +1074,16 @@
         "email": "bhavyau@microsoft.com"
       },
       "owner": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com",
-        "date": "2026-05-15",
-        "commit": "0bd2387"
+        "name": "Matt Bierner",
+        "email": "12821956+mjbvz@users.noreply.github.com",
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.anthropic.tools.websearch.allowedDomains",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4066,
+      "line": 4081,
       "area": "github.copilot",
       "default": "[]",
       "tags": [
@@ -1101,14 +1101,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.anthropic.tools.websearch.blockedDomains",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4077,
+      "line": 4092,
       "area": "github.copilot",
       "default": "[]",
       "tags": [
@@ -1126,14 +1126,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.anthropic.tools.websearch.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4047,
+      "line": 4062,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1152,14 +1152,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.anthropic.tools.websearch.maxUses",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4056,
+      "line": 4071,
       "area": "github.copilot",
       "default": "5",
       "tags": [
@@ -1177,14 +1177,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.anthropic.tools.websearch.userLocation",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4088,
+      "line": 4103,
       "area": "github.copilot",
       "default": "null",
       "tags": [
@@ -1202,8 +1202,8 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
@@ -1260,7 +1260,7 @@
     {
       "name": "github.copilot.chat.askAgent.additionalTools",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4168,
+      "line": 4183,
       "area": "github.copilot",
       "default": "[]",
       "tags": [
@@ -1278,14 +1278,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.askAgent.model",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4180,
+      "line": 4195,
       "area": "github.copilot",
       "default": "\"\"",
       "tags": [
@@ -1303,8 +1303,8 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
@@ -1336,7 +1336,7 @@
     {
       "name": "github.copilot.chat.claude47OpusPrompt.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4002,
+      "line": 4017,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1353,16 +1353,16 @@
         "email": "bhavyau@microsoft.com"
       },
       "owner": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com",
-        "date": "2026-05-04",
-        "commit": "5c4d9a2"
+        "name": "Matt Bierner",
+        "email": "12821956+mjbvz@users.noreply.github.com",
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.claudeAgent.allowAutoPermissions",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3424,
+      "line": 3423,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1379,16 +1379,16 @@
         "email": "2644648+TylerLeonhardt@users.noreply.github.com"
       },
       "owner": {
-        "name": "Tyler James Leonhardt",
-        "email": "2644648+TylerLeonhardt@users.noreply.github.com",
-        "date": "2026-05-13",
-        "commit": "c5d2bfd"
+        "name": "Matt Bierner",
+        "email": "12821956+mjbvz@users.noreply.github.com",
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.cli.autoCommit.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4954,
+      "line": 4967,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -1407,14 +1407,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.cli.mcp.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4850,
+      "line": 4863,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -1433,14 +1433,39 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
+      }
+    },
+    {
+      "name": "github.copilot.chat.cloudAgentBackend.version",
+      "file": "[VS Code] extensions/copilot/package.json",
+      "line": 3518,
+      "area": "github.copilot",
+      "default": "\"v1\"",
+      "tags": [
+        "experimental"
+      ],
+      "repoPath": "./vscode",
+      "repoFile": "extensions/copilot/package.json",
+      "repoName": "VS Code",
+      "addedDate": "2026-05-19",
+      "addedCommit": "c96dc55",
+      "addedBy": {
+        "name": "Osvaldo Ortega",
+        "email": "48293249+osortega@users.noreply.github.com"
+      },
+      "owner": {
+        "name": "Matt Bierner",
+        "email": "12821956+mjbvz@users.noreply.github.com",
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.codeGeneration.instructions",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3537,
+      "line": 3552,
       "area": "github.copilot",
       "default": "[]",
       "tags": [
@@ -1458,14 +1483,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.codesearch.agent.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4553,
+      "line": 4566,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -1484,14 +1509,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.codesearch.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3441,
+      "line": 3440,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1509,14 +1534,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.commitMessageGeneration.instructions",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3678,
+      "line": 3693,
       "area": "github.copilot",
       "default": "[]",
       "tags": [
@@ -1534,14 +1559,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.completionsFetcher",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4117,
+      "line": 4132,
       "area": "github.copilot",
       "default": null,
       "tags": [
@@ -1560,8 +1585,8 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
@@ -1593,7 +1618,7 @@
     {
       "name": "github.copilot.chat.copilotDebugCommand.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3433,
+      "line": 3432,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -1611,8 +1636,8 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
@@ -1643,7 +1668,7 @@
     {
       "name": "github.copilot.chat.debug.promptOverrideFile",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4306,
+      "line": 4319,
       "area": "github.copilot",
       "default": "null",
       "tags": [
@@ -1662,14 +1687,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.debug.promptOverrideString",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4294,
+      "line": 4307,
       "area": "github.copilot",
       "default": "null",
       "tags": [
@@ -1688,14 +1713,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.debug.requestLogger.maxEntries",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4524,
+      "line": 4537,
       "area": "github.copilot",
       "default": "100",
       "tags": [
@@ -1714,14 +1739,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.debugTerminalCommandPatterns",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4467,
+      "line": 4480,
       "area": "github.copilot",
       "default": "[]",
       "tags": [
@@ -1740,14 +1765,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.editRecording.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4488,
+      "line": 4501,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1766,14 +1791,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.edits.batchReplaceStringDescriptions",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4328,
+      "line": 4341,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1793,14 +1818,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.edits.gemini3MultiReplaceString",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4318,
+      "line": 4331,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1820,14 +1845,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.enableUserPreferences",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4632,
+      "line": 4645,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1846,14 +1871,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.executionSubagent.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4660,
+      "line": 4673,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1873,14 +1898,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.executionSubagent.model",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4670,
+      "line": 4683,
       "area": "github.copilot",
       "default": "\"\"",
       "tags": [
@@ -1900,14 +1925,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.executionSubagent.toolCallLimit",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4690,
+      "line": 4703,
       "area": "github.copilot",
       "default": "10",
       "tags": [
@@ -1927,14 +1952,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.executionSubagent.useAgenticProxy",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4680,
+      "line": 4693,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -1954,14 +1979,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.exploreAgent.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4189,
+      "line": 4204,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -1980,14 +2005,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.exploreAgent.model",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4198,
+      "line": 4213,
       "area": "github.copilot",
       "default": "\"\"",
       "tags": [
@@ -2005,14 +2030,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.feedback.onChange",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4407,
+      "line": 4420,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2031,41 +2056,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
-      }
-    },
-    {
-      "name": "github.copilot.chat.freezeCustomizationsIndex",
-      "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4264,
-      "area": "github.copilot",
-      "default": "true",
-      "tags": [
-        "advanced",
-        "experimental",
-        "onExp"
-      ],
-      "repoPath": "./vscode",
-      "repoFile": "extensions/copilot/package.json",
-      "repoName": "VS Code",
-      "addedDate": "2026-05-13",
-      "addedCommit": "f91303f",
-      "addedBy": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com"
-      },
-      "owner": {
-        "name": "Bhavya U",
-        "email": "bhavyau@microsoft.com",
-        "date": "2026-05-13",
-        "commit": "f91303f"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.getChangedFilesTool.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4650,
+      "line": 4663,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2083,10 +2081,10 @@
         "email": "inikolic@microsoft.com"
       },
       "owner": {
-        "name": "Isidor",
-        "email": "inikolic@microsoft.com",
-        "date": "2026-05-07",
-        "commit": "9ea52c6"
+        "name": "Matt Bierner",
+        "email": "12821956+mjbvz@users.noreply.github.com",
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
@@ -2118,7 +2116,7 @@
     {
       "name": "github.copilot.chat.githubMcpServer.channel",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3503,
+      "line": 3502,
       "area": "github.copilot",
       "default": "\"stable\"",
       "tags": [
@@ -2136,14 +2134,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.githubMcpServer.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3463,
+      "line": 3462,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2161,14 +2159,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.githubMcpServer.lockdown",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3495,
+      "line": 3494,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2186,14 +2184,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.githubMcpServer.readonly",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3487,
+      "line": 3486,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2211,14 +2209,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.githubMcpServer.toolsets",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3474,
+      "line": 3473,
       "area": "github.copilot",
       "default": "[\"default\"]",
       "tags": [
@@ -2236,8 +2234,8 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
@@ -2295,7 +2293,7 @@
     {
       "name": "github.copilot.chat.gpt55EconomicalSearchAndEdit.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4029,
+      "line": 4044,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2312,16 +2310,16 @@
         "email": "52841896+dileepyavan@users.noreply.github.com"
       },
       "owner": {
-        "name": "dileepyavan",
-        "email": "52841896+dileepyavan@users.noreply.github.com",
-        "date": "2026-05-11",
-        "commit": "56d7412"
+        "name": "Matt Bierner",
+        "email": "12821956+mjbvz@users.noreply.github.com",
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.gpt55GetChangedFilesTool.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4011,
+      "line": 4026,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -2338,16 +2336,16 @@
         "email": "52841896+dileepyavan@users.noreply.github.com"
       },
       "owner": {
-        "name": "dileepyavan",
-        "email": "52841896+dileepyavan@users.noreply.github.com",
-        "date": "2026-05-07",
-        "commit": "b065104"
+        "name": "Matt Bierner",
+        "email": "12821956+mjbvz@users.noreply.github.com",
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.gpt55LargePromptSections.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4038,
+      "line": 4053,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2364,16 +2362,16 @@
         "email": "52841896+dileepyavan@users.noreply.github.com"
       },
       "owner": {
-        "name": "dileepyavan",
-        "email": "52841896+dileepyavan@users.noreply.github.com",
-        "date": "2026-05-11",
-        "commit": "56d7412"
+        "name": "Matt Bierner",
+        "email": "12821956+mjbvz@users.noreply.github.com",
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.gpt55ReadFileTool.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4020,
+      "line": 4035,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -2390,16 +2388,16 @@
         "email": "52841896+dileepyavan@users.noreply.github.com"
       },
       "owner": {
-        "name": "dileepyavan",
-        "email": "52841896+dileepyavan@users.noreply.github.com",
-        "date": "2026-05-07",
-        "commit": "b065104"
+        "name": "Matt Bierner",
+        "email": "12821956+mjbvz@users.noreply.github.com",
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.gpt5AlternativePatch",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4760,
+      "line": 4773,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2419,14 +2417,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.imageUpload.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3528,
+      "line": 3543,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -2445,14 +2443,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.implementAgent.model",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4159,
+      "line": 4174,
       "area": "github.copilot",
       "default": "\"\"",
       "tags": [
@@ -2470,14 +2468,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.inlineChat.enableThinking",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4514,
+      "line": 4527,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2497,14 +2495,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.inlineChat.reasoningEffort",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4497,
+      "line": 4510,
       "area": "github.copilot",
       "default": "\"low\"",
       "tags": [
@@ -2524,8 +2522,8 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
@@ -2558,7 +2556,7 @@
     {
       "name": "github.copilot.chat.inlineEdits.chatSessionContextProvider.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4543,
+      "line": 4556,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2578,14 +2576,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.inlineEdits.diagnosticsContextProvider.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4533,
+      "line": 4546,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2605,14 +2603,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.inlineEdits.nextCursorPrediction.currentFileMaxTokens",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4793,
+      "line": 4806,
       "area": "github.copilot",
       "default": "3000",
       "tags": [
@@ -2632,14 +2630,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.inlineEdits.nextCursorPrediction.displayLine",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4783,
+      "line": 4796,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -2659,14 +2657,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.inlineEdits.renameSymbolSuggestions",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4803,
+      "line": 4816,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -2686,14 +2684,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.inlineEdits.triggerOnEditorChangeAfterSeconds",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4770,
+      "line": 4783,
       "area": "github.copilot",
       "default": "10",
       "tags": [
@@ -2713,14 +2711,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.inlineEdits.xtabProvider.modelConfiguration",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4221,
+      "line": 4236,
       "area": "github.copilot",
       "default": "null",
       "tags": [
@@ -2737,16 +2735,16 @@
         "email": "uabdullaev@microsoft.com"
       },
       "owner": {
-        "name": "Ulugbek Abdullaev",
-        "email": "uabdullaev@microsoft.com",
-        "date": "2026-04-30",
-        "commit": "3e02836"
+        "name": "Matt Bierner",
+        "email": "12821956+mjbvz@users.noreply.github.com",
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.installExtensionSkill.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4274,
+      "line": 4297,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2766,14 +2764,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.instantApply.shortContextLimit",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4622,
+      "line": 4635,
       "area": "github.copilot",
       "default": "8000",
       "tags": [
@@ -2793,14 +2791,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.instantApply.shortContextModelName",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4612,
+      "line": 4625,
       "area": "github.copilot",
       "default": "\"gpt-4o-instant-apply-full-ft-v66-short\"",
       "tags": [
@@ -2820,14 +2818,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.languageContext.fix.typescript.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3859,
+      "line": 3874,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2846,14 +2844,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.languageContext.inline.typescript.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3869,
+      "line": 3884,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2872,14 +2870,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.languageContext.typescript.cacheTimeout",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3849,
+      "line": 3864,
       "area": "github.copilot",
       "default": "500",
       "tags": [
@@ -2898,14 +2896,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.languageContext.typescript.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3810,
+      "line": 3825,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -2924,14 +2922,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.languageContext.typescript.includeDocumentation",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3839,
+      "line": 3854,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -2950,14 +2948,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.languageContext.typescript.items",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3823,
+      "line": 3838,
       "area": "github.copilot",
       "default": "\"double\"",
       "tags": [
@@ -2976,14 +2974,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.localIndex.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4207,
+      "line": 4222,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -3002,14 +3000,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.localWorkspaceRecording.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4479,
+      "line": 4492,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -3028,14 +3026,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.nesFetcher",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4132,
+      "line": 4147,
       "area": "github.copilot",
       "default": null,
       "tags": [
@@ -3054,14 +3052,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.newWorkspace.useContext7",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3887,
+      "line": 3902,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -3079,14 +3077,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.newWorkspaceCreation.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3879,
+      "line": 3894,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -3104,14 +3102,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.notebook.alternativeFormat",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4443,
+      "line": 4456,
       "area": "github.copilot",
       "default": "\"xml\"",
       "tags": [
@@ -3131,14 +3129,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.notebook.alternativeNESFormat.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4457,
+      "line": 4470,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -3158,14 +3156,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.notebook.enhancedNextEditSuggestions.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3903,
+      "line": 3918,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -3184,14 +3182,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.notebook.followCellExecution.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3895,
+      "line": 3910,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -3209,14 +3207,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.notebook.summaryExperimentEnabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4425,
+      "line": 4438,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -3235,14 +3233,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.notebook.variableFilteringEnabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4434,
+      "line": 4447,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -3261,14 +3259,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.omitBaseAgentInstructions",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4731,
+      "line": 4744,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -3287,14 +3285,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.planAgent.additionalTools",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4147,
+      "line": 4162,
       "area": "github.copilot",
       "default": "[]",
       "tags": [
@@ -3312,14 +3310,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.projectLabels.chat",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4348,
+      "line": 4361,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -3339,14 +3337,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.projectLabels.expanded",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4338,
+      "line": 4351,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -3366,14 +3364,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.projectLabels.inline",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4358,
+      "line": 4371,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -3393,14 +3391,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.projectSetupInfoSkill.enabled",
-      "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4284,
+      "file": "[Copilot Chat] package.json",
+      "line": 4004,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -3408,26 +3406,26 @@
         "experimental",
         "onExp"
       ],
-      "repoPath": "./vscode",
-      "repoFile": "extensions/copilot/package.json",
-      "repoName": "VS Code",
+      "repoPath": "./vscode-copilot-chat",
+      "repoFile": "package.json",
+      "repoName": "Copilot Chat",
       "addedDate": "2026-02-23",
-      "addedCommit": "835a104",
+      "addedCommit": "cfc40d6",
       "addedBy": {
         "name": "Alex Ross",
         "email": "38270282+alexr00@users.noreply.github.com"
       },
       "owner": {
-        "name": "Matt Bierner",
-        "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "name": "Alex Ross",
+        "email": "38270282+alexr00@users.noreply.github.com",
+        "date": "2026-02-23",
+        "commit": "cfc40d6"
       }
     },
     {
       "name": "github.copilot.chat.promptFileContextProvider.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4740,
+      "line": 4753,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -3447,14 +3445,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.pullRequestDescriptionGeneration.instructions",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3740,
+      "line": 3755,
       "area": "github.copilot",
       "default": "[]",
       "tags": [
@@ -3472,14 +3470,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.responsesApi.promptCacheKey.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3984,
+      "line": 3999,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -3498,14 +3496,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.responsesApiContextManagement.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3975,
+      "line": 3990,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -3524,14 +3522,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.responsesApiReasoningSummary",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3962,
+      "line": 3977,
       "area": "github.copilot",
       "default": "\"detailed\"",
       "tags": [
@@ -3550,14 +3548,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.review.intent",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4416,
+      "line": 4429,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -3576,14 +3574,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.searchSubagent.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 5013,
+      "line": 5026,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -3603,14 +3601,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.searchSubagent.model",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 5031,
+      "line": 5044,
       "area": "github.copilot",
       "default": "\"\"",
       "tags": [
@@ -3630,14 +3628,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.searchSubagent.thoroughnessEnabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 5051,
+      "line": 5064,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -3657,14 +3655,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.searchSubagent.toolCallLimit",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 5041,
+      "line": 5054,
       "area": "github.copilot",
       "default": "4",
       "tags": [
@@ -3684,14 +3682,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.setupTests.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3802,
+      "line": 3817,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -3709,14 +3707,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.skillTool.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4641,
+      "line": 4654,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -3735,14 +3733,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.summarizeAgentConversationHistory.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3912,
+      "line": 3927,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -3760,14 +3758,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.summarizeAgentConversationHistoryThreshold",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4700,
+      "line": 4713,
       "area": "github.copilot",
       "default": null,
       "tags": [
@@ -3786,14 +3784,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.switchAgent.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3519,
+      "line": 3534,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -3812,14 +3810,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.testGeneration.instructions",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3609,
+      "line": 3624,
       "area": "github.copilot",
       "default": "[]",
       "tags": [
@@ -3837,14 +3835,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.tools.defaultToolsGrouped",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4750,
+      "line": 4763,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -3864,8 +3862,8 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
@@ -3896,7 +3894,7 @@
     {
       "name": "github.copilot.chat.tools.viewImage.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3449,
+      "line": 3448,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -3915,14 +3913,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.updated53CodexPrompt.enabled",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3993,
+      "line": 4008,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -3941,14 +3939,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.useResponsesApiTruncation",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4722,
+      "line": 4735,
       "area": "github.copilot",
       "default": "false",
       "tags": [
@@ -3967,14 +3965,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.virtualTools.threshold",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 3920,
+      "line": 3935,
       "area": "github.copilot",
       "default": "128",
       "tags": [
@@ -3992,14 +3990,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.workspace.enableCodeSearch",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4378,
+      "line": 4391,
       "area": "github.copilot",
       "default": "true",
       "tags": [
@@ -4019,8 +4017,8 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
@@ -4053,7 +4051,7 @@
     {
       "name": "github.copilot.chat.workspace.maxLocalIndexSize",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4368,
+      "line": 4381,
       "area": "github.copilot",
       "default": "100000",
       "tags": [
@@ -4073,14 +4071,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.workspace.preferredEmbeddingsModel",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4388,
+      "line": 4401,
       "area": "github.copilot",
       "default": "\"\"",
       "tags": [
@@ -4100,14 +4098,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.chat.workspace.prototypeAdoCodeSearchEndpointOverride",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4398,
+      "line": 4411,
       "area": "github.copilot",
       "default": "\"\"",
       "tags": [
@@ -4126,14 +4124,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.nextEditSuggestions.eagerness",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4823,
+      "line": 4836,
       "area": "github.copilot",
       "default": "\"auto\"",
       "tags": [
@@ -4152,14 +4150,14 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
       "name": "github.copilot.nextEditSuggestions.preferredModel",
       "file": "[VS Code] extensions/copilot/package.json",
-      "line": 4813,
+      "line": 4826,
       "area": "github.copilot",
       "default": "\"none\"",
       "tags": [
@@ -4179,8 +4177,8 @@
       "owner": {
         "name": "Matt Bierner",
         "email": "12821956+mjbvz@users.noreply.github.com",
-        "date": "2026-04-29",
-        "commit": "fe6f5ab"
+        "date": "2026-05-20",
+        "commit": "503a4db"
       }
     },
     {
@@ -4461,7 +4459,7 @@
     {
       "name": "workbench.browser.enableChatTools",
       "file": "[VS Code] src/vs/workbench/contrib/browserView/electron-browser/features/browserEditorChatFeatures.ts",
-      "line": 455,
+      "line": 566,
       "area": "workbench.browser",
       "default": "false",
       "tags": [
