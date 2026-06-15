@@ -1,10 +1,10 @@
 # All Experimental Settings
 
-*Generated: 2026-06-08*
+*Generated: 2026-06-15*
 
-Total settings: 190
+Total settings: 198
 
-> ⚠️ **153 setting(s)** have been experimental for more than 60 days.
+> ⚠️ **156 setting(s)** have been experimental for more than 60 days.
 
 ## Settings by Area
 
@@ -16,10 +16,15 @@ Total settings: 190
 | `chat.agent.thinking.collapsedTools` | 2026-05-19 | `'always'` | experimental |
 | **chat.agentHost** | | | |
 | `chat.agentHost.forwardSSHAgent` | 2026-05-13 | `false` | experimental, advanced |
+| **chat.agents** | | | |
+| `chat.agents.copilotCli.hideExtensionHost` | 2026-06-12 | `false` | experimental |
 | **chat.allowAnonymousAccess** | | | |
 | `chat.allowAnonymousAccess` | 2026-05-19 | `false` | experimental |
 | **chat.editing** | | | |
 | `chat.editing.explainChanges.enabled` | 2026-05-19 | `false` | experimental |
+| **chat.editor** | | | |
+| `chat.editor.copilotCli.hideExtensionHost` | 2026-06-12 | `false` | experimental |
+| `chat.editor.defaultProvider` | 2026-06-12 | `'local'` | experimental |
 | **chat.experimentalSessionsWindowOverride** | | | |
 | `chat.experimentalSessionsWindowOverride` | 2026-05-19 | `false` | experimental |
 | **chat.extensionUnification** | | | |
@@ -93,6 +98,9 @@ Total settings: 190
 | `github.copilot.chat.codesearch.enabled` | 2025-06-27 ⚠️ | `false` | preview |
 | `github.copilot.chat.commitMessageGeneration.instructions` | 2025-06-27 ⚠️ | `[]` | experimental |
 | `github.copilot.chat.completionsFetcher` | 2025-10-07 ⚠️ | *(null)* | experimental, onExp |
+| `github.copilot.chat.conversationCompaction.model` | 2026-06-09 | `""` | experimental, onExp |
+| `github.copilot.chat.conversationCompaction.prismModelFilter` | 2026-06-09 | `"claude-haiku-4.5,claude-sonnet-4.5,claude-sonnet-4.6,gemini-2.5-pro,gemini-3-flash,gemini-3.5-flash"` | experimental, onExp |
+| `github.copilot.chat.conversationCompaction.usePrismCompaction` | 2026-06-09 | `false` | experimental, onExp |
 | `github.copilot.chat.conversationTranscriptLookup.enabled` | 2026-03-17 ⚠️ | `false` | preview, onExp |
 | `github.copilot.chat.copilotDebugCommand.enabled` | 2025-06-27 ⚠️ | `true` | preview |
 | `github.copilot.chat.copilotMemory.enabled` | 2026-01-28 ⚠️ | `false` | preview |
@@ -111,6 +119,7 @@ Total settings: 190
 | `github.copilot.chat.exploreAgent.enabled` | 2026-04-07 ⚠️ | `true` | experimental, onExp |
 | `github.copilot.chat.exploreAgent.model` | 2026-02-12 ⚠️ | `""` | experimental |
 | `github.copilot.chat.feedback.onChange` | 2025-11-14 ⚠️ | `false` | advanced, experimental |
+| `github.copilot.chat.gemini35FlashReducedToolUsePrompt.enabled` | 2026-06-12 | `false` | experimental, onExp |
 | `github.copilot.chat.gemini3GetChangedFilesTool.enabled` | 2026-05-29 | `true` | experimental, onExp |
 | `github.copilot.chat.gemini3LowReasoningEffort.enabled` | 2026-06-01 | `false` | experimental, onExp |
 | `github.copilot.chat.getChangedFilesTool.enabled` | 2026-05-07 | `false` | advanced, experimental, onExp |
@@ -167,13 +176,14 @@ Total settings: 190
 | `github.copilot.chat.projectSetupInfoSkill.enabled` | 2026-02-23 ⚠️ | `false` | advanced, experimental, onExp |
 | `github.copilot.chat.promptFileContextProvider.enabled` | 2025-11-14 ⚠️ | `true` | advanced, experimental, onExp |
 | `github.copilot.chat.pullRequestDescriptionGeneration.instructions` | 2025-06-27 ⚠️ | `[]` | experimental |
+| `github.copilot.chat.responsesApi.persistentCoT.enabled` | 2026-06-08 | `false` | experimental, onExp |
 | `github.copilot.chat.responsesApi.promptCacheKey.enabled` | 2026-03-24 ⚠️ | `false` | experimental, onExp |
 | `github.copilot.chat.responsesApiContextManagement.enabled` | 2026-02-15 ⚠️ | `false` | experimental, onExp |
 | `github.copilot.chat.responsesApiReasoningSummary` | 2025-09-12 ⚠️ | `"detailed"` | experimental, onExp |
 | `github.copilot.chat.review.intent` | 2025-11-14 ⚠️ | `false` | advanced, experimental |
 | `github.copilot.chat.searchSubagent.enabled` | 2026-01-14 ⚠️ | `false` | advanced, experimental, onExp |
 | `github.copilot.chat.searchSubagent.model` | 2026-01-29 ⚠️ | `""` | advanced, experimental, onExp |
-| `github.copilot.chat.searchSubagent.thoroughnessEnabled` | 2026-04-14 | `false` | advanced, experimental, onExp |
+| `github.copilot.chat.searchSubagent.thoroughnessEnabled` | 2026-04-14 ⚠️ | `false` | advanced, experimental, onExp |
 | `github.copilot.chat.searchSubagent.toolCallLimit` | 2026-01-29 ⚠️ | `4` | advanced, experimental, onExp |
 | `github.copilot.chat.setupTests.enabled` | 2025-06-27 ⚠️ | `true` | experimental |
 | `github.copilot.chat.skillTool.enabled` | 2026-04-24 | `false` | advanced, experimental |
@@ -213,7 +223,7 @@ Total settings: 190
 | `search.searchView.keywordSuggestions` | 2025-05-14 ⚠️ | `false` | preview |
 | `search.searchView.semanticSearchBehavior` | 2025-05-13 ⚠️ | `<computed>` | preview |
 | **telemetry.performance** | | | |
-| `telemetry.performance.inputLatencySamplingProbability` | 2026-04-09 | `0` | experimental |
+| `telemetry.performance.inputLatencySamplingProbability` | 2026-04-09 ⚠️ | `0` | experimental |
 | **workbench.browser** | | | |
 | `workbench.browser.enableChatTools` | 2026-03-18 ⚠️ | `true` | experimental |
 | `workbench.browser.experimentalUserTools.enabled` | 2026-05-29 | `false` | experimental |
@@ -229,164 +239,167 @@ Total settings: 190
 | **workbench.secondarySideBar** | | | |
 | `workbench.secondarySideBar.forceMaximized` | 2026-01-25 ⚠️ | `false` | experimental |
 | **workbench.welcomePage** | | | |
-| `workbench.welcomePage.experimentalOnboarding` | 2026-04-10 | `true` | experimental |
+| `workbench.welcomePage.experimentalOnboarding` | 2026-04-10 ⚠️ | `true` | experimental |
 
 ## ⚠️ Experimental for 60+ Days
 
-153 setting(s) have been experimental for more than 60 days and may need review.
+156 setting(s) have been experimental for more than 60 days and may need review.
 
 | Setting | Added Date | Age (days) | Owner | Area |
 |---------|------------|------------|-------|------|
-| `git.optimisticUpdate` | 2022-11-04 | 1312 | Ladislau Szomoru | git.optimisticUpdate |
-| `workbench.experimental.cloudChanges.autoStore` | 2022-11-29 | 1287 | Joyce Er | workbench.experimental |
-| `workbench.experimental.cloudChanges.partialMatches.enabled` | 2022-11-29 | 1287 | Joyce Er | workbench.experimental |
-| `workbench.commandPalette.experimental.suggestCommands` | 2023-01-17 | 1238 | Tyler James Leonhardt | workbench.commandPalette |
-| `editor.experimental.asyncTokenization` | 2023-02-15 | 1209 | Henning Dieterichs | editor.experimental |
-| `editor.experimental.asyncTokenizationVerification` | 2023-04-04 | 1161 | Henning Dieterichs | editor.experimental |
-| `workbench.experimental.share.enabled` | 2023-05-22 | 1113 | Joyce Er | workbench.experimental |
-| `workbench.commandPalette.experimental.enableNaturalLanguageSearch` | 2023-08-25 | 1018 | Tyler James Leonhardt | workbench.commandPalette |
-| `workbench.commandPalette.experimental.askChatLocation` | 2023-09-08 | 1004 | Tyler James Leonhardt | workbench.commandPalette |
-| `http.experimental.systemCertificatesV2` | 2023-09-28 | 984 | Christof Marti | http.experimental |
-| `editor.experimental.treeSitterTelemetry` | 2024-08-07 | 670 | Alex Ross | editor.experimental |
-| `ipynb.experimental.serialization` | 2024-08-28 | 649 | nojaf | ipynb.experimental |
-| `editor.experimental.preferTreeSitter.ini` | 2025-02-13 | 480 | Alex Ross | editor.experimental |
-| `editor.experimental.preferTreeSitter.typescript` | 2025-02-13 | 480 | Alex Ross | editor.experimental |
-| `editor.experimental.preferTreeSitter.regex` | 2025-03-18 | 447 | Alex Ross | editor.experimental |
-| `editor.experimental.preferTreeSitter.css` | 2025-03-19 | 446 | Alex Ross | editor.experimental |
-| `search.searchView.semanticSearchBehavior` | 2025-05-13 | 391 | Osvaldo Ortega | search.searchView |
-| `search.searchView.keywordSuggestions` | 2025-05-14 | 390 | Osvaldo Ortega | search.searchView |
-| `editor.inlineSuggest.experimental.suppressInlineSuggestions` | 2025-05-28 | 376 | Benjamin Christopher Simmonds | editor.inlineSuggest |
-| `application.experimental.rendererProfiling` | 2025-06-09 | 364 | Benjamin Pasero | application.experimental |
-| `github.copilot.chat.codeGeneration.instructions` | 2025-06-27 | 346 | kieferrm | github.copilot |
-| `github.copilot.chat.codesearch.enabled` | 2025-06-27 | 346 | kieferrm | github.copilot |
-| `github.copilot.chat.commitMessageGeneration.instructions` | 2025-06-27 | 346 | kieferrm | github.copilot |
-| `github.copilot.chat.copilotDebugCommand.enabled` | 2025-06-27 | 346 | kieferrm | github.copilot |
-| `github.copilot.chat.enableUserPreferences` | 2025-06-27 | 346 | kieferrm | github.copilot |
-| `github.copilot.chat.languageContext.fix.typescript.enabled` | 2025-06-27 | 346 | kieferrm | github.copilot |
-| `github.copilot.chat.languageContext.inline.typescript.enabled` | 2025-06-27 | 346 | kieferrm | github.copilot |
-| `github.copilot.chat.languageContext.typescript.cacheTimeout` | 2025-06-27 | 346 | kieferrm | github.copilot |
-| `github.copilot.chat.languageContext.typescript.enabled` | 2025-06-27 | 346 | kieferrm | github.copilot |
-| `github.copilot.chat.newWorkspaceCreation.enabled` | 2025-06-27 | 346 | kieferrm | github.copilot |
-| `github.copilot.chat.notebook.followCellExecution.enabled` | 2025-06-27 | 346 | kieferrm | github.copilot |
-| `github.copilot.chat.pullRequestDescriptionGeneration.instructions` | 2025-06-27 | 346 | kieferrm | github.copilot |
-| `github.copilot.chat.setupTests.enabled` | 2025-06-27 | 346 | kieferrm | github.copilot |
-| `github.copilot.chat.summarizeAgentConversationHistory.enabled` | 2025-06-27 | 346 | kieferrm | github.copilot |
-| `github.copilot.chat.testGeneration.instructions` | 2025-06-27 | 346 | kieferrm | github.copilot |
-| `github.copilot.chat.newWorkspace.useContext7` | 2025-07-28 | 315 | Bhavya U | github.copilot |
-| `github.copilot.chat.virtualTools.threshold` | 2025-07-29 | 314 | Connor Peet | github.copilot |
-| `github.copilot.chat.alternateGptPrompt.enabled` | 2025-08-09 | 303 | Burke Holland | github.copilot |
-| `editor.inlineSuggest.experimental.showOnSuggestConflict` | 2025-08-20 | 292 | Henning Dieterichs | editor.inlineSuggest |
-| `github.copilot.chat.notebook.enhancedNextEditSuggestions.enabled` | 2025-08-28 | 284 | Don Jayamanne | github.copilot |
-| `editor.inlineSuggest.triggerCommandOnProviderChange` | 2025-09-05 | 276 | Henning Dieterichs | editor.inlineSuggest |
-| `github.copilot.chat.imageUpload.enabled` | 2025-09-09 | 272 | Justin Chen | github.copilot |
-| `github.copilot.chat.responsesApiReasoningSummary` | 2025-09-12 | 269 | Rob Lourens | github.copilot |
-| `github.copilot.chat.languageContext.typescript.includeDocumentation` | 2025-09-29 | 252 | Dirk Bäumer | github.copilot |
-| `github.copilot.chat.languageContext.typescript.items` | 2025-09-29 | 252 | Dirk Bäumer | github.copilot |
-| `http.experimental.networkInterfaceCheckInterval` | 2025-09-30 | 251 | Christof Marti | http.experimental |
-| `editor.inlineSuggest.experimental.emptyResponseInformation` | 2025-10-01 | 250 | BeniBenj | editor.inlineSuggest |
-| `github.copilot.chat.completionsFetcher` | 2025-10-07 | 244 | Christof Marti | github.copilot |
-| `github.copilot.chat.nesFetcher` | 2025-10-07 | 244 | Christof Marti | github.copilot |
-| `workbench.commandPalette.showAskInChat` | 2025-10-10 | 241 | Dmitriy Vasyura | workbench.commandPalette |
-| `github.copilot.chat.anthropic.tools.websearch.enabled` | 2025-10-30 | 221 | Bhavya U | github.copilot |
-| `github.copilot.chat.tools.memory.enabled` | 2025-10-30 | 221 | Bhavya U | github.copilot |
-| `scm.repositories.explorer` | 2025-10-30 | 221 | Ladislau Szomoru | scm.repositories |
-| `http.systemCertificatesNode` | 2025-11-02 | 218 | Christof Marti | http.systemCertificatesNode |
-| `github.copilot.chat.anthropic.tools.websearch.allowedDomains` | 2025-11-03 | 217 | Bhavya U | github.copilot |
-| `github.copilot.chat.anthropic.tools.websearch.blockedDomains` | 2025-11-03 | 217 | Bhavya U | github.copilot |
-| `github.copilot.chat.anthropic.tools.websearch.maxUses` | 2025-11-03 | 217 | Bhavya U | github.copilot |
-| `github.copilot.chat.anthropic.tools.websearch.userLocation` | 2025-11-03 | 217 | Bhavya U | github.copilot |
-| `editor.inlineSuggest.edits.showLongDistanceHint` | 2025-11-12 | 208 | Henning Dieterichs | editor.inlineSuggest |
-| `github.copilot.chat.agent.temperature` | 2025-11-14 | 206 | Sandeep Somavarapu | github.copilot |
-| `github.copilot.chat.agentHistorySummarizationMode` | 2025-11-14 | 206 | Sandeep Somavarapu | github.copilot |
-| `github.copilot.chat.cli.mcp.enabled` | 2025-11-14 | 206 | Sandeep Somavarapu | github.copilot |
-| `github.copilot.chat.codesearch.agent.enabled` | 2025-11-14 | 206 | Sandeep Somavarapu | github.copilot |
-| `github.copilot.chat.debugTerminalCommandPatterns` | 2025-11-14 | 206 | Sandeep Somavarapu | github.copilot |
-| `github.copilot.chat.editRecording.enabled` | 2025-11-14 | 206 | Sandeep Somavarapu | github.copilot |
-| `github.copilot.chat.feedback.onChange` | 2025-11-14 | 206 | Sandeep Somavarapu | github.copilot |
-| `github.copilot.chat.gpt5AlternativePatch` | 2025-11-14 | 206 | Sandeep Somavarapu | github.copilot |
-| `github.copilot.chat.inlineEdits.nextCursorPrediction.currentFileMaxTokens` | 2025-11-14 | 206 | Sandeep Somavarapu | github.copilot |
-| `github.copilot.chat.inlineEdits.nextCursorPrediction.displayLine` | 2025-11-14 | 206 | Sandeep Somavarapu | github.copilot |
-| `github.copilot.chat.inlineEdits.triggerOnEditorChangeAfterSeconds` | 2025-11-14 | 206 | Sandeep Somavarapu | github.copilot |
-| `github.copilot.chat.instantApply.shortContextLimit` | 2025-11-14 | 206 | Sandeep Somavarapu | github.copilot |
-| `github.copilot.chat.instantApply.shortContextModelName` | 2025-11-14 | 206 | Sandeep Somavarapu | github.copilot |
-| `github.copilot.chat.localWorkspaceRecording.enabled` | 2025-11-14 | 206 | Sandeep Somavarapu | github.copilot |
-| `github.copilot.chat.notebook.alternativeFormat` | 2025-11-14 | 206 | Sandeep Somavarapu | github.copilot |
-| `github.copilot.chat.notebook.alternativeNESFormat.enabled` | 2025-11-14 | 206 | Sandeep Somavarapu | github.copilot |
-| `github.copilot.chat.notebook.summaryExperimentEnabled` | 2025-11-14 | 206 | Sandeep Somavarapu | github.copilot |
-| `github.copilot.chat.notebook.variableFilteringEnabled` | 2025-11-14 | 206 | Sandeep Somavarapu | github.copilot |
-| `github.copilot.chat.omitBaseAgentInstructions` | 2025-11-14 | 206 | Sandeep Somavarapu | github.copilot |
-| `github.copilot.chat.projectLabels.chat` | 2025-11-14 | 206 | Sandeep Somavarapu | github.copilot |
-| `github.copilot.chat.projectLabels.expanded` | 2025-11-14 | 206 | Sandeep Somavarapu | github.copilot |
-| `github.copilot.chat.projectLabels.inline` | 2025-11-14 | 206 | Sandeep Somavarapu | github.copilot |
-| `github.copilot.chat.promptFileContextProvider.enabled` | 2025-11-14 | 206 | Sandeep Somavarapu | github.copilot |
-| `github.copilot.chat.review.intent` | 2025-11-14 | 206 | Sandeep Somavarapu | github.copilot |
-| `github.copilot.chat.summarizeAgentConversationHistoryThreshold` | 2025-11-14 | 206 | Sandeep Somavarapu | github.copilot |
-| `github.copilot.chat.tools.defaultToolsGrouped` | 2025-11-14 | 206 | Sandeep Somavarapu | github.copilot |
-| `github.copilot.chat.useResponsesApiTruncation` | 2025-11-14 | 206 | Sandeep Somavarapu | github.copilot |
-| `github.copilot.chat.workspace.enableCodeSearch` | 2025-11-14 | 206 | Sandeep Somavarapu | github.copilot |
-| `github.copilot.chat.workspace.maxLocalIndexSize` | 2025-11-14 | 206 | Sandeep Somavarapu | github.copilot |
-| `github.copilot.chat.workspace.preferredEmbeddingsModel` | 2025-11-14 | 206 | Sandeep Somavarapu | github.copilot |
-| `github.copilot.chat.workspace.prototypeAdoCodeSearchEndpointOverride` | 2025-11-14 | 206 | Sandeep Somavarapu | github.copilot |
-| `github.copilot.chat.debug.requestLogger.maxEntries` | 2025-11-17 | 203 | Sandeep Somavarapu | github.copilot |
-| `github.copilot.chat.inlineEdits.diagnosticsContextProvider.enabled` | 2025-11-17 | 203 | Sandeep Somavarapu | github.copilot |
-| `github.copilot.chat.githubMcpServer.enabled` | 2025-11-20 | 200 | Tyler James Leonhardt | github.copilot |
-| `github.copilot.chat.githubMcpServer.lockdown` | 2025-11-20 | 200 | Tyler James Leonhardt | github.copilot |
-| `github.copilot.chat.githubMcpServer.readonly` | 2025-11-20 | 200 | Tyler James Leonhardt | github.copilot |
-| `github.copilot.chat.githubMcpServer.toolsets` | 2025-11-20 | 200 | Tyler James Leonhardt | github.copilot |
-| `github.copilot.chat.edits.gemini3MultiReplaceString` | 2025-11-24 | 196 | Connor Peet | github.copilot |
-| `github.copilot.chat.inlineEdits.renameSymbolSuggestions` | 2025-11-24 | 196 | Benjamin Christopher Simmonds | github.copilot |
-| `github.copilot.chat.inlineChat.selectionRatioThreshold` | 2025-12-01 | 189 | Johannes Rieken | github.copilot |
-| `github.copilot.nextEditSuggestions.preferredModel` | 2025-12-02 | 188 | Ulugbek Abdullaev | github.copilot |
-| `github.copilot.chat.alternateGeminiModelFPrompt.enabled` | 2025-12-16 | 174 | Paul | github.copilot |
-| `github.copilot.chat.cli.autoCommit.enabled` | 2025-12-23 | 167 | Ladislau Szomoru | github.copilot |
-| `git.worktreeIncludeFiles` | 2026-01-09 | 150 | Ladislau Szomoru | git.worktreeIncludeFiles |
-| `github.copilot.chat.searchSubagent.enabled` | 2026-01-14 | 145 | Anisha Agarwal | github.copilot |
-| `github.copilot.chat.anthropic.toolSearchTool.enabled` | 2026-01-15 | 144 | Bhavya U | github.copilot |
-| `github.copilot.chat.agent.omitFileAttachmentContents` | 2026-01-18 | 141 | Rob Lourens | github.copilot |
-| `github.copilot.chat.inlineEdits.chatSessionContextProvider.enabled` | 2026-01-22 | 137 | Benjamin Christopher Simmonds | github.copilot |
-| `github.copilot.chat.planAgent.additionalTools` | 2026-01-22 | 137 | Harald Kirschner | github.copilot |
-| `github.copilot.chat.agent.largeToolResultsToDisk.enabled` | 2026-01-23 | 136 | Connor Peet | github.copilot |
-| `github.copilot.chat.agent.largeToolResultsToDisk.thresholdBytes` | 2026-01-23 | 136 | Connor Peet | github.copilot |
-| `github.copilot.chat.implementAgent.model` | 2026-01-25 | 134 | Eleanor Boyd | github.copilot |
-| `workbench.secondarySideBar.forceMaximized` | 2026-01-25 | 134 | Benjamin Pasero | workbench.secondarySideBar |
-| `github.copilot.chat.copilotMemory.enabled` | 2026-01-28 | 131 | Bhavya U | github.copilot |
-| `github.copilot.chat.searchSubagent.model` | 2026-01-29 | 130 | Anisha Agarwal | github.copilot |
-| `github.copilot.chat.searchSubagent.toolCallLimit` | 2026-01-29 | 130 | Anisha Agarwal | github.copilot |
-| `github.copilot.chat.switchAgent.enabled` | 2026-01-29 | 130 | SteVen Batten | github.copilot |
-| `github.copilot.chat.askAgent.additionalTools` | 2026-02-10 | 118 | Benjamin Christopher Simmonds | github.copilot |
-| `github.copilot.chat.askAgent.model` | 2026-02-10 | 118 | Benjamin Christopher Simmonds | github.copilot |
-| `github.copilot.chat.backgroundCompaction` | 2026-02-11 | 117 | Bhavya U | github.copilot |
-| `github.copilot.chat.exploreAgent.model` | 2026-02-12 | 116 | Harald Kirschner | github.copilot |
-| `github.copilot.chat.responsesApiContextManagement.enabled` | 2026-02-15 | 113 | dileepyavan | github.copilot |
-| `extensions.allowOpenInModalEditor` | 2026-02-16 | 112 | Benjamin Pasero | extensions.allowOpenInModalEditor |
-| `github.copilot.chat.anthropic.contextEditing.mode` | 2026-02-17 | 111 | Bhavya U | github.copilot |
-| `github.copilot.chat.updated53CodexPrompt.enabled` | 2026-02-17 | 111 | dileepyavan | github.copilot |
-| `github.copilot.chat.getSearchViewResultsSkill.enabled` | 2026-02-23 | 105 | Alex Ross | github.copilot |
-| `github.copilot.chat.installExtensionSkill.enabled` | 2026-02-23 | 105 | Alex Ross | github.copilot |
-| `github.copilot.chat.projectSetupInfoSkill.enabled` | 2026-02-23 | 105 | Alex Ross | github.copilot |
-| `github.copilot.nextEditSuggestions.eagerness` | 2026-03-02 | 98 | Benjamin Christopher Simmonds | github.copilot |
-| `github.copilot.chat.anthropic.toolSearchTool.mode` | 2026-03-04 | 96 | Bhavya U | github.copilot |
-| `github.copilot.chat.agentDebugLog.enabled` | 2026-03-13 | 87 | Paul | github.copilot |
-| `github.copilot.chat.agentDebugLog.fileLogging.enabled` | 2026-03-13 | 87 | Vijay Upadya | github.copilot |
-| `github.copilot.chat.agentDebugLog.fileLogging.flushIntervalMs` | 2026-03-13 | 87 | Vijay Upadya | github.copilot |
-| `github.copilot.chat.tools.viewImage.enabled` | 2026-03-13 | 87 | Rob Lourens | github.copilot |
-| `imageCarousel.explorerContextMenu.enabled` | 2026-03-13 | 87 | Tyler James Leonhardt | imageCarousel.explorerContextMenu |
-| `github.copilot.chat.conversationTranscriptLookup.enabled` | 2026-03-17 | 83 | Bhavya U | github.copilot |
-| `github.copilot.chat.debug.promptOverrideFile` | 2026-03-17 | 83 | Ross Wollman | github.copilot |
-| `workbench.browser.enableChatTools` | 2026-03-18 | 82 | Kyle Cutler | workbench.browser |
-| `github.copilot.chat.anthropic.promptCaching.extendedTtl` | 2026-03-19 | 81 | Bhavya U | github.copilot |
-| `github.copilot.chat.executionSubagent.enabled` | 2026-03-19 | 81 | Vikram Nitin | github.copilot |
-| `github.copilot.chat.executionSubagent.model` | 2026-03-19 | 81 | Vikram Nitin | github.copilot |
-| `github.copilot.chat.executionSubagent.toolCallLimit` | 2026-03-19 | 81 | Vikram Nitin | github.copilot |
-| `imageCarousel.chat.enabled` | 2026-03-20 | 80 | Tyler James Leonhardt | imageCarousel.chat |
-| `github.copilot.chat.responsesApi.promptCacheKey.enabled` | 2026-03-24 | 76 | Giuseppe Cianci | github.copilot |
-| `github.copilot.chat.gpt54ConcisePrompt.enabled` | 2026-03-26 | 74 | dileepyavan | github.copilot |
-| `github.copilot.chat.gpt54LargePrompt.enabled` | 2026-03-26 | 74 | dileepyavan | github.copilot |
-| `github.copilot.chat.workspace.maxDiffSizeBeforeUsingExternalIngest` | 2026-03-26 | 74 | Matt Bierner | github.copilot |
-| `github.copilot.chat.agentDebugLog.fileLogging.maxRetainedSessionLogs` | 2026-03-30 | 70 | Vijay Upadya | github.copilot |
-| `github.copilot.chat.agentDebugLog.fileLogging.maxSessionLogSizeMB` | 2026-03-31 | 69 | Vijay Upadya | github.copilot |
-| `github.copilot.chat.githubMcpServer.channel` | 2026-04-02 | 67 | Harald Kirschner | github.copilot |
-| `github.copilot.chat.agentHistorySummarizationInline` | 2026-04-03 | 66 | Bhavya U | github.copilot |
-| `github.copilot.chat.edits.batchReplaceStringDescriptions` | 2026-04-03 | 66 | Connor Peet | github.copilot |
-| `github.copilot.chat.debug.promptOverrideString` | 2026-04-07 | 62 | dileepyavan | github.copilot |
-| `github.copilot.chat.exploreAgent.enabled` | 2026-04-07 | 62 | Bhavya U | github.copilot |
+| `git.optimisticUpdate` | 2022-11-04 | 1319 | Ladislau Szomoru | git.optimisticUpdate |
+| `workbench.experimental.cloudChanges.autoStore` | 2022-11-29 | 1294 | Joyce Er | workbench.experimental |
+| `workbench.experimental.cloudChanges.partialMatches.enabled` | 2022-11-29 | 1294 | Joyce Er | workbench.experimental |
+| `workbench.commandPalette.experimental.suggestCommands` | 2023-01-17 | 1245 | Tyler James Leonhardt | workbench.commandPalette |
+| `editor.experimental.asyncTokenization` | 2023-02-15 | 1216 | Henning Dieterichs | editor.experimental |
+| `editor.experimental.asyncTokenizationVerification` | 2023-04-04 | 1168 | Henning Dieterichs | editor.experimental |
+| `workbench.experimental.share.enabled` | 2023-05-22 | 1120 | Joyce Er | workbench.experimental |
+| `workbench.commandPalette.experimental.enableNaturalLanguageSearch` | 2023-08-25 | 1025 | Tyler James Leonhardt | workbench.commandPalette |
+| `workbench.commandPalette.experimental.askChatLocation` | 2023-09-08 | 1011 | Tyler James Leonhardt | workbench.commandPalette |
+| `http.experimental.systemCertificatesV2` | 2023-09-28 | 991 | Christof Marti | http.experimental |
+| `editor.experimental.treeSitterTelemetry` | 2024-08-07 | 677 | Alex Ross | editor.experimental |
+| `ipynb.experimental.serialization` | 2024-08-28 | 656 | nojaf | ipynb.experimental |
+| `editor.experimental.preferTreeSitter.ini` | 2025-02-13 | 487 | Alex Ross | editor.experimental |
+| `editor.experimental.preferTreeSitter.typescript` | 2025-02-13 | 487 | Alex Ross | editor.experimental |
+| `editor.experimental.preferTreeSitter.regex` | 2025-03-18 | 454 | Alex Ross | editor.experimental |
+| `editor.experimental.preferTreeSitter.css` | 2025-03-19 | 453 | Alex Ross | editor.experimental |
+| `search.searchView.semanticSearchBehavior` | 2025-05-13 | 398 | Osvaldo Ortega | search.searchView |
+| `search.searchView.keywordSuggestions` | 2025-05-14 | 397 | Osvaldo Ortega | search.searchView |
+| `editor.inlineSuggest.experimental.suppressInlineSuggestions` | 2025-05-28 | 383 | Benjamin Christopher Simmonds | editor.inlineSuggest |
+| `application.experimental.rendererProfiling` | 2025-06-09 | 371 | Benjamin Pasero | application.experimental |
+| `github.copilot.chat.codeGeneration.instructions` | 2025-06-27 | 353 | kieferrm | github.copilot |
+| `github.copilot.chat.codesearch.enabled` | 2025-06-27 | 353 | kieferrm | github.copilot |
+| `github.copilot.chat.commitMessageGeneration.instructions` | 2025-06-27 | 353 | kieferrm | github.copilot |
+| `github.copilot.chat.copilotDebugCommand.enabled` | 2025-06-27 | 353 | kieferrm | github.copilot |
+| `github.copilot.chat.enableUserPreferences` | 2025-06-27 | 353 | kieferrm | github.copilot |
+| `github.copilot.chat.languageContext.fix.typescript.enabled` | 2025-06-27 | 353 | kieferrm | github.copilot |
+| `github.copilot.chat.languageContext.inline.typescript.enabled` | 2025-06-27 | 353 | kieferrm | github.copilot |
+| `github.copilot.chat.languageContext.typescript.cacheTimeout` | 2025-06-27 | 353 | kieferrm | github.copilot |
+| `github.copilot.chat.languageContext.typescript.enabled` | 2025-06-27 | 353 | kieferrm | github.copilot |
+| `github.copilot.chat.newWorkspaceCreation.enabled` | 2025-06-27 | 353 | kieferrm | github.copilot |
+| `github.copilot.chat.notebook.followCellExecution.enabled` | 2025-06-27 | 353 | kieferrm | github.copilot |
+| `github.copilot.chat.pullRequestDescriptionGeneration.instructions` | 2025-06-27 | 353 | kieferrm | github.copilot |
+| `github.copilot.chat.setupTests.enabled` | 2025-06-27 | 353 | kieferrm | github.copilot |
+| `github.copilot.chat.summarizeAgentConversationHistory.enabled` | 2025-06-27 | 353 | kieferrm | github.copilot |
+| `github.copilot.chat.testGeneration.instructions` | 2025-06-27 | 353 | kieferrm | github.copilot |
+| `github.copilot.chat.newWorkspace.useContext7` | 2025-07-28 | 322 | Bhavya U | github.copilot |
+| `github.copilot.chat.virtualTools.threshold` | 2025-07-29 | 321 | Connor Peet | github.copilot |
+| `github.copilot.chat.alternateGptPrompt.enabled` | 2025-08-09 | 310 | Burke Holland | github.copilot |
+| `editor.inlineSuggest.experimental.showOnSuggestConflict` | 2025-08-20 | 299 | Henning Dieterichs | editor.inlineSuggest |
+| `github.copilot.chat.notebook.enhancedNextEditSuggestions.enabled` | 2025-08-28 | 291 | Don Jayamanne | github.copilot |
+| `editor.inlineSuggest.triggerCommandOnProviderChange` | 2025-09-05 | 283 | Henning Dieterichs | editor.inlineSuggest |
+| `github.copilot.chat.imageUpload.enabled` | 2025-09-09 | 279 | Justin Chen | github.copilot |
+| `github.copilot.chat.responsesApiReasoningSummary` | 2025-09-12 | 276 | Rob Lourens | github.copilot |
+| `github.copilot.chat.languageContext.typescript.includeDocumentation` | 2025-09-29 | 259 | Dirk Bäumer | github.copilot |
+| `github.copilot.chat.languageContext.typescript.items` | 2025-09-29 | 259 | Dirk Bäumer | github.copilot |
+| `http.experimental.networkInterfaceCheckInterval` | 2025-09-30 | 258 | Christof Marti | http.experimental |
+| `editor.inlineSuggest.experimental.emptyResponseInformation` | 2025-10-01 | 257 | BeniBenj | editor.inlineSuggest |
+| `github.copilot.chat.completionsFetcher` | 2025-10-07 | 251 | Christof Marti | github.copilot |
+| `github.copilot.chat.nesFetcher` | 2025-10-07 | 251 | Christof Marti | github.copilot |
+| `workbench.commandPalette.showAskInChat` | 2025-10-10 | 248 | Dmitriy Vasyura | workbench.commandPalette |
+| `github.copilot.chat.anthropic.tools.websearch.enabled` | 2025-10-30 | 228 | Bhavya U | github.copilot |
+| `github.copilot.chat.tools.memory.enabled` | 2025-10-30 | 228 | Bhavya U | github.copilot |
+| `scm.repositories.explorer` | 2025-10-30 | 228 | Ladislau Szomoru | scm.repositories |
+| `http.systemCertificatesNode` | 2025-11-02 | 225 | Christof Marti | http.systemCertificatesNode |
+| `github.copilot.chat.anthropic.tools.websearch.allowedDomains` | 2025-11-03 | 224 | Bhavya U | github.copilot |
+| `github.copilot.chat.anthropic.tools.websearch.blockedDomains` | 2025-11-03 | 224 | Bhavya U | github.copilot |
+| `github.copilot.chat.anthropic.tools.websearch.maxUses` | 2025-11-03 | 224 | Bhavya U | github.copilot |
+| `github.copilot.chat.anthropic.tools.websearch.userLocation` | 2025-11-03 | 224 | Bhavya U | github.copilot |
+| `editor.inlineSuggest.edits.showLongDistanceHint` | 2025-11-12 | 215 | Henning Dieterichs | editor.inlineSuggest |
+| `github.copilot.chat.agent.temperature` | 2025-11-14 | 213 | Sandeep Somavarapu | github.copilot |
+| `github.copilot.chat.agentHistorySummarizationMode` | 2025-11-14 | 213 | Sandeep Somavarapu | github.copilot |
+| `github.copilot.chat.cli.mcp.enabled` | 2025-11-14 | 213 | Sandeep Somavarapu | github.copilot |
+| `github.copilot.chat.codesearch.agent.enabled` | 2025-11-14 | 213 | Sandeep Somavarapu | github.copilot |
+| `github.copilot.chat.debugTerminalCommandPatterns` | 2025-11-14 | 213 | Sandeep Somavarapu | github.copilot |
+| `github.copilot.chat.editRecording.enabled` | 2025-11-14 | 213 | Sandeep Somavarapu | github.copilot |
+| `github.copilot.chat.feedback.onChange` | 2025-11-14 | 213 | Sandeep Somavarapu | github.copilot |
+| `github.copilot.chat.gpt5AlternativePatch` | 2025-11-14 | 213 | Sandeep Somavarapu | github.copilot |
+| `github.copilot.chat.inlineEdits.nextCursorPrediction.currentFileMaxTokens` | 2025-11-14 | 213 | Sandeep Somavarapu | github.copilot |
+| `github.copilot.chat.inlineEdits.nextCursorPrediction.displayLine` | 2025-11-14 | 213 | Sandeep Somavarapu | github.copilot |
+| `github.copilot.chat.inlineEdits.triggerOnEditorChangeAfterSeconds` | 2025-11-14 | 213 | Sandeep Somavarapu | github.copilot |
+| `github.copilot.chat.instantApply.shortContextLimit` | 2025-11-14 | 213 | Sandeep Somavarapu | github.copilot |
+| `github.copilot.chat.instantApply.shortContextModelName` | 2025-11-14 | 213 | Sandeep Somavarapu | github.copilot |
+| `github.copilot.chat.localWorkspaceRecording.enabled` | 2025-11-14 | 213 | Sandeep Somavarapu | github.copilot |
+| `github.copilot.chat.notebook.alternativeFormat` | 2025-11-14 | 213 | Sandeep Somavarapu | github.copilot |
+| `github.copilot.chat.notebook.alternativeNESFormat.enabled` | 2025-11-14 | 213 | Sandeep Somavarapu | github.copilot |
+| `github.copilot.chat.notebook.summaryExperimentEnabled` | 2025-11-14 | 213 | Sandeep Somavarapu | github.copilot |
+| `github.copilot.chat.notebook.variableFilteringEnabled` | 2025-11-14 | 213 | Sandeep Somavarapu | github.copilot |
+| `github.copilot.chat.omitBaseAgentInstructions` | 2025-11-14 | 213 | Sandeep Somavarapu | github.copilot |
+| `github.copilot.chat.projectLabels.chat` | 2025-11-14 | 213 | Sandeep Somavarapu | github.copilot |
+| `github.copilot.chat.projectLabels.expanded` | 2025-11-14 | 213 | Sandeep Somavarapu | github.copilot |
+| `github.copilot.chat.projectLabels.inline` | 2025-11-14 | 213 | Sandeep Somavarapu | github.copilot |
+| `github.copilot.chat.promptFileContextProvider.enabled` | 2025-11-14 | 213 | Sandeep Somavarapu | github.copilot |
+| `github.copilot.chat.review.intent` | 2025-11-14 | 213 | Sandeep Somavarapu | github.copilot |
+| `github.copilot.chat.summarizeAgentConversationHistoryThreshold` | 2025-11-14 | 213 | Sandeep Somavarapu | github.copilot |
+| `github.copilot.chat.tools.defaultToolsGrouped` | 2025-11-14 | 213 | Sandeep Somavarapu | github.copilot |
+| `github.copilot.chat.useResponsesApiTruncation` | 2025-11-14 | 213 | Sandeep Somavarapu | github.copilot |
+| `github.copilot.chat.workspace.enableCodeSearch` | 2025-11-14 | 213 | Sandeep Somavarapu | github.copilot |
+| `github.copilot.chat.workspace.maxLocalIndexSize` | 2025-11-14 | 213 | Sandeep Somavarapu | github.copilot |
+| `github.copilot.chat.workspace.preferredEmbeddingsModel` | 2025-11-14 | 213 | Sandeep Somavarapu | github.copilot |
+| `github.copilot.chat.workspace.prototypeAdoCodeSearchEndpointOverride` | 2025-11-14 | 213 | Sandeep Somavarapu | github.copilot |
+| `github.copilot.chat.debug.requestLogger.maxEntries` | 2025-11-17 | 210 | Sandeep Somavarapu | github.copilot |
+| `github.copilot.chat.inlineEdits.diagnosticsContextProvider.enabled` | 2025-11-17 | 210 | Sandeep Somavarapu | github.copilot |
+| `github.copilot.chat.githubMcpServer.enabled` | 2025-11-20 | 207 | Tyler James Leonhardt | github.copilot |
+| `github.copilot.chat.githubMcpServer.lockdown` | 2025-11-20 | 207 | Tyler James Leonhardt | github.copilot |
+| `github.copilot.chat.githubMcpServer.readonly` | 2025-11-20 | 207 | Tyler James Leonhardt | github.copilot |
+| `github.copilot.chat.githubMcpServer.toolsets` | 2025-11-20 | 207 | Tyler James Leonhardt | github.copilot |
+| `github.copilot.chat.edits.gemini3MultiReplaceString` | 2025-11-24 | 203 | Connor Peet | github.copilot |
+| `github.copilot.chat.inlineEdits.renameSymbolSuggestions` | 2025-11-24 | 203 | Benjamin Christopher Simmonds | github.copilot |
+| `github.copilot.chat.inlineChat.selectionRatioThreshold` | 2025-12-01 | 196 | Johannes Rieken | github.copilot |
+| `github.copilot.nextEditSuggestions.preferredModel` | 2025-12-02 | 195 | Ulugbek Abdullaev | github.copilot |
+| `github.copilot.chat.alternateGeminiModelFPrompt.enabled` | 2025-12-16 | 181 | Paul | github.copilot |
+| `github.copilot.chat.cli.autoCommit.enabled` | 2025-12-23 | 174 | Ladislau Szomoru | github.copilot |
+| `git.worktreeIncludeFiles` | 2026-01-09 | 157 | Ladislau Szomoru | git.worktreeIncludeFiles |
+| `github.copilot.chat.searchSubagent.enabled` | 2026-01-14 | 152 | Anisha Agarwal | github.copilot |
+| `github.copilot.chat.anthropic.toolSearchTool.enabled` | 2026-01-15 | 151 | Bhavya U | github.copilot |
+| `github.copilot.chat.agent.omitFileAttachmentContents` | 2026-01-18 | 148 | Rob Lourens | github.copilot |
+| `github.copilot.chat.inlineEdits.chatSessionContextProvider.enabled` | 2026-01-22 | 144 | Benjamin Christopher Simmonds | github.copilot |
+| `github.copilot.chat.planAgent.additionalTools` | 2026-01-22 | 144 | Harald Kirschner | github.copilot |
+| `github.copilot.chat.agent.largeToolResultsToDisk.enabled` | 2026-01-23 | 143 | Connor Peet | github.copilot |
+| `github.copilot.chat.agent.largeToolResultsToDisk.thresholdBytes` | 2026-01-23 | 143 | Connor Peet | github.copilot |
+| `github.copilot.chat.implementAgent.model` | 2026-01-25 | 141 | Eleanor Boyd | github.copilot |
+| `workbench.secondarySideBar.forceMaximized` | 2026-01-25 | 141 | Benjamin Pasero | workbench.secondarySideBar |
+| `github.copilot.chat.copilotMemory.enabled` | 2026-01-28 | 138 | Bhavya U | github.copilot |
+| `github.copilot.chat.searchSubagent.model` | 2026-01-29 | 137 | Anisha Agarwal | github.copilot |
+| `github.copilot.chat.searchSubagent.toolCallLimit` | 2026-01-29 | 137 | Anisha Agarwal | github.copilot |
+| `github.copilot.chat.switchAgent.enabled` | 2026-01-29 | 137 | SteVen Batten | github.copilot |
+| `github.copilot.chat.askAgent.additionalTools` | 2026-02-10 | 125 | Benjamin Christopher Simmonds | github.copilot |
+| `github.copilot.chat.askAgent.model` | 2026-02-10 | 125 | Benjamin Christopher Simmonds | github.copilot |
+| `github.copilot.chat.backgroundCompaction` | 2026-02-11 | 124 | Bhavya U | github.copilot |
+| `github.copilot.chat.exploreAgent.model` | 2026-02-12 | 123 | Harald Kirschner | github.copilot |
+| `github.copilot.chat.responsesApiContextManagement.enabled` | 2026-02-15 | 120 | dileepyavan | github.copilot |
+| `extensions.allowOpenInModalEditor` | 2026-02-16 | 119 | Benjamin Pasero | extensions.allowOpenInModalEditor |
+| `github.copilot.chat.anthropic.contextEditing.mode` | 2026-02-17 | 118 | Bhavya U | github.copilot |
+| `github.copilot.chat.updated53CodexPrompt.enabled` | 2026-02-17 | 118 | dileepyavan | github.copilot |
+| `github.copilot.chat.getSearchViewResultsSkill.enabled` | 2026-02-23 | 112 | Alex Ross | github.copilot |
+| `github.copilot.chat.installExtensionSkill.enabled` | 2026-02-23 | 112 | Alex Ross | github.copilot |
+| `github.copilot.chat.projectSetupInfoSkill.enabled` | 2026-02-23 | 112 | Alex Ross | github.copilot |
+| `github.copilot.nextEditSuggestions.eagerness` | 2026-03-02 | 105 | Benjamin Christopher Simmonds | github.copilot |
+| `github.copilot.chat.anthropic.toolSearchTool.mode` | 2026-03-04 | 103 | Bhavya U | github.copilot |
+| `github.copilot.chat.agentDebugLog.enabled` | 2026-03-13 | 94 | Paul | github.copilot |
+| `github.copilot.chat.agentDebugLog.fileLogging.enabled` | 2026-03-13 | 94 | Vijay Upadya | github.copilot |
+| `github.copilot.chat.agentDebugLog.fileLogging.flushIntervalMs` | 2026-03-13 | 94 | Vijay Upadya | github.copilot |
+| `github.copilot.chat.tools.viewImage.enabled` | 2026-03-13 | 94 | Rob Lourens | github.copilot |
+| `imageCarousel.explorerContextMenu.enabled` | 2026-03-13 | 94 | Tyler James Leonhardt | imageCarousel.explorerContextMenu |
+| `github.copilot.chat.conversationTranscriptLookup.enabled` | 2026-03-17 | 90 | Bhavya U | github.copilot |
+| `github.copilot.chat.debug.promptOverrideFile` | 2026-03-17 | 90 | Ross Wollman | github.copilot |
+| `workbench.browser.enableChatTools` | 2026-03-18 | 89 | Kyle Cutler | workbench.browser |
+| `github.copilot.chat.anthropic.promptCaching.extendedTtl` | 2026-03-19 | 88 | Bhavya U | github.copilot |
+| `github.copilot.chat.executionSubagent.enabled` | 2026-03-19 | 88 | Vikram Nitin | github.copilot |
+| `github.copilot.chat.executionSubagent.model` | 2026-03-19 | 88 | Vikram Nitin | github.copilot |
+| `github.copilot.chat.executionSubagent.toolCallLimit` | 2026-03-19 | 88 | Vikram Nitin | github.copilot |
+| `imageCarousel.chat.enabled` | 2026-03-20 | 87 | Tyler James Leonhardt | imageCarousel.chat |
+| `github.copilot.chat.responsesApi.promptCacheKey.enabled` | 2026-03-24 | 83 | Giuseppe Cianci | github.copilot |
+| `github.copilot.chat.gpt54ConcisePrompt.enabled` | 2026-03-26 | 81 | dileepyavan | github.copilot |
+| `github.copilot.chat.gpt54LargePrompt.enabled` | 2026-03-26 | 81 | dileepyavan | github.copilot |
+| `github.copilot.chat.workspace.maxDiffSizeBeforeUsingExternalIngest` | 2026-03-26 | 81 | Matt Bierner | github.copilot |
+| `github.copilot.chat.agentDebugLog.fileLogging.maxRetainedSessionLogs` | 2026-03-30 | 77 | Vijay Upadya | github.copilot |
+| `github.copilot.chat.agentDebugLog.fileLogging.maxSessionLogSizeMB` | 2026-03-31 | 76 | Vijay Upadya | github.copilot |
+| `github.copilot.chat.githubMcpServer.channel` | 2026-04-02 | 74 | Harald Kirschner | github.copilot |
+| `github.copilot.chat.agentHistorySummarizationInline` | 2026-04-03 | 73 | Bhavya U | github.copilot |
+| `github.copilot.chat.edits.batchReplaceStringDescriptions` | 2026-04-03 | 73 | Connor Peet | github.copilot |
+| `github.copilot.chat.debug.promptOverrideString` | 2026-04-07 | 69 | dileepyavan | github.copilot |
+| `github.copilot.chat.exploreAgent.enabled` | 2026-04-07 | 69 | Bhavya U | github.copilot |
+| `telemetry.performance.inputLatencySamplingProbability` | 2026-04-09 | 67 | Henning Dieterichs | telemetry.performance |
+| `workbench.welcomePage.experimentalOnboarding` | 2026-04-10 | 66 | Elijah King | workbench.welcomePage |
+| `github.copilot.chat.searchSubagent.thoroughnessEnabled` | 2026-04-14 | 62 | Anisha Agarwal | github.copilot |
